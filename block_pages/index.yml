@@ -1,0 +1,223 @@
+menu:
+  - text: Location
+    url: '#location'
+    highlight: false
+  - text: Calendar
+    url: '#calendar'
+    highlight: false
+  - text: Partners
+    url: '#partners'
+    highlight: true
+  - text: Contact
+    url: '#contact'
+    highlight: false
+blocks:
+  - type: hero
+    title: TRGCON 26
+    intro: >-
+      <div class="logo">
+
+      <time>Madrid. 22–24 octubre</time>
+
+      <svg width="64" height="69" viewBox="0 0 64 69" fill="none"
+      xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M42 41v23l-5 5H27l-5-5V41l5-5h10zM29 63h6V42h-6z"/>
+          <path d="M57 54V36h6.991v33H57l-6-17v17h-7V36h7zM20 39.487v8.472h-7v-6H7v21h6V57h7v6.959l-5 5H5l-5-5v-23L5 36h10.892zM19 6h-6v27H6V6H0V0h19z"/>
+          <path fill-rule="evenodd" clip-rule="evenodd" d="m36 0 5 5v9.777L37 19l4 4v9.959L34 33v-9l-3.948-4h-2.05v12.959H21V0zm-7.997 5.959V14h5.988V5.959z"/>
+          <path d="M64 3.528V12h-7V6h-6v21h6v-6h-3v-6h10v13l-5 5H49l-5-5V5l5-4.959h10.892z"/>
+      </svg>
+
+      <strong>Veintiseis</strong>
+
+      </div>
+  - type: location
+    title: Location
+    id: location
+    theme: is-light width-box box-fill
+    embed: >
+      <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23302.586624003117!2d-8.5916528831209!3d43.108227602508535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2ef47594794cff%3A0x7f2a4a9168ec7483!2sTordoia%2C%2015683%20Tordoia%2C%20A%20Coru%C3%B1a!5e0!3m2!1sgl!2ses!4v1721243828320!5m2!1sgl!2ses"
+      width="600" height="450" style="border:0;" allowfullscreen=""
+      loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    directions:
+      - title: Tordoia
+        description: '15683 Tordoia, A Coruña'
+        icon: map-pin
+      - title: Metro
+        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+        icon: train-simple
+      - title: Train
+        description: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. <span
+          class="badge" style="--bg:var(--color-secondary);--color:black">Line
+          1</span>
+        icon: train
+      - title: Taxi
+        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+        icon: taxi
+      - title: Car
+        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+        icon: car
+  - type: logos
+    title: Partners
+    id: partners
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio
+      venenatis, laoreet libero ut, lobortis ipsum. Lorem ipsum dolor sit amet,
+      consectetur adipiscing elit. Morbi at odio venenatis, laoreet libero ut,
+      lobortis ipsum.
+    size: medium
+    items:
+      - alt: Logo
+        img: /files/logos/logo.png
+        url: 'https://github.com/tarugoconf/TOP'
+      - alt: Logo
+        img: /files/logos/logo.png
+        url: 'https://github.com/tarugoconf/TOP'
+      - alt: Logo
+        img: /files/logos/logo.png
+        url: 'https://github.com/tarugoconf/TOP'
+  - type: separator
+    width: is-default
+  - type: logos
+    size: small
+    items:
+      - alt: Logo
+        img: /files/logos/logo.png
+        url: 'https://github.com/tarugoconf/TOP'
+      - alt: Logo
+        img: /files/logos/logo.png
+        url: 'https://github.com/tarugoconf/TOP'
+      - alt: Logo
+        img: /files/logos/logo.png
+        url: 'https://github.com/tarugoconf/TOP'
+  - type: separator
+    width: is-default
+  - type: people
+    title: Patreons
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio
+      venenatis, laoreet libero ut, lobortis ipsum. Lorem ipsum dolor sit amet,
+      consectetur adipiscing elit. Morbi at odio venenatis, laoreet libero ut,
+      lobortis ipsum.
+    items:
+      - name: Person
+        img: /files/people/avatar.webp
+      - name: Person
+        img: /files/people/avatar.webp
+      - name: Person
+        img: /files/people/avatar.webp
+      - name: Person
+        img: /files/people/avatar.webp
+      - name: Person
+        img: /files/people/avatar.webp
+      - name: Person
+        img: /files/people/avatar.webp
+  - type: separator
+    width: is-full
+  - type: faq
+    title: FAQ
+    theme: is-light width-box box-fill
+    questions:
+      - question: Question 1
+        answer: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio
+          venenatis, laoreet libero ut, lobortis ipsum. Lorem ipsum dolor sit
+          amet, consectetur adipiscing elit. Morbi at odio venenatis, laoreet
+          libero ut, lobortis ipsum.
+      - question: Question 2
+        answer: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio
+          venenatis, laoreet libero ut, lobortis ipsum. Lorem ipsum dolor sit
+          amet, consectetur adipiscing elit. Morbi at odio venenatis, laoreet
+          libero ut, lobortis ipsum.
+      - question: Question 3
+        answer: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio
+          venenatis, laoreet libero ut, lobortis ipsum. Lorem ipsum dolor sit
+          amet, consectetur adipiscing elit. Morbi at odio venenatis, laoreet
+          libero ut, lobortis ipsum.
+  - type: contact
+    title: Contact
+    id: contact
+    theme: is-light width-box box-fill
+    items:
+      - title: Name
+        info: Event manager
+        links:
+          - url: 'mailto:email@example.com'
+            icon: envelope
+            text: email@example.com
+metas:
+  image: ''
+url: /
+only_state: post-event
+extra_head: |-
+  <style>
+    @scope(.block-hero-header) {
+      :scope {
+        _background: white;
+      }
+
+      h1 {
+        display: none;
+      }
+      .logo {
+        display: grid;
+        justify-content: center;
+        justify-items: center;
+        row-gap: 10px;
+      }
+      .logo::after {
+        width: 100%;
+        display: block;
+        content: "";
+        --color: var(--color-primary);
+        background: linear-gradient(
+          transparent 25%, var(--color) 25.1%, var(--color) 25.5%, transparent 25.6%,
+          transparent 28%, var(--color) 28.1%, var(--color) 28.5%, transparent 28.6%, 
+          transparent 31%, var(--color) 31.1%, var(--color) 31.5%, transparent 31.6%, 
+          transparent 34%, var(--color) 34.1%, var(--color) 35%, transparent 35.1%, 
+          transparent 37%, var(--color) 37.1%, var(--color) 38%, transparent 38.1%, 
+          transparent 41%, var(--color) 41.1%, var(--color) 42%, transparent 42.1%, 
+          transparent 46%, var(--color) 46.1%, var(--color) 47.5%, transparent 47.6%, 
+          transparent 51%, var(--color) 51.1%, var(--color) 52.5%, transparent 52.6%,
+          transparent 57%, var(--color) 57.1%, var(--color) 59%, transparent 59.1%,
+          transparent 64%, var(--color) 64.1%, var(--color) 66%, transparent 66.1%,
+          transparent 71%, var(--color) 71.1%, var(--color) 73%, transparent 73.1%,
+          transparent 78%, var(--color) 78.1%, var(--color) 81%, transparent 81.1%,
+          transparent 86%, var(--color) 86.1%, var(--color) 89%, transparent 89.1%,
+          transparent 94%, var(--color) 94.1%, var(--color) 98%, transparent 98.1%,
+          transparent 100%
+        );
+        grid-column: 1;
+        grid-row: 1 / 3;
+      }
+      time {
+        text-transform: uppercase;
+        grid-row: 1;
+        grid-column: 1;
+        font-size: clamp(1rem, 1vw, 2rem);
+        font-weight: bold;
+        letter-spacing: 0.3em;
+      }
+      strong {
+        align-self: center;
+        grid-row: 1 / 3;
+        z-index: 1;
+        grid-column: 1;
+        color: var(--color-secondary);
+        font-family: script;
+        font-size: clamp(5rem, 7vw, 8rem);
+        text-shadow: 
+          0 5px 0 var(--color-dark),
+          0 10px 0 var(--color-primary-light),
+          0 15px 10px var(--color-primary);
+      }
+      svg {
+        width: clamp(200px, 20vw, 600px);
+        height: auto;
+        grid-row: 2;
+        grid-column: 1;
+      }
+  </style>
