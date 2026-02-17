@@ -30,34 +30,6 @@ blocks:
       <strong>Veintiseis</strong>
 
       </div>
-  - type: location
-    title: Location
-    id: location
-    theme: is-light width-box box-fill
-    embed: >
-      <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23302.586624003117!2d-8.5916528831209!3d43.108227602508535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2ef47594794cff%3A0x7f2a4a9168ec7483!2sTordoia%2C%2015683%20Tordoia%2C%20A%20Coru%C3%B1a!5e0!3m2!1sgl!2ses!4v1721243828320!5m2!1sgl!2ses"
-      width="600" height="450" style="border:0;" allowfullscreen=""
-      loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    directions:
-      - title: Tordoia
-        description: '15683 Tordoia, A Coruña'
-        icon: map-pin
-      - title: Metro
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-        icon: train-simple
-      - title: Train
-        description: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. <span
-          class="badge" style="--bg:var(--color-secondary);--color:black">Line
-          1</span>
-        icon: train
-      - title: Taxi
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-        icon: taxi
-      - title: Car
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-        icon: car
   - type: logos
     title: Partners
     id: partners
@@ -113,50 +85,115 @@ blocks:
         img: /files/people/avatar.webp
       - name: Person
         img: /files/people/avatar.webp
-  - type: separator
-    width: is-full
   - type: faq
     title: FAQ
-    theme: is-light width-box box-fill
+    id: faq
+    theme: is-secondary width-box box-fill
     questions:
-      - question: Question 1
-        answer: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio
-          venenatis, laoreet libero ut, lobortis ipsum. Lorem ipsum dolor sit
-          amet, consectetur adipiscing elit. Morbi at odio venenatis, laoreet
-          libero ut, lobortis ipsum.
-      - question: Question 2
-        answer: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio
-          venenatis, laoreet libero ut, lobortis ipsum. Lorem ipsum dolor sit
-          amet, consectetur adipiscing elit. Morbi at odio venenatis, laoreet
-          libero ut, lobortis ipsum.
-      - question: Question 3
-        answer: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio
-          venenatis, laoreet libero ut, lobortis ipsum. Lorem ipsum dolor sit
-          amet, consectetur adipiscing elit. Morbi at odio venenatis, laoreet
-          libero ut, lobortis ipsum.
+      - question: ¿A quién está dirigido este evento? ¿Es para mi?
+        answer: >
+          Intentamos que la TRG sea un punto de encuentro para gente que hace
+          cosas (o que tiene ganas de hacerlas) en el sector digital. Nos
+          desvivimos para que te sientas como en casa, tanto si tienes un perfil
+          tecnológico como si trabajas en otras disciplinas.
+      - question: >-
+          Soy suscriptor/a de La Bonilista ¿tengo algún tipo de ventaja o
+          descuento?
+        answer: >
+          Pues sí. Los suscriptores de [La
+          Bonilista](https://www.bonilista.com/){target=_blank} pudistéis
+          **acceder a las entradas *early bird*, de precio reducido, un día
+          antes que el público general**. Se agotaron en 24 horas, así que, os
+          quedásteis con la mayoría :)
+      - question: "¿Qué es eso del Community Day del sábado? \U0001F389"
+        answer: >
+          Una jornada abierta, a la que podréis traer a familia, compañeros y/o
+          amigos, con un montón de actividades para grandes y pequeños.
+
+
+          Tenéis toda la info actualizada en [esta página](/community-day).
+      - question: ¿Ofrecéis ayuda para gestionar viajes y/o hoteles?
+        answer: >
+          Sí, gracias a nuestro partnership con Vyootrip, podéis reservar
+          vuestro viaje y estancia con interesantes descuentos. Tenéis más info
+          en [esta página](https://www.vyootrip.com/trgcon/){target=_blank}.
+      - question: ¿Cómo puedo estar al día de todas las noticias y novedades del evento?
+        answer: >
+          Tenemos un [Blog](https://tarugoconf.com/blog){target=_blank} donde
+          iremos colgando toda la información relevante,
+
+          pero no dejes de seguir [la cuenta en Twitter de la
+          TRG](https://twitter.com/tarugoconf){target=_blank} y,
+
+          especialmente, el hashtag
+          [#trgX](https://twitter.com/search?q=%23trgX&src=typed_query&f=live){target=_blank}.
+      - question: "¿Cuándo se podrán comprar entradas? \U0001F39F️"
+        answer: >
+          Solemos sacar las entradas a la venta en junio.
+
+
+          Avisamos con bastante antelación del día que se ponen a la venta. Los
+          suscriptores de [La
+          Bonilista](https://www.bonilista.com/){target=_blank}, eso sí, pueden
+          **acceder a las entradas *early bird* —de precio reducido— un día
+          antes que el público general**.
+      - question: Si mi empresa me paga la entrada ¿Hacéis factura?
+        answer: >
+          Por supuesto. En la TRG, lo único negro es el futuro de David Bonilla
+          como cantante.
+      - question: ¿Tenéis Código de Conducta?
+        answer: >
+          Por supuesto que tenemos [Código de
+          Conducta](https://2024.trgcon.com/codigo-de-conducta/){target=_blank}.
+      - question: Sigo teniendo dudas ¿qué hago?
+        answer: >
+          No problemo. Visita la sección de [Contacto](/#contacto) de esta misma
+          web
+
+          donde encontrarás la información necesaria para contactar con nosotros
+          por múltiples canales.
+
+          </br></br>
+
+          ¡Estaremos encantados de resolverte cualquier duda!
   - type: contact
-    title: Contact
-    id: contact
-    theme: is-light width-box box-fill
+    title: Contacto
+    id: contacto
+    theme: is-light width-full box-fill
     items:
-      - title: Name
+      - title: Candela Milán Dopico
         info: Event manager
         links:
-          - url: 'mailto:email@example.com'
+          - url: 'mailto:tarugoconf@bonillaware.com'
             icon: envelope
-            text: email@example.com
+            text: tarugoconf@bonillaware.com
+          - url: 'https://twitter.com/candelamd'
+            icon: twitter-logo
+            text: '@candelamd'
+      - title: Bonillaware SLU
+        info: 'Castellana 194, Cink Coworking<br>28046 Madrid (España)'
+        links:
+          - url: 'https://g.page/cink-coworking?share'
+            icon: map-pin
+            text: Ver mapa
+          - url: 'https://tarugoconf.slack.com'
+            icon: slack-logo
+            text: tarugoconf.slack.com
+          - url: 'https://twitter.com/tarugoconf'
+            icon: twitter-logo
+            text: '@tarugoconf'
 metas:
   image: ''
 url: /
 only_state: post-event
 extra_head: |-
   <style>
-    @scope(.block-hero-header) {
+    @scope(.block-hero) {
       :scope {
-        _background: white;
+        background: linear-gradient(var(--color-secondary), var(--color-primary)), url("/files/miami-fondo.jpg");
+        background-blend-mode: multiply;
+        background-repeat: no-repeat;
+        background-size: cover;
       }
 
       h1 {
@@ -167,29 +204,14 @@ extra_head: |-
         justify-content: center;
         justify-items: center;
         row-gap: 10px;
+        width: fit-content;
+        margin: auto;
+        padding: 20px 10px;
       }
       .logo::after {
         width: 100%;
         display: block;
         content: "";
-        --color: var(--color-primary);
-        background: linear-gradient(
-          transparent 25%, var(--color) 25.1%, var(--color) 25.5%, transparent 25.6%,
-          transparent 28%, var(--color) 28.1%, var(--color) 28.5%, transparent 28.6%, 
-          transparent 31%, var(--color) 31.1%, var(--color) 31.5%, transparent 31.6%, 
-          transparent 34%, var(--color) 34.1%, var(--color) 35%, transparent 35.1%, 
-          transparent 37%, var(--color) 37.1%, var(--color) 38%, transparent 38.1%, 
-          transparent 41%, var(--color) 41.1%, var(--color) 42%, transparent 42.1%, 
-          transparent 46%, var(--color) 46.1%, var(--color) 47.5%, transparent 47.6%, 
-          transparent 51%, var(--color) 51.1%, var(--color) 52.5%, transparent 52.6%,
-          transparent 57%, var(--color) 57.1%, var(--color) 59%, transparent 59.1%,
-          transparent 64%, var(--color) 64.1%, var(--color) 66%, transparent 66.1%,
-          transparent 71%, var(--color) 71.1%, var(--color) 73%, transparent 73.1%,
-          transparent 78%, var(--color) 78.1%, var(--color) 81%, transparent 81.1%,
-          transparent 86%, var(--color) 86.1%, var(--color) 89%, transparent 89.1%,
-          transparent 94%, var(--color) 94.1%, var(--color) 98%, transparent 98.1%,
-          transparent 100%
-        );
         grid-column: 1;
         grid-row: 1 / 3;
       }
@@ -209,6 +231,7 @@ extra_head: |-
         color: var(--color-secondary);
         font-family: script;
         font-size: clamp(5rem, 7vw, 8rem);
+        transform: rotate(-5deg);
         text-shadow: 
           0 5px 0 var(--color-dark),
           0 10px 0 var(--color-primary-light),
@@ -219,5 +242,23 @@ extra_head: |-
         height: auto;
         grid-row: 2;
         grid-column: 1;
+        mask-repeat: no-repeat;
+        mask-image: linear-gradient(
+          black 25%, transparent 25.1%, transparent 25.5%, black 25.6%,
+          black 28%, transparent 28.1%, transparent 28.5%, black 28.6%, 
+          black 31%, transparent 31.1%, transparent 31.5%, black 31.6%, 
+          black 34%, transparent 34.1%, transparent 35%, black 35.1%, 
+          black 37%, transparent 37.1%, transparent 38%, black 38.1%, 
+          black 41%, transparent 41.1%, transparent 42%, black 42.1%, 
+          black 46%, transparent 46.1%, transparent 47.5%, black 47.6%, 
+          black 51%, transparent 51.1%, transparent 52.5%, black 52.6%,
+          black 57%, transparent 57.1%, transparent 59%, black 59.1%,
+          black 64%, transparent 64.1%, transparent 66%, black 66.1%,
+          black 71%, transparent 71.1%, transparent 73%, black 73.1%,
+          black 78%, transparent 78.1%, transparent 81%, black 81.1%,
+          black 86%, transparent 86.1%, transparent 89%, black 89.1%,
+          black 94%, transparent 94.1%, transparent 98%, black 98.1%,
+          black 100%
+        );
       }
   </style>
