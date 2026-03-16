@@ -1,0 +1,32 @@
+name: Publish Site
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v4
+
+      - name: Setup Deno environment
+        uses: denoland/setup-deno@v2
+        with:
+          cache: true
+          deno-version: canary
+
+      - name: Build site
+        run: deno task build --location=https://2026.trgcon.com/
+
+      - name: Deploy to Server
+        uses: easingthemes/ssh-deploy@main
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SERVER_KEY }}
+          SOURCE: "_site/"
+          REMOTE_HOST: www.tarugoconf.com
+          REMOTE_USER: ${{ secrets.SERVER_USER }}
+          TARGET: ${{ secrets.SERVER_PATH }}
+          EXCLUDE: "/dist/, /node_modules/"
