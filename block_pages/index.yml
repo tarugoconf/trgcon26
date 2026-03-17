@@ -34,10 +34,10 @@ blocks:
     title: Partners
     id: partners
     description: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio
+      Lorem 2 ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio
       venenatis, laoreet libero ut, lobortis ipsum. Lorem ipsum dolor sit amet,
       consectetur adipiscing elit. Morbi at odio venenatis, laoreet libero ut,
-      lobortis ipsum.
+      lobortis ipsum. Jero
     size: medium
     items:
       - alt: Logo
@@ -185,7 +185,6 @@ blocks:
 metas:
   image: ''
 url: /
-only_state: post-event
 extra_head: |-
   <style>
     @scope(.block-hero) {
