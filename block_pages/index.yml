@@ -14,30 +14,67 @@ menu:
 blocks:
   - type: hero
     title: TRGCON 26
-    intro: >-
+    intro: |-
       <div class="logo">
-
       <time>Madrid. 22–24 octubre</time>
-
-      <svg width="64" height="69" viewBox="0 0 64 69" fill="none"
-      xmlns="http://www.w3.org/2000/svg">
-          <path fill-rule="evenodd" clip-rule="evenodd" d="M42 41v23l-5 5H27l-5-5V41l5-5h10zM29 63h6V42h-6z"/>
-          <path d="M57 54V36h6.991v33H57l-6-17v17h-7V36h7zM20 39.487v8.472h-7v-6H7v21h6V57h7v6.959l-5 5H5l-5-5v-23L5 36h10.892zM19 6h-6v27H6V6H0V0h19z"/>
-          <path fill-rule="evenodd" clip-rule="evenodd" d="m36 0 5 5v9.777L37 19l4 4v9.959L34 33v-9l-3.948-4h-2.05v12.959H21V0zm-7.997 5.959V14h5.988V5.959z"/>
-          <path d="M64 3.528V12h-7V6h-6v21h6v-6h-3v-6h10v13l-5 5H49l-5-5V5l5-4.959h10.892z"/>
-      </svg>
-
-      <strong>Veintiseis</strong>
-
+      <img src="/files/trgcon-veintiseis.png" alt="TRGCON Veintiseis">
       </div>
+  - type: text
+    id: intro
+    theme: width-full
+    columns: false
+    text: >-
+      Mínima intro del evento y de la décima edición en 2 o tres líneas. Lorem
+      ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum dignissim
+      lacus ipsum, eget consequat neque consequat quis.
+  - type: separator
+    width: is-invisible
+  - type: imagetext
+    title: ¿Qué te vas a encontrar?
+    id: about
+    theme: width-full
+    src: /files/miami-fondo.jpg
+    text: >-
+      La TRG es una conferencia sobre diseño, desarrollo y comercialización de
+      servicios digitales que nace alrededor de la hiperactiva Comunidad de
+      suscriptores de La Bonilista, una newsletter semanal sobre emprendimiento
+      tecnológico escrita por David Bonilla.
+
+
+      Es ante todo, un punto de encuentro para gente que «hace cosas» alrededor
+      del software, la innovación tecnológica e Internet: desarrolladores,
+      diseñadores, inversores, comerciales, gente de marketing o soporte,
+      administradores de sistemas o recruiters. Aquí nadie sobra. Todos son
+      bienvenidos.
+
+
+      Se organiza cuidando cada detalle de forma enfermiza —desde las
+      acreditaciones hasta la oferta gastronómica— para intentar transformar la
+      asistencia en una experiencia y aportar el mayor valor posible a
+      asistentes, ponentes y patrocinadores.
+  - type: vimeo
+    code: '1079153582'
+    cover: /files/video-cover.png
   - type: logos
     title: Partners
     id: partners
+    theme: width-full
     description: >-
-      Lorem 2 ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio
-      venenatis, laoreet libero ut, lobortis ipsum. Lorem ipsum dolor sit amet,
-      consectetur adipiscing elit. Morbi at odio venenatis, laoreet libero ut,
-      lobortis ipsum. Jero
+      Estas son las compañías que hacen que todo esto sea posible. Cada una de
+      estas empresas ha decidido apoyarnos para que la TRG pueda contar con una
+      mínima seguridad económica y así podamos centrarnos en ofrecer a la
+      Comunidad la calidad y el espíritu de siempre. Si quieres ser parte de
+      este esfuerzo, en esta o en la edición de 2024, [consulta nuestras
+      *awesómicas* oportunidades de
+      patrocinio](https://www.dropbox.com/scl/fi/06f7fbh2eqep3bab0vnxh/TRG24_sponsorship_deck_ES.pdf?rlkey=cz12k1c7wyxins6jv71qfjeyk&dl=0){target=_blank}
+      ¡graciñas!
+
+
+
+      [![Image](files/logos/wordpresscom_white.png){width=600}](https://wordpress.com/es/ppc/creador-de-paginas-web-wordpress/?utm_medium=referral&utm_source=TRG2025&utm_campaign=eventhomepage){target=_blank}
+
+
+      Crea, publica, y despega.
     size: medium
     items:
       - alt: Logo
@@ -50,8 +87,9 @@ blocks:
         img: /files/logos/logo.png
         url: 'https://github.com/tarugoconf/TOP'
   - type: separator
-    width: is-default
+    width: is-invisible
   - type: logos
+    theme: width-full
     size: small
     items:
       - alt: Logo
@@ -66,12 +104,16 @@ blocks:
   - type: separator
     width: is-default
   - type: people
-    title: Patreons
+    title: Mecenas
     description: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio
-      venenatis, laoreet libero ut, lobortis ipsum. Lorem ipsum dolor sit amet,
-      consectetur adipiscing elit. Morbi at odio venenatis, laoreet libero ut,
-      lobortis ipsum.
+      Estas personas han contribuido con su mecenazgo han hecho posible una
+      #TRGx MEJOR para todos los asistentes.
+
+
+      Si quieres convertirte en mecenas, participar en «el Senado» de la TRG y
+      formar parte de la toma de decisiones del evento, puedes [adquirir tu
+      entrada](/entradas) directamente o ponerte en [contacto](#contacto) con
+      nosotros. 
     items:
       - name: Person
         img: /files/people/avatar.webp
@@ -85,10 +127,40 @@ blocks:
         img: /files/people/avatar.webp
       - name: Person
         img: /files/people/avatar.webp
+  - type: separator
+    width: is-default
+  - type: pdf
+    title: Cómo patrocinar
+    theme: width-full
+    text: >-
+      En la TRG intentamos huir de la figura del «sponsor» habitual y
+      consideramos a nuestros patrocinadores verdaderos socios. Nos preocupamos
+      por entender sus objetivos y personalizamos los paquetes de patrocinio
+      para intentar alcanzarlos, trabajando mano a mano con ellos y creando
+      relaciones que perduran a lo largo de los años.
+
+
+      - Más de **1.000** asistentes a lo largo de los 3 días
+
+      - **2** días trending topic nacional
+
+      - **25** millones de impresiones en redes sociales
+
+
+      Si quieres que tu empresa sea parte de la próxima #trgX puedes mandarnos
+      un mail a [tarugoconf@bonillaware.com](mailto:tarugoconf@bonillaware.com)
+      ¡Nos encantará charlar contigo!
+    src: /files/trg25_sponsors_deck_es.pdf
+    caption: >
+      [Descarga el dosier del
+      patrocinio](/files/trg25_sponsors_deck_es.pdf){target=_blank .button}
+
+
+      [Versión en inglés](/files/trg25_sponsors_deck_en.pdf){target=_blank}
   - type: faq
     title: FAQ
     id: faq
-    theme: is-secondary width-box box-fill
+    theme: is-light width-box box-fill
     questions:
       - question: ¿A quién está dirigido este evento? ¿Es para mi?
         answer: >
@@ -159,7 +231,7 @@ blocks:
   - type: contact
     title: Contacto
     id: contacto
-    theme: is-light width-full box-fill
+    theme: width-full
     items:
       - title: Candela Milán Dopico
         info: Event manager
@@ -189,10 +261,11 @@ extra_head: |-
   <style>
     @scope(.block-hero) {
       :scope {
-        background: linear-gradient(var(--color-secondary), var(--color-primary)), url("/files/miami-fondo.jpg");
+        background: none;
+        /*background: linear-gradient(var(--color-secondary), var(--color-primary)), url("/files/miami-fondo.jpg");
         background-blend-mode: multiply;
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: cover;*/
       }
 
       h1 {
@@ -202,62 +275,30 @@ extra_head: |-
         display: grid;
         justify-content: center;
         justify-items: center;
-        row-gap: 10px;
         width: fit-content;
         margin: auto;
         padding: 20px 10px;
       }
-      .logo::after {
+      .logo img {
         width: 100%;
+        max-width: 600px;
+        height: auto;
         display: block;
         content: "";
-        grid-column: 1;
-        grid-row: 1 / 3;
       }
       time {
+        font-family: condensed;
         text-transform: uppercase;
-        grid-row: 1;
-        grid-column: 1;
-        font-size: clamp(1rem, 1vw, 2rem);
-        font-weight: bold;
-        letter-spacing: 0.3em;
+        font-size: clamp(2rem, 1vw, 2.5rem);
+        letter-spacing: 0.2em;
       }
-      strong {
-        align-self: center;
-        grid-row: 1 / 3;
-        z-index: 1;
-        grid-column: 1;
-        color: var(--color-secondary);
-        font-family: script;
-        font-size: clamp(5rem, 7vw, 8rem);
-        transform: rotate(-5deg);
-        text-shadow: 
-          0 5px 0 var(--color-dark),
-          0 10px 0 var(--color-primary-light),
-          0 15px 10px var(--color-primary);
-      }
-      svg {
-        width: clamp(200px, 20vw, 600px);
-        height: auto;
-        grid-row: 2;
-        grid-column: 1;
-        mask-repeat: no-repeat;
-        mask-image: linear-gradient(
-          black 25%, transparent 25.1%, transparent 25.5%, black 25.6%,
-          black 28%, transparent 28.1%, transparent 28.5%, black 28.6%, 
-          black 31%, transparent 31.1%, transparent 31.5%, black 31.6%, 
-          black 34%, transparent 34.1%, transparent 35%, black 35.1%, 
-          black 37%, transparent 37.1%, transparent 38%, black 38.1%, 
-          black 41%, transparent 41.1%, transparent 42%, black 42.1%, 
-          black 46%, transparent 46.1%, transparent 47.5%, black 47.6%, 
-          black 51%, transparent 51.1%, transparent 52.5%, black 52.6%,
-          black 57%, transparent 57.1%, transparent 59%, black 59.1%,
-          black 64%, transparent 64.1%, transparent 66%, black 66.1%,
-          black 71%, transparent 71.1%, transparent 73%, black 73.1%,
-          black 78%, transparent 78.1%, transparent 81%, black 81.1%,
-          black 86%, transparent 86.1%, transparent 89%, black 89.1%,
-          black 94%, transparent 94.1%, transparent 98%, black 98.1%,
-          black 100%
-        );
-      }
+    }
+    .ly-blocks {
+      background-image: linear-gradient(
+        to bottom,
+        oklch(0.10 0.05 345) 30vh,
+        oklch(0.60 0.16 345),
+        oklch(0.65 0.16 234)
+      );
+    }
   </style>

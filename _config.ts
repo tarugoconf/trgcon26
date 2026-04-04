@@ -9,7 +9,7 @@ site.use(top())
   .use(googleFonts({
     cssFile: "styles/theme.css",
     fonts: {
-      script: "https://fonts.google.com/share?selection.family=Yellowtail"
+      condensed: "https://fonts.google.com/share?selection.family=Antonio:wght@100..700"
     },
   }))
 

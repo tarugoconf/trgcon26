@@ -1,5 +1,5 @@
 title_suffix: TOP event
-menu_style: float
+menu_style: flexible
 metas:
   title: =title
   site: TRGCON 24
@@ -24,3 +24,4 @@ footer:
       href: /privacy/
     - text: Code of conduct
       href: /code-of-conduct/
+menu_theme: is-dark
