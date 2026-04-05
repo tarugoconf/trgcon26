@@ -29,11 +29,13 @@ blocks:
       lacus ipsum, eget consequat neque consequat quis.
   - type: separator
     width: is-invisible
-  - type: imagetext
+  - type: carouseltext
     title: ¿Qué te vas a encontrar?
     id: about
     theme: width-full
-    src: /files/miami-fondo.jpg
+    carousel:
+      - src: /files/miami-fondo.jpg
+      - src: /files/hero.jpg
     text: >-
       La TRG es una conferencia sobre diseño, desarrollo y comercialización de
       servicios digitales que nace alrededor de la hiperactiva Comunidad de
@@ -261,11 +263,16 @@ extra_head: |-
   <style>
     @scope(.block-hero) {
       :scope {
-        background: none;
-        /*background: linear-gradient(var(--color-secondary), var(--color-primary)), url("/files/miami-fondo.jpg");
-        background-blend-mode: multiply;
+        background-image: url("/files/hero.jpg");
         background-repeat: no-repeat;
-        background-size: cover;*/
+        background-size: cover;
+        background-position: 85% bottom;
+        mask-image: linear-gradient(#000 75%, #0000);
+
+        @media (width < 800px) {
+          background-position: center bottom;
+          background-image: url("/files/hero-mobile.jpg");
+        }
       }
 
       h1 {
@@ -296,7 +303,7 @@ extra_head: |-
     .ly-blocks {
       background-image: linear-gradient(
         to bottom,
-        oklch(0.10 0.05 345) 30vh,
+        oklch(0.10 0.05 345) 800px,
         oklch(0.60 0.16 345),
         oklch(0.65 0.16 234)
       );

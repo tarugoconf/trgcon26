@@ -58,7 +58,15 @@
 }
 #about {
   color: var(--color-light);
-  img {
+  .carousel {
     mask-image: radial-gradient(closest-side, #000 50%, #0000);
+    overflow: hidden;
+  }
+  .is-current {
+    transition: transform 8s ease-in-out;
+    transform: scale(1.2);
+  }
+  .is-previous {
+    transition: transform 8s ease-in-out;
   }
 }
