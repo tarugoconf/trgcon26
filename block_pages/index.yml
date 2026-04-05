@@ -263,7 +263,7 @@ extra_head: |-
   <style>
     @scope(.block-hero) {
       :scope {
-        background-image: url("/files/hero.jpg");
+        background-image: linear-gradient(#0009, #0006), url("/files/hero.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         background-position: 85% bottom;
