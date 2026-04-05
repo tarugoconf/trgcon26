@@ -2,7 +2,7 @@
   "imports": {
     "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@3.2.2/",
     "lume/jsx-runtime": "https://cdn.jsdelivr.net/gh/oscarotero/ssx@0.1.14/jsx-runtime.ts",
-    "top/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@06189fbc9b3b6a604db568c3629d0a9c14c39fc0/",
+    "top/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@ca59c703376fd73a0712b3482e54dcc14b53ba0e/",
     "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.14.16/"
   },
   "permissions": {

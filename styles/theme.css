@@ -70,3 +70,8 @@
     transition: transform 8s ease-in-out;
   }
 }
+
+/* Menú */
+body:not(.is-sticky) .navbar-flexible {
+  background: linear-gradient(to bottom, #0006, transparent) no-repeat;
+}
