@@ -55,8 +55,9 @@ blocks:
       asistencia en una experiencia y aportar el mayor valor posible a
       asistentes, ponentes y patrocinadores.
   - type: vimeo
-    code: '1079153582'
-    cover: /files/video-cover.png
+    code: '1180454644'
+    cover: /files/thumb.jpg
+    alt: Videoresumen de la anterior edición de la TRGCON
   - type: logos
     title: Partners
     id: partners
@@ -268,10 +269,11 @@ extra_head: |-
         background-size: cover;
         background-position: 85% bottom;
         mask-image: linear-gradient(#000 75%, #0000);
+        padding-top: 120px;
 
         @media (width < 800px) {
           background-position: center bottom;
-          background-image: url("/files/hero-mobile.jpg");
+          background-image: linear-gradient(#0009, #0006), url("/files/hero-mobile.jpg");
         }
       }
 
