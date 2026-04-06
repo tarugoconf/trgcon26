@@ -75,3 +75,43 @@
 body:not(.is-sticky) .navbar-flexible {
   background: linear-gradient(to bottom, #0006, transparent) no-repeat;
 }
+
+#patrocinar .type-title,
+#about .type-title,
+#partners .type-title,
+#faq .type-title,
+#mecenas .type-title,
+#contacto .type-title {
+  color: transparent;
+  background-size: contain;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  height: 100px;
+  max-width: 100%;
+  transform: rotate(-3deg) translateX(-10px);
+}
+
+#patrocinar .type-title {
+  aspect-ratio: 774 / 185;
+  background-image: url(/files/rotulos/como_patrocinar.png);
+}
+#contacto .type-title {
+  aspect-ratio: 479 / 174;
+  background-image: url(/files/rotulos/contacto.png);
+}
+#faq .type-title {
+  aspect-ratio: 407 / 235;
+  background-image: url(/files/rotulos/faq.png);
+}
+#mecenas .type-title {
+  aspect-ratio: 475 / 187;
+  background-image: url(/files/rotulos/mecenas.png);
+}
+#partners .type-title {
+  aspect-ratio: 414 / 178;
+  background-image: url(/files/rotulos/partners.png);
+}
+#about .type-title {
+  aspect-ratio: 1060 / 214;
+  background-image: url(/files/rotulos/que_vas_a_encontrar.png);
+}

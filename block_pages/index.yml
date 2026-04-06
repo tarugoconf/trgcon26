@@ -108,6 +108,7 @@ blocks:
     width: is-default
   - type: people
     title: Mecenas
+    id: mecenas
     description: >-
       Estas personas han contribuido con su mecenazgo han hecho posible una
       #TRGx MEJOR para todos los asistentes.
@@ -134,6 +135,7 @@ blocks:
     width: is-default
   - type: pdf
     title: Cómo patrocinar
+    id: patrocinar
     theme: width-full
     text: >-
       En la TRG intentamos huir de la figura del «sponsor» habitual y
