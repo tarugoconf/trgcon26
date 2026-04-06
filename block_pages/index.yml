@@ -58,6 +58,7 @@ blocks:
     code: '1180454644'
     cover: /files/thumb.jpg
     alt: Videoresumen de la anterior edición de la TRGCON
+    id: video
   - type: logos
     title: Partners
     id: partners

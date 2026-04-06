@@ -115,3 +115,15 @@ body:not(.is-sticky) .navbar-flexible {
   aspect-ratio: 1060 / 214;
   background-image: url(/files/rotulos/que_vas_a_encontrar.png);
 }
+
+#video {
+  background: none;
+
+  top-vimeo {
+    max-width: min(800px, 90vw);
+    margin: auto;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: -1em 1em var(--color-primary);
+  }
+}
