@@ -135,7 +135,7 @@ blocks:
   - type: separator
     width: is-default
   - type: pdf
-    title: Cómo patrocinar
+    title: Cómo Patrocinar
     id: patrocinar
     theme: width-full
     text: >-
@@ -164,7 +164,7 @@ blocks:
 
       [Versión en inglés](/files/trg25_sponsors_deck_en.pdf){target=_blank}
   - type: faq
-    title: FAQ
+    title: Preguntas frecuentes
     id: faq
     theme: is-light width-box box-fill
     questions:

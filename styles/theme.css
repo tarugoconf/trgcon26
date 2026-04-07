@@ -82,38 +82,48 @@ body:not(.is-sticky) .navbar-flexible {
 #faq .type-title,
 #mecenas .type-title,
 #contacto .type-title {
-  color: transparent;
-  background-size: contain;
-  background-position: 0 0;
-  background-repeat: no-repeat;
-  height: 100px;
-  max-width: 100%;
-  transform: rotate(-3deg) translateX(-10px);
+  --color-shadow: #e338f0;
+  --color-stroke: currentColor;
+  --blur: 10px;
+  font-family: Script;
+  line-height: .75;
+  margin-bottom: 40px;
+  font-size: 90px;
+  transform: rotate(-3deg);
+  font-weight: normal;
+  color: white;
+  letter-spacing: 0;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: var(--color-stroke);
+  text-shadow:
+    -2px 2px 0 var(--color-shadow),
+    2px -2px 0 var(--color-shadow),
+    2px 2px 0 var(--color-shadow),
+    -2px -2px 0 var(--color-shadow),
+    -2px 2px var(--blur) var(--color-shadow),
+    2px -2px var(--blur) var(--color-shadow),
+    2px 2px var(--blur) var(--color-shadow),
+    -2px -2px var(--blur) var(--color-shadow)
+    ;
 }
 
 #patrocinar .type-title {
-  aspect-ratio: 774 / 185;
-  background-image: url(/files/rotulos/como_patrocinar.png);
+  --color-shadow: #005a73;
+  --color-stroke: #60d5e7;
 }
 #contacto .type-title {
-  aspect-ratio: 479 / 174;
-  background-image: url(/files/rotulos/contacto.png);
 }
 #faq .type-title {
-  aspect-ratio: 407 / 235;
-  background-image: url(/files/rotulos/faq.png);
+  --color-shadow: #e338f0;
 }
 #mecenas .type-title {
-  aspect-ratio: 475 / 187;
-  background-image: url(/files/rotulos/mecenas.png);
+  --color-shadow: #005a73;
+  --color-stroke: #60d5e7;
 }
 #partners .type-title {
-  aspect-ratio: 414 / 178;
-  background-image: url(/files/rotulos/partners.png);
 }
 #about .type-title {
-  aspect-ratio: 1060 / 214;
-  background-image: url(/files/rotulos/que_vas_a_encontrar.png);
+  max-width: 400px;
 }
 
 #video {
