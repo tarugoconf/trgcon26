@@ -48,13 +48,21 @@
   /* font-family: condensed; */
 }
 
-#intro .type-txt {
-  text-align: center;
-  font-size: var(--font-4-size);
-  letter-spacing: var(--font-4-spacing);
-  font-weight: var(--font-weight-bold);
-  color: var(--color-light);
-  padding-inline: 1rem;
+#intro {
+  background-image: url("/files/elementos/triangulo_cyan.png");
+  background-repeat: no-repeat;
+  background-position: 66% center;
+  background-size: contain;
+
+  .type-txt {
+    text-align: center;
+    font-size: var(--font-4-size);
+    letter-spacing: var(--font-4-spacing);
+    font-weight: var(--font-weight-bold);
+    color: var(--color-light);
+    padding-inline: 1rem;
+    mix-blend-mode: difference;
+  }
 }
 #about {
   color: var(--color-light);
@@ -107,11 +115,56 @@ body:not(.is-sticky) .navbar-flexible {
     ;
 }
 
-#patrocinar .type-title {
-  --color-shadow: #005a73;
-  --color-stroke: #60d5e7;
+#contacto {
+  background-image: url("/files/elementos/textura.png");
+  background-repeat: no-repeat;
+  background-size: 600px auto;
+  background-position-x: right calc(50vw + 350px);
 }
-#contacto .type-title {
+
+
+
+#patrocinar {
+  position: relative;
+
+  &::after {
+    content: "";
+    display: block;
+    width: 120px;
+    height: 120px;
+    background: url("/files/elementos/disco.png") no-repeat;
+    background-size: contain;
+    position: absolute;
+    transform: rotate(-10deg);
+    top: -160px;
+    right: min(50% + 500px, 100vw - 150px);
+    z-index: 2;
+  }
+
+  .type-title {
+    --color-shadow: #005a73;
+    --color-stroke: #60d5e7;
+  }
+}
+#mecenas {
+  position: relative;
+  padding-top: 100px;
+  /* background: url("/files/elementos/textura-grande.png");
+  background-repeat: no-repeat;
+  background-position: 1000px 0; */
+
+  &::before {
+    content: "";
+    display: block;
+    background: url("/files/elementos/ferrari.png") no-repeat;
+    background-size: contain;
+    position: absolute;
+    top: -80px;
+    width: min(420px, 100%);
+    height: 120px;
+    right: calc(50% - 60px);
+    z-index: 2;
+  }
 }
 #faq .type-title {
   --color-shadow: #e338f0;
@@ -120,20 +173,43 @@ body:not(.is-sticky) .navbar-flexible {
   --color-shadow: #005a73;
   --color-stroke: #60d5e7;
 }
-#partners .type-title {
-}
 #about .type-title {
   max-width: 400px;
 }
 
 #video {
   background: none;
+  position: relative;
 
   top-vimeo {
-    max-width: min(800px, 90vw);
+    width: min(800px, 90vw);
     margin: auto;
     border-radius: 20px;
     overflow: hidden;
-    box-shadow: -1em 1em var(--color-primary);
+    box-shadow: 0 0 50px #e338f0;
+  }
+
+  &::after {
+    content: "";
+    display: block;
+    width: 150px;
+    height: 150px;
+    background: url("/files/elementos/vhs.png") no-repeat;
+    background-size: contain;
+    position: absolute;
+    top: -2rem;
+    left: min(50% + 300px, 100vw - 175px);
+    z-index: 2;
+  }
+  &:has(iframe:hover)::after {
+    animation: playing .25s infinite alternate ease-in;
+  }
+}
+@keyframes playing {
+  from {
+    transform: translateY(-10px) scale(1.05);
+  }
+  to {
+    transform: translateY(5px);
   }
 }
