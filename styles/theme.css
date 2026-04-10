@@ -85,7 +85,6 @@ body:not(.is-sticky) .navbar-flexible {
 }
 
 #patrocinar .type-title,
-#about .type-title,
 #partners .type-title,
 #faq .type-title,
 #mecenas .type-title,
@@ -112,6 +111,42 @@ body:not(.is-sticky) .navbar-flexible {
     2px -2px var(--blur) var(--color-shadow),
     2px 2px var(--blur) var(--color-shadow),
     -2px -2px var(--blur) var(--color-shadow)
+    ;
+}
+
+#about svg {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+
+  filter:
+    drop-shadow(-2px 2px 0 #005272)
+    drop-shadow(0 0 4px #e338f0)
+    drop-shadow(0 0 6px #e338f0)
+    ;
+}
+
+#partners svg {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+
+  filter:
+    drop-shadow(-2px 2px 0 #005272)
+    drop-shadow(0 0 6px #e338f0)
+    drop-shadow(0 0 6px #e338f0)
+    ;
+}
+
+#patrocinar svg {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+
+  filter:
+    drop-shadow(-2px 2px 0 #005272)
+    drop-shadow(0 0 6px #e338f0)
+    drop-shadow(0 0 6px #e338f0)
     ;
 }
 
@@ -172,9 +207,6 @@ body:not(.is-sticky) .navbar-flexible {
 #mecenas .type-title {
   --color-shadow: #005a73;
   --color-stroke: #60d5e7;
-}
-#about .type-title {
-  max-width: 400px;
 }
 
 #video {
