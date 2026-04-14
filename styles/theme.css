@@ -84,40 +84,9 @@ body:not(.is-sticky) .navbar-flexible {
   background: linear-gradient(to bottom, #0006, transparent) no-repeat;
 }
 
-#patrocinar .type-title,
-#partners .type-title,
-#faq .type-title,
-#mecenas .type-title,
-#contacto .type-title {
-  --color-shadow: #e338f0;
-  --color-stroke: currentColor;
-  --blur: 10px;
-  font-family: Script;
-  line-height: .75;
-  margin-bottom: 40px;
-  font-size: 90px;
-  transform: rotate(-3deg);
-  font-weight: normal;
-  color: white;
-  letter-spacing: 0;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: var(--color-stroke);
-  text-shadow:
-    -2px 2px 0 var(--color-shadow),
-    2px -2px 0 var(--color-shadow),
-    2px 2px 0 var(--color-shadow),
-    -2px -2px 0 var(--color-shadow),
-    -2px 2px var(--blur) var(--color-shadow),
-    2px -2px var(--blur) var(--color-shadow),
-    2px 2px var(--blur) var(--color-shadow),
-    -2px -2px var(--blur) var(--color-shadow)
-    ;
-}
-
 #about svg {
   display: block;
-  max-width: 100%;
-  margin: auto;
+  max-width: min(100%, 550px);
 
   filter:
     drop-shadow(-2px 2px 0 #005272)
@@ -128,8 +97,21 @@ body:not(.is-sticky) .navbar-flexible {
 
 #partners svg {
   display: block;
-  max-width: 100%;
+  max-width: min(100%, 350px);
   margin: auto;
+  fill: white;
+
+  filter:
+    drop-shadow(-2px 2px 0 #005272)
+    drop-shadow(0 0 6px #e338f0)
+    drop-shadow(0 0 6px #e338f0)
+    ;
+}
+
+#mecenas svg {
+  display: block;
+  max-width: min(100%, 275px);
+  fill: white;
 
   filter:
     drop-shadow(-2px 2px 0 #005272)
@@ -140,8 +122,8 @@ body:not(.is-sticky) .navbar-flexible {
 
 #patrocinar svg {
   display: block;
-  max-width: 100%;
-  margin: auto;
+  max-width: min(100%, 500px);
+  fill: white;
 
   filter:
     drop-shadow(-2px 2px 0 #005272)
@@ -150,11 +132,27 @@ body:not(.is-sticky) .navbar-flexible {
     ;
 }
 
-#contacto {
-  background-image: url("/files/elementos/textura.png");
-  background-repeat: no-repeat;
-  background-size: 600px auto;
-  background-position-x: right calc(50vw + 350px);
+#faq svg {
+  display: block;
+  max-width: min(100%, 175px);
+  fill: white;
+
+  filter:
+    drop-shadow(-2px 2px 0 #005272)
+    drop-shadow(0 0 6px #e338f0)
+    drop-shadow(0 0 6px #e338f0)
+    ;
+}
+#contacto .type-title svg {
+  display: block;
+  max-width: min(100%, 250px);
+  fill: white;
+
+  filter:
+    drop-shadow(-2px 2px 0 #005272)
+    drop-shadow(0 0 6px #e338f0)
+    drop-shadow(0 0 6px #e338f0)
+    ;
 }
 
 
