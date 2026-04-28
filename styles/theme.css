@@ -251,9 +251,21 @@ body:not(.is-sticky) .navbar-flexible {
 
 .footer {
   background-image:
-    linear-gradient(var(--color-primary), transparent 25%),
-    url("/files/footer.jpg");
+    linear-gradient(var(--color-primary), transparent 50%),
+    url("/files/footer.webp");
   background-repeat: no-repeat;
   background-size: 100% auto;
   aspect-ratio: 1937 / 822;
+  background-position: center bottom;
+
+  @media (width < 750px) {
+    background-image:
+      linear-gradient(var(--color-primary) 25%, transparent),
+      url("/files/footer.webp");
+  }
+  @media (width < 550px) {
+    background-image:
+      linear-gradient(var(--color-primary) 50%, transparent),
+      url("/files/footer.webp");
+  }
 }
