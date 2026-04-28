@@ -248,3 +248,12 @@ body:not(.is-sticky) .navbar-flexible {
     transform: translateY(5px);
   }
 }
+
+.footer {
+  background-image:
+    linear-gradient(var(--color-primary), transparent 25%),
+    url("/files/footer.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  aspect-ratio: 1937 / 822;
+}
