@@ -24,9 +24,8 @@ blocks:
     theme: width-full
     columns: false
     text: >-
-      Mínima intro del evento y de la décima edición en 2 o tres líneas. Lorem
-      ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum dignissim
-      lacus ipsum, eget consequat neque consequat quis.
+      Parece que una nube gris de miedo e incertidumbre ha cubierto el sector
+      tecnológico. La inteligencia artificial nos permite llevar la informática.
   - type: separator
     width: is-invisible
   - type: carouseltext
@@ -186,8 +185,9 @@ blocks:
     id: about
     theme: width-full
     carousel:
-      - src: /files/miami-fondo.jpg
-      - src: /files/hero.jpg
+      - src: /files/20251024_TRGCONx_064.jpg
+      - src: /files/20251024_TRGCONx_006p.jpg
+      - src: /files/1761645488656.jpeg
     text: >-
       La TRG es una conferencia sobre diseño, desarrollo y comercialización de
       servicios digitales que nace alrededor de la hiperactiva Comunidad de
@@ -245,6 +245,9 @@ blocks:
       - alt: Logo
         img: /files/logos/logo.png
         url: 'https://github.com/tarugoconf/TOP'
+      - alt: Logo
+        img: /files/logos/logo.png
+        url: 'https://github.com/tarugoconf/TOP'
   - type: separator
     width: is-invisible
   - type: logos
@@ -255,10 +258,7 @@ blocks:
         img: /files/logos/logo.png
         url: 'https://github.com/tarugoconf/TOP'
       - alt: Logo
-        img: /files/logos/logo.png
-        url: 'https://github.com/tarugoconf/TOP'
-      - alt: Logo
-        img: /files/logos/logo.png
+        img: /files/logos/Marca Madrid Innovation + ayto-blanco.png
         url: 'https://github.com/tarugoconf/TOP'
   - type: separator
     width: is-default
