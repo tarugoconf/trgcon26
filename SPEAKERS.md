@@ -126,17 +126,53 @@ Materiales e información que puede ayudar a los speakers a entender mejor la fi
 
 <details>
  <summary>¿Qué tipo de audiencia me voy a encontrar?</summary>
-  <p><br/>A la TRG acuden cerca de 1.000 profesionales del sector tecnológico (CEOs, CTOs, VCs, desarrolladores, diseñadores, marketers…) con más de 10 años de experiencia de media..</p>
+  <p><br/>A la TRG acuden cerca de 1.000 profesionales del sector tecnológico (CEOs, CTOs, VCs, desarrolladores, diseñadores, marketers…) con más de 10 años de experiencia de media.<ber/><br/>Es decir, que vas a tener una audiencia compuesta por un 50% de técnicos y otro 50% que no lo es... y esa es la gracia :)</p>
+</details>
+<details>
+ <summary>¿Cómo debo diseñar mi charla?</summary>
+  <p><br/>TBD</p>
+</details>
+<details>
+ <summary>¿Cómo se va a proyectar mi charla?</summary>
+  <p><br/>TBD</p>
+</details>
+<details>
+ <summary>¿Por qué tengo que enviar mi charla ANTES del evento?</summary>
+  <p><br/>TBD</p>
+</details>
+<details>
+ <summary>¿Tengo que consensuar con vosotros todo el contenido?</summary>
+  <p><br/>TBD</p>
+</details>
+<details>
+ <summary>¿Qué pasa si una vez que vea la grabación de mi charla no me gusta o digo algo que en realidad no debería haber dicho?</summary>
+  <p><br/>TBD</p>
+</details>
+<details>
+ <summary>¿Puedo promocionar mi empresa?</summary>
+  <p><br/>TBD</p>
+</details>
+<details>
+ <summary>¿Hay algo que no pueda o deba hacer durante el evento?</summary>
+  <p><br/>TBD</p>
+</details>
+<details>
+ <summary>¿Debo ir los tres días del evento?</summary>
+  <p><br/>TBD</p>
+</details>
+<details>
+ <summary>¿Y si me da pereza porque no conozco a nadie?</summary>
+  <p><br/>TBD</p>
 </details>
 <details>
  <summary>¿No hay <em>call for papers</em>?</summary>
-  <p><br/>Pues no. Todos los ponentes son invitados por la organización, pero si conoces a alguien que crees que puede aportar muchísimo al evento, por favor escríbenos a <a href="mailto:tarugoconf@bonillaware.com" target="_blank">tarugoconf AT bonillaware DOT com</a> ¡incluso aunque ese _alguién_ seas tú!</p>
+  <p><br/>Pues no. Todos los ponentes son invitados por la organización, pero si conoces a alguien que crees que puede aportar muchísimo al evento, por favor escríbenos a <a href="mailto:tarugoconf@bonillaware.com" target="_blank">tarugoconf AT bonillaware DOT com</a> ¡incluso aunque ese <i>alguién</i> seas tú!</p>
 </details>
 
 <br/>
 
 ## ☎️ Contacto
 
-La coordinación de speakers está a cargo de [@david_bonilla](https://twitter.com/david_bonilla). La parte logística (transporte, alojamiento, acreditaciones, pagos...) la gestiona [@candelamd](https://twitter.com/candelamd) y el *call for papers* está organizado por [@jerolba](https://twitter.com/jerolba) e [@ydarias](https://twitter.com/ydarias).
+La coordinación de speakers está a cargo de [@david_bonilla](https://twitter.com/david_bonilla). La parte logística (transporte, alojamiento, acreditaciones, pagos...).
 
-En cualquier caso, si tenéis cualquier duda o pregunta, podéis contactar con el equipo en [tarugoconf@bonillaware.com](mailto:tarugoconf@bonillaware.com) :email:
+En cualquier caso, si tenéis cualquier duda o pregunta, podéis contactar con el equipo en [tarugoconf AT bonillaware DOT com](mailto:tarugoconf@bonillaware.com) :email:
