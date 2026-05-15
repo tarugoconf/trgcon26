@@ -10,7 +10,7 @@
 
 </div>
 
-![El auditorio de la TRG](img/speakers/escenario.jpg)
+![El auditorio de la TRG](img/speakers/escenario_trgx.jpeg)
 
 Ser ponente de la TRG es una experiencia diferente. Empezando porque, hasta ahora, **la única forma de convertirte en uno/a de ellos es mediante invitación** y terminando porque te proponderemos el tema sobre el que vas a hablar para que tú puedas desarrollarlo :)
 
