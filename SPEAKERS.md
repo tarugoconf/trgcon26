@@ -22,7 +22,7 @@ Si aceptas nuestra invitación, nos reuniremos para explicarte nuestra idea y co
 
 <div align="center">
  
-![Timeline de Speakers](img/speakers/timeline_trg24.png)
+![Timeline de Speakers](img/speakers/timeline_trg26.png)
 
 </div>
 
