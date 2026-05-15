@@ -125,9 +125,12 @@ Materiales e información que puede ayudar a los speakers a entender mejor la fi
 ## ❓ FAQ
 
 <details>
+ <summary>¿Qué tipo de audiencia me voy a encontrar?</summary>
+  <p><br/>A la TRG acuden cerca de 1.000 profesionales del sector tecnológico (CEOs, CTOs, VCs, desarrolladores, diseñadores, marketers…) con más de 10 años de experiencia de media..</p>
+</details>
+<details>
  <summary>¿No hay <em>call for papers</em>?</summary>
-  <p><br/>Pues, hasta ahora, no. Todos los ponentes han sido invitados por la organización, pero este año <b>hemos reservado una de las charlas</b> para propuestas de la Comunidad. Si te animas, puedes enviar la tuya <a href="https://docs.google.com/forms/d/1d6ouzdXtsfQ4DVrXIH_07LAbkvWud-KcS-sLqr4XNnU/viewform?edit_requested=true" target="_blank">aquí</a>.</p>
-
+  <p><br/>Pues no. Todos los ponentes son invitados por la organización, pero si conoces a alguien que crees que puede aportar muchísimo al evento, por favor escríbenos a <a href="mailto:tarugoconf@bonillaware.com" target="_blank">tarugoconf AT bonillaware DOT com</a> ¡incluso aunque ese _alguién_ seas tú!</p>
 </details>
 
 <br/>
