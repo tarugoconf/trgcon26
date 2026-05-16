@@ -150,6 +150,76 @@ body:not(.is-sticky) .navbar-flexible {
     drop-shadow(0 0 6px #FF8EBE)
     ;
 }
+#speakers svg {
+  display: block;
+  max-width: min(100%, 300px);
+  margin: auto;
+  fill: white;
+
+  filter:
+    drop-shadow(-2px 2px 0 #005272)
+    drop-shadow(0 0 6px #FF8EBE)
+    drop-shadow(0 0 6px #FF8EBE)
+    ;
+}
+#agenda svg {
+  display: block;
+  max-width: min(100%, 300px);
+  margin: auto;
+  fill: white;
+
+  filter:
+    drop-shadow(-2px 2px 0 #005272)
+    drop-shadow(0 0 6px #FF8EBE)
+    drop-shadow(0 0 6px #FF8EBE)
+    ;
+}
+.event-list {
+  .event {
+    --background: #FF8EBE;
+    --rotate: -2deg;
+    --scale: 1;
+
+    border-radius: 2px;
+
+    &:nth-child(2n) {
+      --background: #64f5f0;
+      --rotate: 1deg;
+    }
+    &:nth-child(3n) {
+      --background: #f9ff8e;
+      --rotate: -1deg;
+    }
+    &:nth-child(4n) {
+      --background: #8eff99;
+    }
+    &:hover {
+      --rotate: 0deg;
+      --scale: 1.1;
+    }
+    & summary:hover {
+      background-color: transparent;
+    }
+  }
+  .event-header .event-title {
+    width: fit-content;
+    background-color: var(--background);
+    padding: 4px 8px;
+    border-radius: 1px;
+    box-shadow: -3px 3px color-mix(in srgb, var(--background), black 40%);
+    transform: rotate(var(--rotate)) scale(var(--scale));
+    transition: transform 200ms;
+  }
+  .event-header .event-subtitle {
+    width: fit-content;
+    background-color: color-mix(in srgb, var(--background), white 50%);
+    padding: 4px 8px;
+    border-radius: 1px;
+    box-shadow: -2px 2px color-mix(in srgb, var(--background), black 40%);
+    transform: rotate(calc(var(--rotate) * 2)) scale(var(--scale));
+    transition: transform 200ms;
+  }
+}
 #contacto {
   --color-text: white;
   --color-links: white;

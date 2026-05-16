@@ -776,6 +776,7 @@ blocks:
     description: |
       El «speaker» o ponente de la Tarugoconf no nace, **SE HACE**. Estos
       son los awesómicos invitados con los que contaremos este año:
+    id: speakers
     theme: width-full
     speakers:
       - name: Sonny Crockett
