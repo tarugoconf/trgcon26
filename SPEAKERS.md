@@ -36,7 +36,6 @@ Si lo deseas, te ayudaremos con el *storytelling* y el diseño de la presentaci�
 - **1** solo track
 - **30** minutos de charla
 - **+15** de Q&A
-- **Sketchnoting** en directo
 - **Control** de difusión audiovisual
 
 
