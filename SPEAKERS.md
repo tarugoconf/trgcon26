@@ -125,47 +125,47 @@ Materiales e información que puede ayudar a los speakers a entender mejor la fi
 ## ❓ FAQ
 
 <details>
- <summary>¿Qué tipo de audiencia me voy a encontrar?</summary>
-  <p><br/>A la TRG acuden cerca de 1.000 profesionales del sector tecnológico (CEOs, CTOs, VCs, desarrolladores, diseñadores, marketers…) con más de 10 años de experiencia de media.<ber/><br/>Es decir, que vas a tener una audiencia compuesta por un 50% de técnicos y otro 50% que no lo es... y esa es la gracia :)</p>
+ <summary><b>¿Qué tipo de audiencia me voy a encontrar?</b></summary>
+  <p><br/>A la TRG acuden cerca de 1.000 profesionales del sector tecnológico (CEOs, CTOs, VCs, desarrolladores, diseñadores, marketers…) con más de 10 años de experiencia de media.<ber/><br/><br/>Es decir, que vas a tener una audiencia compuesta por un 50% de técnicos y otro 50% que no lo es... y esa es la gracia :)</p>
 </details>
 <details>
- <summary>¿Cómo debo diseñar mi charla?</summary>
-  <p><br/>TBD</p>
+ <summary><b>¿Cómo se va a proyectar mi charla?</b></summary>
+  <p><br/>Tu charla se proyectará en una pantalla de unos 30m2, con formato 16:9, que estará detrás de ti.<br/><br/>Delante de ti, en el escenario, tendrás dos monitores para poder ver el tiempo que llevas hablando y tanto la diapositiva que tienes detrás como la siguiente que va a salir.<br/><br/>Estarás microfonado con un un micro de diadema que te permitirá tener las manos libres y te daremos un mando industrial que te permitirá pasar las diapositivas sin ningún tipo de interferencia.<br/><br/>No tendrás que conectar nada, solo salir al escenario y triunfar :)</p>
 </details>
 <details>
- <summary>¿Cómo se va a proyectar mi charla?</summary>
-  <p><br/>TBD</p>
+ <summary><b>¿Cómo debo diseñar mi charla?</b></summary>
+ <p><br/>Nosotros <b>montamos todo en una presentación maestra de Keynote</b>, así que, si quieres que tus diapositivas se vean EXACTAMENTE como las has diseñado, te recomendamos que uses Keynote o que las entregues en PDF, pero con este segundo formato no podrás incluir transiciones, efectos o multimedia.<br/><br/>Si no usas Apple, puedes usar Keynote y haremos todo lo posible para que la presentación quede lo más parecida a cómo la concebiste, pero.. precisamente por eso necesitamos que nos las envieís ANTES del evento.</p>
 </details>
 <details>
- <summary>¿Por qué tengo que enviar mi charla ANTES del evento?</summary>
-  <p><br/>TBD</p>
+ <summary><b>¿Por qué tengo que enviar mi charla ANTES del evento?</b></summary>
+  <p><br/>Primero, para que cuando acudas a la TRG vayas con la tranquilidad que da saber que solo debes dar tu charla y no preocuparte de nada más, pero sobre todo, <b>porque va a ir montada en un ordenador conectado al control audiovisual del auditorio</b>, así que, necesitamos algo de tiempo para integrarlo con el resto de presentaciones y asegurarnos de que todo se ve bien.</p>
 </details>
 <details>
- <summary>¿Tengo que consensuar con vosotros todo el contenido?</summary>
-  <p><br/>TBD</p>
+ <summary><b>¿Tengo que consensuar con vosotros todo el contenido?</b></summary>
+  <p><br/>¡No, no! Nosotros te ayudaremos a definir la narrativa, pulir el discurso, eliminar «ruido» o incluso afinar el diseño para que se vea bien en un auditorio grande, pero la última palabra siempre la tendrás tú.</p>
 </details>
 <details>
- <summary>¿Qué pasa si una vez que vea la grabación de mi charla no me gusta o digo algo que en realidad no debería haber dicho?</summary>
-  <p><br/>TBD</p>
+ <summary><b>¿Puedo promocionar mi empresa?</b></summary>
+  <p><br/>Pues claro ¿por qué no? Puedes llevar ropa con vuestro <i>branding</i>, o llevar <i>merchandising</i> para regalar a la gente con la que hables. Y, por supuesto, puedes mencionarla en tu charla.<br/><br/>Eso sí, si te pasas de frenada <i>marketiniana</i> (por ejemplo, poner el logo de tu empresa en TODAS las diapositivas o que el contenido vaya de lo buenos que sois en algo en vez de contar ese algo), te lo advertiremos por si quieres rectificar. No porque nos pueda molestar sino porque sabemos cómo lo va a percibir la audiencia y no va a aportarles valor ni a ellos... ni a ti.</p>
 </details>
 <details>
- <summary>¿Puedo promocionar mi empresa?</summary>
-  <p><br/>TBD</p>
+ <summary><b>¿Qué pasa si una vez que vea la grabación de mi charla no me gusta o digo algo que en realidad no debería haber dicho?</b></summary>
+  <p><br/>Antes de publicar absolutamente nada, te enviaremos un enlace privado para que puedas revisar el video tranquilamente. Si después de hacerlo no quieres publicarlo, no lo haremos. Tú mandas.</p>
 </details>
 <details>
- <summary>¿Hay algo que no pueda o deba hacer durante el evento?</summary>
-  <p><br/>TBD</p>
+ <summary><b>¿Hay algo que no pueda o deba hacer durante el evento?</b></summary>
+  <p><br/>Con que uses el sentido común y respetes a los demás, es suficiente. Tenemos un <a href="https://trgcon.com/codigo-de-conducta/" target="_blank">código de conducta</a> que así lo refleja y que debemos seguir todos los asistentes.<br/><br/>Más allá de eso, como speaker si te pediremos que tengas un teléfono cerca siempre por si tenemos que localizarte. Y que estés en al auditorio al menos media hora antes de tu charla, para que podamos microfonarte.</p>
 </details>
 <details>
- <summary>¿Debo ir los tres días del evento?</summary>
-  <p><br/>TBD</p>
+ <summary><b>¿Debo ir los tres días del evento?</b></summary>
+  <p><br/>Por supuesto que no. A ver... a nosotros nos gustaría que exprimieras el evento al MÁXIMO, pero si no puedes, no puedes.<br/><br/>Te recomendamos eso sí, que no te pierdas la cena de patrocinadores, mecenas y ponentes del jueves y que estés en el inicio de la jornada del viernes ¡Suele haber sorpresas!</p>
 </details>
 <details>
- <summary>¿Y si me da pereza porque no conozco a nadie?</summary>
-  <p><br/>TBD</p>
+ <summary><b>¿Y si me da pereza porque no conozco a nadie?</b></summary>
+  <p><br/>No te preocupes. Una persona de la organización se encarga exclusivamente de que a los speakers no os falte de nada. Eso incluye contactaros ANTES del evento —para que tengáis su contacto— y recibiros nada más llegar.<br/><br/>En la cena de patrocinadores, mecenas y ponentes conocerás a tus compañeros y a mucha, MUCHA más gente. Otra cosa no podemos asegurarte, pero que vas a tener compañía eso seguro :)</p>
 </details>
 <details>
- <summary>¿No hay <em>call for papers</em>?</summary>
+ <summary><b>¿No hay <em>call for papers</em>?</b></summary>
   <p><br/>Pues no. Todos los ponentes son invitados por la organización, pero si conoces a alguien que crees que puede aportar muchísimo al evento, por favor escríbenos a <a href="mailto:tarugoconf@bonillaware.com" target="_blank">tarugoconf AT bonillaware DOT com</a> ¡incluso aunque ese <i>alguién</i> seas tú!</p>
 </details>
 
