@@ -1,14 +1,14 @@
 menu:
-  - text: Location
+  - text: Dónde
     url: '#location'
     highlight: false
-  - text: Calendar
+  - text: Agenda
     url: '#calendar'
     highlight: false
-  - text: Partners
+  - text: Cómo patrocinar
     url: '#partners'
     highlight: true
-  - text: Contact
+  - text: FAQ
     url: '#contact'
     highlight: false
 blocks:
@@ -24,8 +24,10 @@ blocks:
     theme: width-full
     columns: false
     text: >-
-      Parece que una nube gris de miedo e incertidumbre ha cubierto el sector
-      tecnológico. La inteligencia artificial nos permite llevar la informática.
+      La IA ha supuesto una revolución para la sociedad en general y el sector
+      tecnológico en particular. En 2026, la TRG quiere ser el lugar donde
+      separar la señal del ruido y aprender lo que realmente debemos hacer para
+      seguir construyendo el futuro.
   - type: separator
     width: is-invisible
   - type: carouseltext
@@ -185,27 +187,35 @@ blocks:
     id: about
     theme: width-full
     carousel:
-      - src: /files/20251024_TRGCONx_064.jpg
+      - src: /files/20251024_TRGCONx_039.jpg
+      - src: /files/GcxSiPRWMAApJQJ.jpeg
+      - src: /files/Ff16OpFWAAIPMEO.jpeg
       - src: /files/20251024_TRGCONx_006p.jpg
+      - src: /files/20251024_TRGCONx_064.jpg
       - src: /files/1761645488656.jpeg
+      - src: /files/20251024_TRGCONx_077p.jpg
+      - src: /files/peques_pixelados2.jpg
+      - src: /files/1761645491890.jpeg
     text: >-
-      La TRG es una conferencia sobre diseño, desarrollo y comercialización de
-      servicios digitales que nace alrededor de la hiperactiva Comunidad de
-      suscriptores de La Bonilista, una newsletter semanal sobre emprendimiento
-      tecnológico escrita por David Bonilla.
-
-
-      Es ante todo, un punto de encuentro para gente que «hace cosas» alrededor
-      del software, la innovación tecnológica e Internet: desarrolladores,
-      diseñadores, inversores, comerciales, gente de marketing o soporte,
-      administradores de sistemas o recruiters. Aquí nadie sobra. Todos son
-      bienvenidos.
+      La TRG es **una conferencia sobre diseño, desarrollo y comercialización de
+      servicios digitales** que nace con el objetivo de punto de encuentro para
+      «gente que hace cosas» alrededor del software, la innovación tecnológica e
+      Internet: técnicos, diseñadores, gente de negocio, marketing u
+      operaciones. Aquí nadie sobra. Todos son bienvenidos.
 
 
       Se organiza cuidando cada detalle de forma enfermiza —desde las
       acreditaciones hasta la oferta gastronómica— para intentar transformar la
       asistencia en una experiencia y aportar el mayor valor posible a
       asistentes, ponentes y patrocinadores.
+
+
+      En esta edición, todo el contenido pivotará alrededor de la Inteligencia
+      Artificial, desde un punto de vista pragmático y absolutamente práctico.
+
+
+      Todos nos preguntamos cómo afectará la IA a nuestro trabajo. La agenda de
+      la TRG se ha diseñado para que encontremos respuestas.
   - type: vimeo
     code: '1180454644'
     cover: /files/thumb.jpg

@@ -9,7 +9,7 @@ metas:
   image: /files/img-home.png
 state: pre-event
 cta:
-  text: Get your tickets
+  text: Consigue tu entrada
   url: /tickets/
 footer:
   logo: /files/logos/logo.png
