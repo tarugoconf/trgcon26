@@ -263,12 +263,15 @@ body:not(.is-sticky) .navbar-flexible {
 body {
   overflow-x: hidden;
 }
+#location {
+  .block-location-map {
+    padding: 0;
+    background: none;
+  }
+}
 #mecenas {
   position: relative;
   padding-top: 100px;
-  /* background: url("/files/elementos/textura-grande.png");
-  background-repeat: no-repeat;
-  background-position: 1000px 0; */
 
   &::before {
     content: "";

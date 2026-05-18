@@ -221,6 +221,48 @@ blocks:
     cover: /files/thumb.jpg
     alt: Videoresumen de la anterior edición de la TRGCON
     id: video
+  - type: location
+    title: Dónde?
+    id: location
+    theme: is-primary width-box box-fill
+    embed: >-
+      <iframe width="425" height="350"
+      src="https://www.openstreetmap.org/export/embed.html?bbox=-3.698935210704804%2C40.346196601879726%2C-3.694311082363129%2C40.34874776071478&amp;layer=mapnik&amp;marker=40.34747219335924%2C-3.696623146533966"
+      style="border: 1px solid black"></iframe>
+    caption: >-
+      Las tres jornadas del evento se celebrarán íntegramente [en La
+      Nave,](https://www.lanavemadrid.com/) un awesómico espacio cubierto que
+      acogerá todas las actividades.
+    directions:
+      - title: La nave
+        description: |-
+          Calle Cifuentes 5<br>
+          28021 Madrid
+        icon: map-pin
+      - title: En metro
+        description: >-
+          A 5 minutos andando de la parada [Villaverde Bajo -
+          Cruce](https://www.metromadrid.es/es/linea/linea-3#estacion-355)
+          (Línea 3)
+        icon: train-simple
+      - title: En tren
+        description: >-
+          A 7 minutos andando de la [estación Puente
+          Alcocer](https://es.wikipedia.org/wiki/Estaci%C3%B3n_de_Puente_Alcocer)
+          (Línea C5)
+        icon: train
+      - title: En taxi
+        description: >-
+          Por teléfono: [915478200](tel:915478200)<br>
+
+
+          También puedes llamar desde [Cabify](https://cabify.com/es/pasajeros),
+          [Bold](https://bolt.eu/es-es/cities/madrid/) o
+          [Uber](https://www.uber.com/).
+        icon: taxi
+      - title: En coche
+        description: Tienes sitio de sobra para aparcar.
+        icon: car
   - type: calendar
     title: >-
       <svg aria-label="Agenda" xmlns="http://www.w3.org/2000/svg"
