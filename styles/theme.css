@@ -100,31 +100,26 @@ body:not(.is-sticky) .navbar-flexible {
   display: block;
   max-width: min(100%, 350px);
   margin: auto;
-  fill: white;
 }
 
 #mecenas svg {
   display: block;
   max-width: min(100%, 275px);
-  fill: white;
 }
 
 #patrocinar svg {
   display: block;
   max-width: min(100%, 500px);
-  fill: white;
 }
 
 #faq svg {
   display: block;
   max-width: min(100%, 175px);
-  fill: white;
 }
 #speakers svg {
   display: block;
   max-width: min(100%, 300px);
   margin: auto;
-  fill: white;
 }
 #agenda svg {
   display: block;
