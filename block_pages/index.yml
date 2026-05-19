@@ -187,15 +187,16 @@ blocks:
     id: about
     theme: width-full
     carousel:
-      - src: /files/20251024_TRGCONx_039.jpg
+      - src: /files/TRG_aitor.jpg
       - src: /files/GcxSiPRWMAApJQJ.jpeg
-      - src: /files/Ff16OpFWAAIPMEO.jpeg
+      - src: /files/TRG_pulpo2.jpeg
+      - src: /files/trg_alicandela.jpeg
       - src: /files/20251024_TRGCONx_006p.jpg
-      - src: /files/20251024_TRGCONx_064.jpg
       - src: /files/1761645488656.jpeg
       - src: /files/20251024_TRGCONx_077p.jpg
+      - src: /files/20251024_TRGCONx_136.jpg
       - src: /files/peques_pixelados2.jpg
-      - src: /files/1761645491890.jpeg
+      - src: /files/F9cIZM8WsAA_T8K.jpeg
     text: >-
       La TRG es **una conferencia sobre diseño, desarrollo y comercialización de
       servicios digitales** que nace con el objetivo de punto de encuentro para
@@ -204,14 +205,15 @@ blocks:
       operaciones. Aquí nadie sobra. Todos son bienvenidos.
 
 
-      Se organiza cuidando cada detalle de forma enfermiza —desde las
-      acreditaciones hasta la oferta gastronómica— para intentar transformar la
-      asistencia en una experiencia y aportar el mayor valor posible a
-      asistentes, ponentes y patrocinadores.
+      Se organiza cuidando cada detalle —desde las acreditaciones hasta la
+      oferta gastronómica— para intentar transformar la asistencia en una
+      experiencia y aportar el mayor valor posible a asistentes, ponentes y
+      patrocinadores.
 
 
-      En esta edición, todo el contenido pivotará alrededor de la Inteligencia
-      Artificial, desde un punto de vista pragmático y absolutamente práctico.
+      En esta edición, el contenido pivotará alrededor de la Inteligencia
+      Artificial, pero desde un punto de vista pragmático: experiencias reales
+      que los asistentes puedan aplicar en su día a día.
 
 
       Todos nos preguntamos cómo afectará la IA a nuestro trabajo. La agenda de
@@ -221,48 +223,6 @@ blocks:
     cover: /files/thumb.jpg
     alt: Videoresumen de la anterior edición de la TRGCON
     id: video
-  - type: location
-    title: Dónde?
-    id: location
-    theme: is-primary width-box box-fill
-    embed: >-
-      <iframe width="425" height="350"
-      src="https://www.openstreetmap.org/export/embed.html?bbox=-3.698935210704804%2C40.346196601879726%2C-3.694311082363129%2C40.34874776071478&amp;layer=mapnik&amp;marker=40.34747219335924%2C-3.696623146533966"
-      style="border: 1px solid black"></iframe>
-    caption: >-
-      Las tres jornadas del evento se celebrarán íntegramente [en La
-      Nave,](https://www.lanavemadrid.com/) un awesómico espacio cubierto que
-      acogerá todas las actividades.
-    directions:
-      - title: La nave
-        description: |-
-          Calle Cifuentes 5<br>
-          28021 Madrid
-        icon: map-pin
-      - title: En metro
-        description: >-
-          A 5 minutos andando de la parada [Villaverde Bajo -
-          Cruce](https://www.metromadrid.es/es/linea/linea-3#estacion-355)
-          (Línea 3)
-        icon: train-simple
-      - title: En tren
-        description: >-
-          A 7 minutos andando de la [estación Puente
-          Alcocer](https://es.wikipedia.org/wiki/Estaci%C3%B3n_de_Puente_Alcocer)
-          (Línea C5)
-        icon: train
-      - title: En taxi
-        description: >-
-          Por teléfono: [915478200](tel:915478200)<br>
-
-
-          También puedes llamar desde [Cabify](https://cabify.com/es/pasajeros),
-          [Bold](https://bolt.eu/es-es/cities/madrid/) o
-          [Uber](https://www.uber.com/).
-        icon: taxi
-      - title: En coche
-        description: Tienes sitio de sobra para aparcar.
-        icon: car
   - type: calendar
     title: >-
       <svg aria-label="Agenda" xmlns="http://www.w3.org/2000/svg"
@@ -342,90 +302,35 @@ blocks:
             description: >
               ¡Acredítate antes que nadie y evita las colas del viernes! Trae tu
               entrada, impresa o en el móvil, y recoge tu awesómico welcome pack
-              antes de disfrutar de todas las actividades y contenido de la TRG
-              ¡Bienvenidos!
+              antes de disfrutar de todas las actividades y contenido de la
+              TRG26 ¡Bienvenidos!
             speakers: []
           - time: '15:30 - 18:00h'
             title: TALLERES de patrocinadores
             id: taller-sponsors
-            subtitle: SNGULAR
+            subtitle: TBA
             description: >-
               Talleres patrocinados por nuestros sponsors, que abren a los
               asistentes de la TRG que se hagan con una de las invitaciones
               ¡Hablad con ellos!
-
-
-              * SNGULAR (con su división Tecnofor) dará un taller de «Vibe
-              Coding».
             speakers: []
           - time: '15:30 - 18:00h'
-            title: >-
-              TALLER: Herramientas y procesos para equipos de desarrollo de alto
-              rendimiento
-            id: taller-recena
-            subtitle: por Manuel Recena
-            description: "Este taller lleva TRES AÑOS CONSECUTIVOS PETÁNDOLO, así que, le hemos pedido a Manuel Recena repetirlo de nuevo... aunque el solo  quiera venir como voluntario **¿conseguiremos convencerlo entre todos? \U0001F62C**\n\nConoceremos las herramientas y procesos necesarios para **conseguir que nuestro ciclo de desarrollo de software sea lo más productivo posible**.\n\nDesde definir OKRs que nos ayuden a medir nuestro progreso hasta establecer el flujo de trabajo necesario para **conseguir que el despliegue en producción de nuestro software sea tan frecuente como ABURRIDO** —porque nunca pase nada— pasando por los radiadores de información necesarios para que todo el mundo sepa lo que está pasando en cada momento.\n\nDa igual si tu equipo de desarrollo es mejor o peor, de este taller te llevarás un montón de ideas y buenas prácticas para que sea MEJOR."
-            speakers:
-              - recena
-          - time: '15:30 - 18:00h'
-            title: >-
-              TALLER: Revoluciona tus formaciones. De «cursos» a experiencias de
-              aprendizaje
+            title: TALLERES organizados por la TRG
             id: taller-maria
-            subtitle: por María Berenguer
+            subtitle: TBA
             description: >-
-              ¿Quieres crear formaciones memorables y que las personas conecten
-              y aprendan de forma activa?
+              Los talleres de la TRG son formaciones prácticas de dos horas y
+              media, impartidas por profesionales en activo y con muchos *tiros
+              pegaos* en la materia impartida, que **te permitirán adquirir una
+              nuevo habilidad que podrás emplear inmediatamente en tu día a
+              día**.
 
 
-              Basado en neurociencia cognitiva, la **metodología Training from
-              the BACK of the Room!** propone dejar de centrar la formación en
-              quien la imparte y ponerla en manos de quienes aprenden: activar
-              su mente, hacerles practicar y aplicar para lograr un aprendizaje
-              profundo y duradero.
-
-
-              En este taller María te guiará a través del formato de diseño de
-              las 4C (Conexiones, Conceptos, Práctica Concreta y Conclusiones)
-              para **que empieces a crear desde cero las mejores formaciones o
-              mejores los que ya tengas**. Trabajarás con otras personas,
-              compartirás ideas y aprenderás herramientas que podrás aplicar de
-              inmediato.
-
-
-              ¿Qué te llevarás?
-
-              * Un primer borrador de tu formación (curso, taller, webinar,
-              workshop…), listo para seguir desarrollando tras el taller.
-
-              * Una primera aproximación a TBR, entendiendo cómo puede ayudarte
-              a diseñar sesiones más participativas y efectivas.
-
-
-              No necesitas experiencia previa en TBR; este taller está pensado
-              tanto para quienes llevan años formando como para quienes empiezan
-              ahora. Solo necesitas traer una idea de la formación que quieras
-              diseñar… ¡y muchas ganas de experimentar!
-            speakers:
-              - recena
-          - time: '15:30 - 18:00h'
-            title: 'TALLER: De técnicos a Tech Leads'
-            id: taller-felix
-            subtitle: por Félix López
-            description: >-
-              En este taller se diseccionará el rol de Tech Lead y **los
-              asistentes aprenderán no solo las responsabilidades habituales del
-              mismo, sino también las métricas, herramientas, documentación y
-              procesos que les ayudarán a alcanzarlas**.
-
-
-              Pero un taller debe ser práctico, por eso Félix os planteará
-              algunas de las situaciones y experiencias más complejas que podrás
-              encontrar como líder técnico, y así experimentar cómo se puede
-              aplicar todo lo aprendido para llevar a tu equipo al próximo
-              nivel.
-            speakers:
-              - felix
+              ¡Ojo! Los talleres no están incluidos en la entrada general de la
+              TRG26. Puedes acceder a ellos con una entrada de tipo ***Killer
+              Combo*** o adquiriendo el complemento ***Taller Práctico*** al
+              comprar tu entrada.
+            speakers: []
           - time: '18:00 - 20:00h'
             title: Networking Tarugo
             id: networking-jueves
