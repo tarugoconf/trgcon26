@@ -94,12 +94,6 @@ body:not(.is-sticky) .navbar-flexible {
 #about svg {
   display: block;
   max-width: min(100%, 550px);
-
-  filter:
-    drop-shadow(-2px 2px 0 #005272)
-    drop-shadow(0 0 4px #FF8EBE)
-    drop-shadow(0 0 6px #FF8EBE)
-    ;
 }
 
 #partners svg {
@@ -107,72 +101,35 @@ body:not(.is-sticky) .navbar-flexible {
   max-width: min(100%, 350px);
   margin: auto;
   fill: white;
-
-  filter:
-    drop-shadow(-2px 2px 0 #005272)
-    drop-shadow(0 0 6px #FF8EBE)
-    drop-shadow(0 0 6px #FF8EBE)
-    ;
 }
 
 #mecenas svg {
   display: block;
   max-width: min(100%, 275px);
   fill: white;
-
-  filter:
-    drop-shadow(-2px 2px 0 #005272)
-    drop-shadow(0 0 6px #FF8EBE)
-    drop-shadow(0 0 6px #FF8EBE)
-    ;
 }
 
 #patrocinar svg {
   display: block;
   max-width: min(100%, 500px);
   fill: white;
-
-  filter:
-    drop-shadow(-2px 2px 0 #005272)
-    drop-shadow(0 0 6px #FF8EBE)
-    drop-shadow(0 0 6px #FF8EBE)
-    ;
 }
 
 #faq svg {
   display: block;
   max-width: min(100%, 175px);
   fill: white;
-
-  filter:
-    drop-shadow(-2px 2px 0 #005272)
-    drop-shadow(0 0 6px #FF8EBE)
-    drop-shadow(0 0 6px #FF8EBE)
-    ;
 }
 #speakers svg {
   display: block;
   max-width: min(100%, 300px);
   margin: auto;
   fill: white;
-
-  filter:
-    drop-shadow(-2px 2px 0 #005272)
-    drop-shadow(0 0 6px #FF8EBE)
-    drop-shadow(0 0 6px #FF8EBE)
-    ;
 }
 #agenda svg {
   display: block;
   max-width: min(100%, 300px);
   margin: auto;
-  fill: white;
-
-  filter:
-    drop-shadow(-2px 2px 0 #005272)
-    drop-shadow(0 0 6px #FF8EBE)
-    drop-shadow(0 0 6px #FF8EBE)
-    ;
 }
 .event-list {
   .event {
