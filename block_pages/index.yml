@@ -14,11 +14,21 @@ menu:
 blocks:
   - type: hero
     title: TRGCON 26
-    intro: |-
+    intro: >-
+      <video class="video-bg" preload playsinline autoplay muted loop
+      src="/files/hero-loop.mp4"></video>
+
       <div class="logo">
+
       <time>Madrid. 22–24 octubre</time>
+
       <img src="/files/trgcon-veintiseis.png" alt="TRGCON Veintiseis">
+
       </div>
+
+      <img src="/files/forma-1.png" alt="" class="forma-1">
+
+      <img src="/files/forma-2.png" alt="" class="forma-2">
   - type: text
     id: intro
     theme: width-full
@@ -808,18 +818,11 @@ url: /
 extra_head: |-
   <style>
     @scope(.block-hero) {
-      :scope {
-        background-image: linear-gradient(#0009, #0006), url("/files/hero.webp");
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: 85% bottom;
-        mask-image: linear-gradient(#000 75%, #0000);
+      :scope {      
         padding-top: 120px;
-
-        @media (width < 800px) {
-          background-position: center bottom;
-          background-image: linear-gradient(#0009, #0006), url("/files/hero-mobile.jpg");
-        }
+        overflow: hidden;
+        position: relative;
+        background: none;
       }
 
       h1 {
@@ -832,6 +835,9 @@ extra_head: |-
         width: fit-content;
         margin: auto;
         padding: 20px 10px;
+        position: relative;
+        z-index: 2;
+        animation: logoin 1s both;
       }
       .logo img {
         width: 100%;
@@ -845,6 +851,31 @@ extra_head: |-
         text-transform: uppercase;
         font-size: clamp(2rem, 1vw, 2.5rem);
         letter-spacing: 0.1em;
+        text-shadow: -2px 2px 0 black;
+      }
+      .video-bg {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        mask-image: linear-gradient(#000 75%, #0000);
+      }
+      .forma-2,
+      .forma-1 {
+        width: 100px;
+        height: auto;
+        position: absolute;
+        z-index: 1;
+      }
+      .forma-2 {
+        top: 10%;
+        right: 33%;
+      }
+      .forma-1 {
+        bottom: 0;
+        left: 33%;
       }
     }
     .ly-blocks {
@@ -856,5 +887,15 @@ extra_head: |-
         #dafaff 90%,
         oklch(0.65 0.16 234) 95%
       );
+    }
+    @keyframes logoin {
+      from {
+        transform: scale(1.5);
+        opacity: .3;
+      }
+      to {
+        transform: scale(1);
+        opacity: 1;
+      }
     }
   </style>
