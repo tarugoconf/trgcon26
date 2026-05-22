@@ -9,8 +9,7 @@ site.use(top())
   .use(googleFonts({
     cssFile: "styles/theme.css",
     fonts: {
-      condensed: "https://fonts.google.com/share?selection.family=Antonio:wght@100..700",
-      script: "https://fonts.google.com/share?selection.family=Luxurious+Script"
+      condensed: "https://fonts.google.com/share?selection.family=Bebas+Neue"
     },
   }))
 

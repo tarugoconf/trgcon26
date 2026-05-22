@@ -10,6 +10,12 @@
   font-weight: 300 900;
   font-style: italic;
 }
+@font-face {
+    font-family: script;
+    src: url('../fonts/kalamaya_400-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
 
 :root {
   /* Colors */
@@ -26,6 +32,8 @@
   --font-family-ui: Roobert, system-ui, sans-serif;
   --font-weight-bold: 550;
   --font-weight-bolder: 650;
+  --font-3-spacing: 0;
+  --font-6-spacing: 0;
 }
 .navbar-logo {
   img {
@@ -50,9 +58,8 @@ body.is-sticky .navbar-flexible {
   opacity: .1;
 }
 
-.type-title,
-.type-subtitle {
-  /* font-family: condensed; */
+.type-title {
+  font-family: condensed;
 }
 
 #intro {
@@ -91,41 +98,6 @@ body:not(.is-sticky) .navbar-flexible {
   background: linear-gradient(to bottom, #0006, transparent) no-repeat;
 }
 
-#about svg {
-  display: block;
-  max-width: min(100%, 550px);
-}
-
-#partners svg {
-  display: block;
-  max-width: min(100%, 350px);
-  margin: auto;
-}
-
-#mecenas svg {
-  display: block;
-  max-width: min(100%, 275px);
-}
-
-#patrocinar svg {
-  display: block;
-  max-width: min(100%, 500px);
-}
-
-#faq svg {
-  display: block;
-  max-width: min(100%, 175px);
-}
-#speakers svg {
-  display: block;
-  max-width: min(100%, 300px);
-  margin: auto;
-}
-#agenda svg {
-  display: block;
-  max-width: min(100%, 300px);
-  margin: auto;
-}
 .event-list {
   .event {
     --background: #FF8EBE;
@@ -161,6 +133,8 @@ body:not(.is-sticky) .navbar-flexible {
     box-shadow: -3px 3px color-mix(in srgb, var(--background), black 40%);
     transform: rotate(var(--rotate)) scale(var(--scale));
     transition: transform 200ms;
+    font-family: condensed;
+    font-size: min(1.8rem, 4vw);
   }
   .event-header .event-subtitle {
     width: fit-content;
@@ -176,19 +150,6 @@ body:not(.is-sticky) .navbar-flexible {
   --color-text: white;
   --color-links: white;
 }
-#contacto .type-title svg {
-  display: block;
-  max-width: min(100%, 250px);
-  fill: white;
-
-  filter:
-    drop-shadow(-2px 2px 0 #005272)
-    drop-shadow(0 0 6px #FF8EBE)
-    drop-shadow(0 0 6px #FF8EBE)
-    ;
-}
-
-
 
 #patrocinar {
   position: relative;
@@ -205,11 +166,6 @@ body:not(.is-sticky) .navbar-flexible {
     top: -160px;
     right: min(50% + 500px, 100vw - 150px);
     z-index: 2;
-  }
-
-  .type-title {
-    --color-shadow: #005a73;
-    --color-stroke: #60d5e7;
   }
 }
 body {
@@ -257,14 +213,6 @@ body {
 
 #faq {
   box-shadow: -10px 10px var(--color-secondary);
-}
-#faq .type-title {
-  --color-shadow: #FF8EBE;
-  margin-left: 10px;
-}
-#mecenas .type-title {
-  --color-shadow: #005a73;
-  --color-stroke: #60d5e7;
 }
 
 #video {
@@ -380,4 +328,69 @@ body {
   transform: rotate(-3deg);
   margin: 10px 0 0 10px;
   padding-bottom: 30px;
+}
+
+#speakers,
+#partners,
+#mecenas,
+#faq,
+#patrocinar,
+#about,
+#contacto,
+#agenda {
+  .type-title {
+    font-size: min(4rem, 10vw);
+    font-weight: normal;
+    color: var(--title-color);
+    text-shadow: -4px 4px 0 color-mix(in srgb, var(--title-shadow) 50%, transparent);
+
+    span {
+      color: var(--title-accent);
+    }
+  }
+}
+
+#about {
+  --title-color: var(--color-secondary);
+  --title-shadow: var(--color-primary);
+  --title-accent: #f9ff8e;
+}
+
+#agenda {
+  padding-top: 3rem;
+  --title-color: var(--color-dark);
+  --title-shadow: var(--color-secondary);
+}
+#speakers {
+  --title-color: var(--color-dark);
+  --title-shadow: var(--color-secondary);
+
+  .type-short-bold {
+    font-family: script;
+    font-size: 2.5rem;
+  }
+}
+.speaker-modal-title .type-subtitle {
+  font-family: script;
+  font-size: 3rem;
+}
+#partners {
+  --title-color: var(--color-dark);
+  --title-shadow: var(--color-secondary);
+}
+#mecenas {
+  --title-color: var(--color-dark);
+  --title-shadow: var(--color-secondary);
+}
+#patrocinar {
+  --title-color: var(--color-dark);
+  --title-shadow: var(--color-secondary);
+}
+#faq {
+  --title-color: var(--color-dark);
+  --title-shadow: var(--color-secondary);
+}
+#contacto {
+  --title-color: var(--color-light);
+  --title-shadow: var(--color-dark);
 }
