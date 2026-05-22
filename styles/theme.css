@@ -115,7 +115,7 @@ body:not(.is-sticky) .navbar-flexible {
       --rotate: -1deg;
     }
     &:nth-child(4n) {
-      --background: #8eff99;
+      --background: #a2e9aa;
     }
     &:hover {
       --rotate: 0deg;
@@ -340,6 +340,22 @@ body {
 #agenda {
   .type-title {
     font-size: min(4rem, 10vw);
+    font-weight: normal;
+    color: var(--title-color);
+    text-shadow: -4px 4px 0 color-mix(in srgb, var(--title-shadow) 50%, transparent);
+
+    span {
+      color: var(--title-accent);
+    }
+  }
+}
+#location {
+  --title-shadow: var(--color-dark);
+  --title-color: #f9ff8e;
+
+  .type-subtitle {
+    font-family: condensed;
+    font-size: min(3rem, 7vw);
     font-weight: normal;
     color: var(--title-color);
     text-shadow: -4px 4px 0 color-mix(in srgb, var(--title-shadow) 50%, transparent);
