@@ -864,18 +864,18 @@ extra_head: |-
       }
       .forma-2,
       .forma-1 {
-        width: 100px;
+        width: clamp(100px, 10vw, 150px);
         height: auto;
         position: absolute;
         z-index: 1;
       }
       .forma-2 {
-        top: 10%;
-        right: 33%;
+        top: 15%;
+        left: calc(50% + min(300px, 25vw));
       }
       .forma-1 {
         bottom: 0;
-        left: 33%;
+        left: calc(50% - min(400px, 45vw));
       }
     }
     .ly-blocks {
