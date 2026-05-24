@@ -1,57 +1,164 @@
-url: /tickets/
+url: /entradas/
 menu:
-  - text: Home
+  - text: Portada
     url: /
     highlight: true
 blocks:
   - type: header
-    title: Get your tickets
+    title: Entradas
     description: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-      sollicitudin elementum maximus. Morbi venenatis eros sit amet ultrices
-      venenatis. Etiam id lectus lorem. Nulla porta, purus eget molestie
-      pulvinar, nulla purus vehicula sem, eget ultrices arcu felis sit amet
-      lacus.
+      La TRG se celebrará **del 23 al 25 de octubre de 2025 en La Nave
+      (Madrid)**.<br><br>Las entradas se pondrán a la venta **el 6 de julio a
+      las 11:00h GMT** (Galician Mean Time). Los suscriptores de [La
+      Bonilista](https://www.bonilista.com/){target=_blank} podrán acceder a las
+      entradas *early bird* desde ese mismo momento y, un día después, —si
+      quedán disponibles— también el público general.</br>¡Corre si no te
+      quieres quedar sin la tuya!
+
+
+      > [!note]
+
+      >
+
+      > Si trabajas **para una empresa** y quieres comprar varias entradas para
+      tus compañeros sin tener que ir UNA A UNA y con una factura o presupuesto
+      previo, escríbenos a
+      [tarugoconf@bonillaware.com](mailto:tarugoconf@bonillaware.com).
   - type: tickets
     id: tickets
+    theme: is-primary width-full box-fill
     features:
+      - id: conferences
+        text: Acceso presencial a las conferencias (3 días)
+      - id: streaming
+        text: Acceso al streaming online (2 días)
+      - id: workshop
+        text: Entrada a un taller práctico (jueves)
+      - id: dinner
+        text: 'Entrada a la cena de mecenas, patrocinadores y ponentes (jueves)'
+      - id: food
+        text: Comida y bebida ilimitada durante la jornada principal (viernes)
+      - id: party
+        text: Entrada a la fiesta (viernes)
+      - id: community_day
+        text: Acceso al Community Day (sábado)
+      - id: tshirt
+        text: Camiseta del evento
       - id: welcome_pack
         text: Welcome Pack
-      - id: streaming
-        text: Streaming access
-      - id: tshirt
-        text: Tshirt
+      - id: goodie
+        text: Goodie exclusivo para mecenas
+      - id: networking
+        text: Acceso a la plataforma de networking
+      - id: senate
+        text: Acceso al «Senado»
+      - id: photo
+        text: Foto en la web del evento (si lo desean)
+      - id: extra
+        text: 20% de descuento en talleres
     tickets:
-      - name: Type 1
-        pricing: 20€ + IVA
-        img: /files/tickets/ticket.png
+      - name: Early Bird
+        pricing: 165€ + IVA
+        img: /files/ENTRADA EARLY BIRD.png
         buy:
-          text: Buy now
-          url: "#"
+          text: Comprar
+          url: 'https://trgx.eventbrite.es'
           disabled: false
         features:
-          - welcome_pack
-      - name: Type 2
-        pricing: 30€ + IVA
-        img: /files/tickets/ticket.png
-        buy:
-          text: Buy now
-          url: "#"
-          disabled: false
-        features:
-          - welcome_pack
-          - streaming
-      - name: Type 3
-        pricing: 40€ + IVA
-        img: /files/tickets/ticket.png
-        buy:
-          text: Coming soon
-          url: "#"
-          disabled: true
-        features:
-          - welcome_pack
-          - streaming
+          - conferences
+          - food
+          - party
+          - community_day
           - tshirt
-title: Tickets
+          - welcome_pack
+          - networking
+      - name: Normal
+        pricing: 250€ + IVA
+        img: /files/ENTRADA NORMA.png
+        buy:
+          text: Comprar
+          url: 'https://trgx.eventbrite.es'
+          disabled: false
+        features:
+          - conferences
+          - food
+          - party
+          - community_day
+          - tshirt
+          - welcome_pack
+          - networking
+      - name: Killer Combo
+        pricing: 350€ + IVA
+        img: /files/ENTRADA KILLER COMBO.png
+        buy:
+          text: Comprar
+          url: 'https://trgx.eventbrite.es'
+          disabled: false
+        features:
+          - conferences
+          - workshop
+          - food
+          - party
+          - community_day
+          - tshirt
+          - welcome_pack
+          - networking
+      - name: Taller
+        pricing: 150€ + IVA
+        img: /files/ENTRADA Y TALLER.png
+        buy:
+          text: Comprar
+          url: 'https://trgx.eventbrite.es/'
+          disabled: false
+        features:
+          - workshop
+      - name: Mecenas
+        pricing: 500€ + IVA
+        img: /files/ENTRADA MECENAS.png
+        buy:
+          text: Comprar
+          url: 'https://trgx.eventbrite.es/'
+          disabled: false
+        features:
+          - conferences
+          - streaming
+          - dinner
+          - food
+          - party
+          - community_day
+          - tshirt
+          - welcome_pack
+          - goodie
+          - networking
+          - senate
+          - photo
+          - extra
+title: Entradas
 metas:
-  image: ""
+  image: ''
+theme: is-primary
+extra_head: |-
+  <style>
+    .type-header {
+      font-size: min(4rem, 10vw);
+      font-weight: normal;
+      font-family: condensed;
+      color: var(--color-dark);
+      text-shadow: -4px 4px 0 color-mix(in srgb, var(--color-light) 50%, transparent);
+    }
+    .markdown-alert {
+      background-color: var(--color-light);
+      margin-top: 2rem;
+      color: var(--color-dark);
+      box-shadow: -4px 4px 0 var(--color-secondary);
+      border-radius: 0;
+      transform: rotate(-3deg);
+      a {
+        color: inherit;
+      }
+    }
+    #tickets {
+      --color-icons: var(--color-dark);
+      --color-shadow: color-mix(in srgb, var(--color-primary) 90%, black);
+    }
+  </style>

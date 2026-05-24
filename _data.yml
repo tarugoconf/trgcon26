@@ -10,7 +10,7 @@ metas:
 state: pre-event
 cta:
   text: Consigue tu entrada
-  url: /tickets/
+  url: /entradas/
 footer:
   logo: /files/logos/logo.png
   copyright: |
