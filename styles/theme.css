@@ -257,17 +257,17 @@ body {
   &::after {
     content: "";
     display: block;
-    width: 150px;
-    height: 150px;
-    background: url("/files/elementos/vhs.png") no-repeat;
+    width: 100px;
+    height: 175px;
+    background: url("/files/elementos/VHS-caja.png") no-repeat;
     background-size: contain;
     position: absolute;
-    top: -2rem;
+    top: -3rem;
     left: min(50% + 300px, 100vw - 175px);
     z-index: 2;
   }
   &:has(iframe:hover)::after {
-    animation: playing .25s infinite alternate ease-in;
+    animation: playing 241ms infinite alternate ease-in;
   }
 }
 @keyframes playing {
