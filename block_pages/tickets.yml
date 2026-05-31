@@ -7,8 +7,8 @@ blocks:
   - type: header
     title: Entradas
     description: >
-      La TRG se celebrará **del 23 al 25 de octubre de 2025 en La Nave
-      (Madrid)**.<br><br>Las entradas se pondrán a la venta **el 6 de julio a
+      La TRG se celebrará **del 22 al 24 de octubre de 2026 en La Nave
+      (Madrid)**.<br><br>Las entradas se pondrán a la venta **el 21 de junio a
       las 11:00h GMT** (Galician Mean Time). Los suscriptores de [La
       Bonilista](https://www.bonilista.com/){target=_blank} podrán acceder a las
       entradas *early bird* desde ese mismo momento y, un día después, —si
@@ -30,26 +30,24 @@ blocks:
     features:
       - id: conferences
         text: Acceso presencial a las conferencias (3 días)
-      - id: streaming
-        text: Acceso al streaming online (2 días)
-      - id: workshop
-        text: Entrada a un taller práctico (jueves)
-      - id: dinner
-        text: 'Entrada a la cena de mecenas, patrocinadores y ponentes (jueves)'
       - id: food
         text: Comida y bebida ilimitada durante la jornada principal (viernes)
-      - id: party
-        text: Entrada a la fiesta (viernes)
+      - id: workshop
+        text: Entrada a un taller práctico (jueves)
       - id: community_day
         text: Acceso al Community Day (sábado)
       - id: tshirt
         text: Camiseta del evento
       - id: welcome_pack
         text: Welcome Pack
-      - id: goodie
-        text: Goodie exclusivo para mecenas
       - id: networking
         text: Acceso a la plataforma de networking
+      - id: party
+        text: Entrada a la fiesta (viernes)
+      - id: dinner
+        text: 'Entrada a la cena de mecenas, patrocinadores y ponentes (jueves)'
+      - id: goodie
+        text: Goodie exclusivo para mecenas
       - id: senate
         text: Acceso al «Senado»
       - id: photo

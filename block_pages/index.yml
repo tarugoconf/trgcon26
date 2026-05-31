@@ -484,42 +484,15 @@ blocks:
             speakers: []
   - type: speakers
     title: Speakers
-    description: |
-      El «speaker» o ponente de la Tarugoconf no nace, **SE HACE**. Estos
+    description: >
+      El «speaker» o ponente de la Tarugoconf no nace, **[SE
+      HACE](https://github.com/tarugoconf/trgcon26/blob/main/SPEAKERS.md){target=_blank}**.
+      Estos
+
       son los awesómicos invitados con los que contaremos este año:
     id: speakers
     theme: width-full
     speakers:
-      - name: Sonny Crockett
-        id: sonny
-        role: TBD
-        bio: TBD
-        image: /files/PONENTE 1 - serio.jpg
-        links: []
-      - name: Rico Tubbs
-        id: rico
-        role: TBD
-        bio: TBD
-        image: /files/PONENTE 5 - Serio.jpg
-        links: []
-      - name: Marty Castillo
-        id: marty
-        role: TBD
-        bio: TBD
-        image: /files/PONENTE 3 - serio.jpg
-        links: []
-      - name: Gina Navarro
-        id: gina
-        role: TBD
-        bio: TBD
-        image: /files/PONENTE 6 - serio.jpg
-        links: []
-      - name: Big Botty
-        id: big
-        role: TBD
-        bio: TBD
-        image: /files/PONENTE 2 - serio.jpg
-        links: []
       - name: José Ramón Pérez
         id: joseramon
         company: Mercadona Tech
@@ -560,6 +533,10 @@ blocks:
           pasado de la simple gestión de una instancia Linux al SRE y después a
           DevOps, lo que le permitió adquirir todos los conocimientos necesarios
           para especializarse en la administración de infraestructura para IA.
+
+
+          Fundador de Helmcode, una empresa que proporciona servicios de DevOps
+          e Inferencia, tanto a empresas como a particulares.
         image: /files/people/cristian.jpg
         links:
           - icon: x-logo
@@ -568,23 +545,51 @@ blocks:
             url: 'https://helmcode.com/'
           - icon: linkedin-logo
             url: 'https://www.linkedin.com/in/helmcode/'
+      - name: Big Botty
+        id: big
+        role: TBD
+        bio: TBD
+        image: /files/PONENTE 2 - serio.jpg
+        links: []
+      - name: Sonny Crockett
+        id: sonny
+        role: TBD
+        bio: TBD
+        image: /files/PONENTE 1 - serio.jpg
+        links: []
+      - name: Gina Navarro
+        id: gina
+        role: TBD
+        bio: TBD
+        image: /files/PONENTE 6 - serio.jpg
+        links: []
+      - name: Rico Tubbs
+        id: rico
+        role: TBD
+        bio: TBD
+        image: /files/PONENTE 5 - Serio.jpg
+        links: []
+      - name: Marty Castillo
+        id: marty
+        role: TBD
+        bio: TBD
+        image: /files/PONENTE 3 - serio.jpg
+        links: []
   - type: logos
     title: Partners
     id: partners
     theme: width-full
     description: >-
       Estas son las compañías que hacen que todo esto sea posible. Cada una de
-      estas empresas ha decidido apoyarnos para que la TRG pueda contar con una
-      mínima seguridad económica y así podamos centrarnos en ofrecer a la
-      Comunidad la calidad y el espíritu de siempre. Si quieres ser parte de
-      este esfuerzo, en esta o en la edición de 2024, [consulta nuestras
-      *awesómicas* oportunidades de
-      patrocinio](https://www.dropbox.com/scl/fi/06f7fbh2eqep3bab0vnxh/TRG24_sponsorship_deck_ES.pdf?rlkey=cz12k1c7wyxins6jv71qfjeyk&dl=0){target=_blank}
-      ¡graciñas!
+      estas empresas ha decidido apoyarnos para que la TRG cuente con una mínima
+      seguridad económica y así poder centrarnos en ofrecer a la Comunidad la
+      calidad y el espíritu de siempre. Si quieres ser parte de este esfuerzo,
+      [consulta nuestras *awesómicas* oportunidades de
+      patrocinio](/#patrocinar).
 
 
 
-      [![Image](files/logos/wordpresscom_white.png){width=600}](https://wordpress.com/es/ppc/creador-de-paginas-web-wordpress/?utm_medium=referral&utm_source=TRG2025&utm_campaign=eventhomepage){target=_blank}
+      [![Image](/files/logos/wpcom-logo-pill.png){width=600}](https://wordpress.com/es/ai/?utm_medium=referral&utm_source=TRGCon2026&utm_campaign=organizerlink){target=_blank}
 
 
       Crea, publica, y despega.
@@ -621,7 +626,7 @@ blocks:
     id: mecenas
     description: >-
       Estas personas han contribuido con su mecenazgo han hecho posible una
-      #TRGx MEJOR para todos los asistentes.
+      #TRG26 MEJOR para todos los asistentes.
 
 
       Si quieres convertirte en mecenas, participar en «el Senado» de la TRG y
