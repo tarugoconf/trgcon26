@@ -1,9 +1,9 @@
 {
   "imports": {
-    "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@3.2.4/",
+    "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@3.2.6/",
     "lume/jsx-runtime": "https://cdn.jsdelivr.net/gh/oscarotero/ssx@0.1.15/jsx-runtime.ts",
-    "top/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@ca59c703376fd73a0712b3482e54dcc14b53ba0e/",
-    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.15.5/"
+    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.15.5/",
+    "theme/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@ca59c703376fd73a0712b3482e54dcc14b53ba0e/"
   },
   "permissions": {
     "lume": {
@@ -61,7 +61,7 @@
   ],
   "lint": {
     "plugins": [
-      "https://cdn.jsdelivr.net/gh/lumeland/lume@3.2.4/lint.ts"
+      "https://cdn.jsdelivr.net/gh/lumeland/lume@3.2.6/lint.ts"
     ],
     "rules": {
       "exclude": [
@@ -72,7 +72,8 @@
   "lock": false,
   "allowScripts": {
     "deny": [
-      "npm:sharp"
+      "npm:sharp",
+      "npm:@parcel/watcher"
     ]
   }
 }

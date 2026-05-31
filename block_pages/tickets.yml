@@ -159,4 +159,22 @@ extra_head: |-
       --color-icons: var(--color-dark);
       --color-shadow: color-mix(in srgb, var(--color-primary) 90%, black);
     }
+    .tickets-table .ticket-feature-value {
+      background: #007eb6;
+    }
+    .tickets-table .ticket-feature-title {
+      background: none;
+    }
+    .tickets-table td {
+      border-left: solid 1px var(--color-primary);
+    }
+    .ticket-feature-value.is-included svg {
+      fill: #a2e9aa;
+    }
+    .tickets-list > li {
+      background: #007eb6;
+    }
+    .ticket-header {
+      background-color: var(--color-primary);
+    }
   </style>

@@ -1,4 +1,4 @@
-import cms from "top/_cms.ts";
+import cms from "theme/_cms.ts";
 
 export default cms;
 
