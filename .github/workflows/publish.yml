@@ -19,14 +19,14 @@ jobs:
           deno-version: canary
 
       - name: Build site
-        run: deno task build --location=https://2026.trgcon.com/
+        run: deno task build --location=https://www.trgcon.com/
 
       - name: Deploy to Server
         uses: easingthemes/ssh-deploy@main
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SERVER_KEY }}
           SOURCE: "_site/"
-          REMOTE_HOST: www.tarugoconf.com
+          REMOTE_HOST: www.trgcon.com
           REMOTE_USER: ${{ secrets.SERVER_USER }}
           TARGET: ${{ secrets.SERVER_PATH }}
           EXCLUDE: "/dist/, /node_modules/"
