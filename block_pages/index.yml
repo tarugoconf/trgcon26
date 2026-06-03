@@ -880,7 +880,7 @@ blocks:
       - question: ¿Tenéis Código de Conducta?
         answer: >
           Por supuesto que tenemos [Código de
-          Conducta](https://2024.trgcon.com/codigo-de-conducta/){target=_blank}.
+          Conducta](/codigo-de-conducta/){target=_blank}.
       - question: Sigo teniendo dudas ¿qué hago?
         answer: >
           No problemo. Visita la sección de [Contacto](/#contacto) de esta misma

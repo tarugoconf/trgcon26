@@ -18,10 +18,10 @@ footer:
     Created with [Lume](https://lume.land) & TOP Theme<br>
     [humans.txt](/humans.txt)
   menu:
-    - text: Legal terms
-      href: /legal-terms/
-    - text: Privacy
-      href: /privacy/
-    - text: Code of conduct
-      href: /code-of-conduct/
+    - text: Aviso Legal
+      href: /aviso-legal/
+    - text: Política de Privacidad
+      href: /politica-de-privacidad/
+    - text: Código de Conducta
+      href: /codigo-de-conducta/
 menu_theme: is-dark

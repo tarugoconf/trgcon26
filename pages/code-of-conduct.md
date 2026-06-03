@@ -5,7 +5,6 @@ menu:
     url: /
 basename: codigo-de-conducta
 ---
-
 La TRGCON pretende ser **una experiencia agradable para todos los asistentes,**
 independientemente de su planeta de origen, género, orientación sexual,
 apariencia física, raza o religión.
