@@ -764,6 +764,14 @@ blocks:
       - name: Daniel Torres-Burriel
         img: /files/people/torres-burriel.png
         url: 'https://x.com/torresburriel'
+      - name: Pide permanecer anónima
+        img: /files/people/anonima.jpg
+      - name: Guillermo de Haro
+        img: /files/people/guillermo_haro.jpeg
+        url: 'https://www.linkedin.com/in/guillermodeharo/'
+      - name: Guillermo Montoya
+        img: /files/people/guillermo_montoya.jpg
+        url: 'https://twitter.com/Gmfdsr'
   - type: separator
     width: is-default
   - type: pdf
