@@ -88,7 +88,7 @@ blocks:
     id: agenda
     theme: is-light width-box box-fill
     days:
-      - title: 'Jueves, 23 de octubre'
+      - title: 'Jueves, 22 de octubre'
         events:
           - time: '15:00h'
             title: Apertura de puertas y acreditación de asistentes
@@ -188,7 +188,7 @@ blocks:
               El público podrá interactuar e intervenir en un *chou* único lleno
               de sorpresas para los asistentes.
             speakers: []
-      - title: 'Viernes, 24 de octubre'
+      - title: 'Viernes, 23 de octubre'
         events:
           - time: '9:00h'
             title: Apertura de puerta y acreditación de asistentes
