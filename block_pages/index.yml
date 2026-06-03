@@ -743,18 +743,27 @@ blocks:
       en [contacto](#contacto) con nosotros, enviandonos un mail. 
     theme: width-full
     items:
-      - name: Person
-        img: /files/people/avatar.webp
-      - name: Person
-        img: /files/people/avatar.webp
-      - name: Person
-        img: /files/people/avatar.webp
-      - name: Person
-        img: /files/people/avatar.webp
-      - name: Person
-        img: /files/people/avatar.webp
-      - name: Person
-        img: /files/people/avatar.webp
+      - name: Juan Carlos Vez
+        img: /files/people/juancarlos.jpg
+        url: 'https://www.linkedin.com/in/juancarlosvezvazquez/'
+      - name: Marc de Mena
+        img: /files/people/marcdemena.jpeg
+        url: 'https://www.linkedin.com/in/mdemena/'
+      - name: Beatriz Jimenez
+        img: /files/people/bea.jpeg
+        url: 'https://es.linkedin.com/in/beatrizjimenez'
+      - name: David Carrero
+        img: /files/people/carrero.png
+        url: 'https://carrero.es/'
+      - name: Rubén Arevalillo
+        img: /files/people/ruben.jpg
+        url: 'https://x.com/rarevalillo'
+      - name: Sofía Rodriguez
+        img: /files/people/sofia.jpg
+        url: 'https://www.linkedin.com/in/sofia-rodriguez-roman/'
+      - name: Daniel Torres-Burriel
+        img: /files/people/torres-burriel.png
+        url: 'https://x.com/torresburriel'
   - type: separator
     width: is-default
   - type: pdf
