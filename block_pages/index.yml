@@ -697,6 +697,10 @@ blocks:
         img: /files/logos/extramile.png
         url: 'https://extramilecloud.com/'
         description: Mapas Inteligentes.
+      - alt: Orbitant
+        img: /files/logos/logo-orbitant.png
+        url: 'https://orbitant.com/'
+        description: Donde confluyen ingeniería y negocio.
       - alt: Manfred
         img: /files/logos/logo_manfred_color.png
         url: 'https://www.getmanfred.com/'
@@ -709,6 +713,10 @@ blocks:
         img: /files/logos/petalo-logo-positivo.png
         url: 'https://petalo.xyz/'
         description: M&A estratégico. Y con cariño.
+      - alt: Eventbrite
+        img: /files/logos/eventbrite_logo.png
+        url: 'https://www.eventbrite.es/'
+        description: Proveedor oficial de ticketing de la TRG.
   - type: logos
     theme: width-full
     size: small
@@ -716,6 +724,9 @@ blocks:
       - alt: Ayuntamiento de Madrid
         img: /files/logos/madrid-innovation-ayto.png
         url: 'https://www.madridinnovation.es/'
+      - alt: Metricool
+        img: /files/logos/logo-metricool.png
+        url: 'https://metricool.com/es/'
   - type: separator
     width: is-default
   - type: people
@@ -728,8 +739,8 @@ blocks:
 
       Si quieres convertirte en mecenas, participar en «el Senado» de la TRG y
       formar parte de la toma de decisiones del evento, puedes [adquirir tu
-      entrada](/entradas) directamente o ponerte en [contacto](#contacto) con
-      nosotros. 
+      entrada](/entradas) directamente, cuando se pongan a la venta, o ponerte
+      en [contacto](#contacto) con nosotros, enviandonos un mail. 
     theme: width-full
     items:
       - name: Person

@@ -60,8 +60,8 @@ blocks:
         img: /files/ENTRADA EARLY BIRD.png
         buy:
           text: Comprar
-          url: 'https://trgx.eventbrite.es'
-          disabled: false
+          url: 'https://trg26.eventbrite.es'
+          disabled: true
         features:
           - conferences
           - food
@@ -75,8 +75,8 @@ blocks:
         img: /files/ENTRADA NORMA.png
         buy:
           text: Comprar
-          url: 'https://trgx.eventbrite.es'
-          disabled: false
+          url: 'https://trg26.eventbrite.es'
+          disabled: true
         features:
           - conferences
           - food
@@ -90,8 +90,8 @@ blocks:
         img: /files/ENTRADA KILLER COMBO.png
         buy:
           text: Comprar
-          url: 'https://trgx.eventbrite.es'
-          disabled: false
+          url: 'https://trg26.eventbrite.es'
+          disabled: true
         features:
           - conferences
           - workshop
@@ -106,8 +106,8 @@ blocks:
         img: /files/ENTRADA Y TALLER.png
         buy:
           text: Comprar
-          url: 'https://trgx.eventbrite.es/'
-          disabled: false
+          url: 'https://trg26.eventbrite.es'
+          disabled: true
         features:
           - workshop
       - name: Mecenas
@@ -115,8 +115,8 @@ blocks:
         img: /files/ENTRADA MECENAS.png
         buy:
           text: Comprar
-          url: 'https://trgx.eventbrite.es/'
-          disabled: false
+          url: 'https://trg26.eventbrite.es'
+          disabled: true
         features:
           - conferences
           - streaming

@@ -1,12 +1,11 @@
 ---
 title: Política de privacidad
-subtitle: 'Madrid, 24 de mayo de 2018'
+subtitle: 'Madrid, 3 de junio de 2026'
 menu:
   - text: Portada
     url: /
 basename: politica-de-privacidad
 ---
-
 ## Titular y Responsable del tratamiento de los Datos
 
 **Bonillaware SLU / CIF ESB86232956**\
