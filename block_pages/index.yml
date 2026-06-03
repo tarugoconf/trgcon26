@@ -3,13 +3,13 @@ menu:
     url: '#location'
     highlight: false
   - text: Agenda
-    url: '#calendar'
+    url: '#agenda'
     highlight: false
   - text: Cómo patrocinar
-    url: '#partners'
+    url: '#patrocinar'
     highlight: true
   - text: FAQ
-    url: '#contact'
+    url: '#faq'
     highlight: false
 blocks:
   - type: hero
@@ -57,16 +57,15 @@ blocks:
       - src: /files/F9cIZM8WsAA_T8K.jpeg
     text: >-
       La TRG es **una conferencia sobre diseño, desarrollo y comercialización de
-      servicios digitales** que nace con el objetivo de punto de encuentro para
-      «gente que hace cosas» alrededor del software, la innovación tecnológica e
-      Internet: técnicos, diseñadores, gente de negocio, marketing u
-      operaciones. Aquí nadie sobra. Todos son bienvenidos.
+      servicios y productos digitales** que nace con el objetivo de punto de
+      encuentro para «gente que hace cosas» alrededor del software, la
+      innovación tecnológica e Internet: técnicos, diseñadores, gente de
+      negocio, marketing u operaciones. Aquí nadie sobra. Todos son bienvenidos.
 
 
       Se organiza cuidando cada detalle —desde las acreditaciones hasta la
-      oferta gastronómica— para intentar transformar la asistencia en una
-      experiencia y aportar el mayor valor posible a asistentes, ponentes y
-      patrocinadores.
+      gastronomía— para intentar transformar la asistencia en una experiencia y
+      aportar el mayor valor posible a asistentes, ponentes y patrocinadores.
 
 
       En esta edición, el contenido pivotará alrededor de la Inteligencia
@@ -96,26 +95,33 @@ blocks:
             id: apertura-jueves
             description: >
               ¡Acredítate antes que nadie y evita las colas del viernes! Trae tu
-              entrada, impresa o en el móvil, y recoge tu awesómico welcome pack
-              antes de disfrutar de todas las actividades y contenido de la
-              TRG26 ¡Bienvenidos!
+              entrada, impresa o en el móvil, y **recoge tu awesómico welcome
+              pack** antes de disfrutar de todas las actividades y contenido de
+              la TRG26 ¡Bienvenidos!
             speakers: []
-          - time: '15:30 - 18:00h'
+          - time: '15:30 - 17:30h'
             title: TALLERES de patrocinadores
             id: taller-sponsors
-            subtitle: TBC
+            subtitle: POR ANUNCIAR
             description: >-
               Talleres patrocinados por nuestros sponsors, que abren a los
               asistentes de la TRG que se hagan con una de las invitaciones
               ¡Hablad con ellos!
+
+
+              Iremos desvelando los talleres en los próximos días. Puedes
+              enterarte de las últimas novedades del evento siguiendo nuestra
+              cuenta en [X](https://x.com/tarugoconf){target="_blank"} o
+              [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
+              Stay tuned Antunez !!!
             speakers: []
           - time: '15:30 - 18:00h'
             title: TALLERES organizados por la TRG
-            id: taller-maria
-            subtitle: TBC
+            id: talleres-trg
+            subtitle: POR ANUNCIAR
             description: >-
-              Los talleres de la TRG son formaciones prácticas de dos horas y
-              media, impartidas por profesionales en activo y con muchos *tiros
+              Los talleres de la TRG son formaciones prácticas de DOS HORAZAS Y
+              MEDIA, impartidas por profesionales en activo y con muchos *tiros
               pegaos* en la materia impartida, que **te permitirán adquirir una
               nuevo habilidad que podrás emplear inmediatamente en tu día a
               día**.
@@ -125,14 +131,22 @@ blocks:
               TRG26. Puedes acceder a ellos con una entrada de tipo ***Killer
               Combo*** o adquiriendo el complemento ***Taller Práctico*** al
               comprar tu entrada.
+
+
+              Iremos desvelando los talleres en los próximos días. Puedes
+              enterarte de las últimas novedades del evento siguiendo nuestra
+              cuenta en [X](https://x.com/tarugoconf){target="_blank"} o
+              [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
+              Stay tuned Antunez !!!
             speakers: []
           - time: '18:00 - 20:00h'
             title: Networking Tarugo
             id: networking-jueves
             subtitle: "Conoce a gente nueva \U0001F60A"
             description: >-
-              Actividades y dinámicas divertidas para que los asistentes se
-              conozcan entre sí en un ambiente distendido y seguro.
+              Actividades opcionales y dinámicas divertidas, para que los
+              asistentes se conozcan entre sí en un ambiente distendido y
+              seguro, lideradas por voluntarios de la TRG.
 
 
               Si no conoces a nadie, saldrás con un grupo con el que compartir
@@ -142,33 +156,37 @@ blocks:
           - time: '20:00 - 22:00h'
             title: ¿Acabará la IA con mi puesto de trabajo?
             id: show-jueves
-            subtitle: Mesa Redonda
+            subtitle: Podcast en directo
             description: >-
-              La Inteligencia Artificial ha puesto patas arriba el mercado
-              laboral de «cuello blanco» en general y el sector técnico en
-              particular.
+              ***** y ***** son el ying y el yang de *****, **uno de los podcast
+              más didácticos, rigurosos y —sobre todo— divertidos sobre 
+              Inteligencia Artificial** que puedes escuchar en castellano. En la
+              TRG26 grabarán un programa en directo en el que interactuarán
+              constantemente con el público.
+
+
+              La IA ha puesto patas arriba el mercado laboral de «cuello blanco»
+              en general y el sector técnico en particular.
 
 
               Algunas empresas han escuchado los *cantos de sirena* de muchos
               gurús y se han desprendido de parte de su plantilla o congelado
-              sus contrataciones. Otras, directamente han usado la IA para hacer
-              una limpia que satisfaga a accionistas e inversores.
+              sus contrataciones. Otras, directamente han usado la IA como
+              excusa para hacer una limpia que satisfaga a accionistas e
+              inversores.
 
 
               Pero ¿cuánto hay de realidad y cuánto de pensamiento mágico detrás
               de todas estas decisiones empresariales?
 
 
-              Con esta mesa redonda, moderada por ********, contaremos con
-              directivos y empresarios que están contratando —o despediendo—
-              para **dibujar un mapa que nos indique hacia dónde va el mercado
-              laboral y qué debemos hacer para anticiparnos** y no perdernos por
-              el cámino.
+              En dos horas separaremos la señal del ruido para **dibujar un mapa
+              que nos indique hacia dónde va el mercado laboral y qué debemos
+              hacer para anticiparnos** y no perdernos por el cámino.
 
 
-              El público podrá interactuar con los participantes en la mesa e
-              intervenir en un show único lleno de sorpresas para los
-              asistentes.
+              El público podrá interactuar e intervenir en un *chou* único lleno
+              de sorpresas para los asistentes.
             speakers: []
       - title: 'Viernes, 24 de octubre'
         events:
@@ -178,19 +196,17 @@ blocks:
             description: >-
               ¡Acredítate antes que nadie y evita las colas! Trae tu entrada,
               impresa o en el móvil, y disfruta de todas las actividades y
-              contenido de la TRG.
+              contenido de la TRG26.
 
 
               Te recibiremos con **café, bica gallega y fruta**... además de
-              amenizar la espera con la música [Don
-              Robot](https://www.youtube.com/watch?v=ltXX9Ab6vuo){target="_blank"},
-              nuestro DJ Residente.
+              amenizar la espera con la música de nuestro DJ Residente.
 
 
               ¡Bienvenidos!
             speakers: []
           - time: '10:00 - 10:15h'
-            title: Corrupción en mIAmi
+            title: Corrupción en m-IA-mi
             id: keynote
             subtitle: Keynote
             description: >-
@@ -200,37 +216,50 @@ blocks:
               no te dejará indiferente.
 
 
-              Además, en la keynote, David Bonilla te dará toda la información
-              para que puedas disfrutar al 100% del evento.
+              Lo único que te pedimos es que acudas con la mente abierta y que
+              seas puntual. A las 10:00h cerraremos las puertas del auditorio,
+              que quedaran selladas hasta las 10:15. Lo que pasa en la TRG se
+              queda en la TRG...
+
+
+              Además, en esta keynote te daremos toda la información para que
+              puedas disfrutar al 100% del evento.
             speakers:
               - david-bonilla
           - time: '10:15 - 11:00h'
-            title: TBA
+            title: CHARLA AWESÓMICA
             id: charla-tba1
-            subtitle: TBC
+            subtitle: POR ANUNCIAR
             description: >-
-              Silicon Valley, El Valle, «The Bay Area»... la zona que se ha
-              erigido en epicentro mundial de la innovación y el negocio
-              tecnológicos, hasta el punto de <strong>instalarse en el
-              imaginario popular como el sitio donde hay que estar para pintar
-              algo en la industria</strong>.
+              «*Ningún discurso es demasiado corto*». En la TRG creemos en las
+              enseñanzas de los legendarios Kenneth Roman y Joel Raphaelson, por
+              eso nuestras charlas «sólo» duran 30 minutos. Eso sí, tenemos un
+              turno de preguntas de 15 minutos —desarrollado en formato
+              entrevista, sentado en un sofá, como en un *late night show*— que
+              SIEMPRE se nos queda corto. ¡La interactuación con el público
+              suele ser tan interesante como la charla en sí!
 
 
-              ¿Pero es Silicon Valley un lugar o, más bien, una idea exportable
-              al resto del mundo?
+              La TRG se diferencia de otras conferencias en que tiene **línea
+              editorial**. Elegimos los temas que creemos que más pueden
+              interesar al público y, después, buscamos a los ponentes que
+              creemos que mejor pueden desarrollarlos. 
 
 
-              En esta charla, Aitor compartirá <strong>su experiencia creando
-              equipo aquí para importantes empresas de allá</strong>, logrando
-              influir e incluso liderar de manera definitiva parte de la
-              estrategia tecnológica de las mismas sin moverse de Barcelona.
+              Si quieres ver cómo es una charla típica de la TRG, tienes muchas
+              disponibles en nuestro canal de Vimeo. Por ejemplo, la que dio
+              Antonio en 2023, explicando [cómo una fábrica de polvorones se
+              había convertido en una empresa puntera de
+              I+D](https://vimeo.com/894460019/2c5c69323d){target="_blank"}.
 
 
-              Si te preguntas <strong>cómo tener impacto en un «unicornio»
-              tecnológico desde dentro sin renunciar a la tortilla de
-              patatas</strong>, esta es tu charla.
+              Iremos desvelando las charlas en los próximos días. Puedes
+              enterarte de las últimas novedades del evento siguiendo nuestra
+              cuenta en [X](https://x.com/tarugoconf){target="_blank"} o
+              [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
+              ***Stay tuned Antunez !!!***
             speakers:
-              - aitor
+              - trudy
           - time: '11:00 - 11:45h'
             title: Quemar tokens sin quemar tu empresa
             id: charla-cristian
@@ -281,17 +310,15 @@ blocks:
               Café, snacks y pastitas para llenar las tripitas.
 
 
-              Este intermedio estará amenizado por el DJ residente de la TRG
-              —**Don Robot**- que pinchará los mejores temas de Daft Punk,
-              incluyendo la bandaza sonora que se marcaron para la película
-              «Tron: Legacy»
+              Este intermedio estará amenizado por el DJ residente de la TRG que
+              pinchará los mejores mixes de la bandaza sonora de Miami Vice.
             speakers: []
           - time: '12:45 - 13:00h'
             title: ¡El precio Justo!
             description: >-
               Un concursote de Lanzarote en el que los asistentes de la TRG
-              podrán demostrar sus conocimientos sobre el bisnes de la
-              Informática y ¡ganar suculentos premios!
+              podrán demostrar sus conocimientos sobre el *bisnes* de la
+              Informática y ganar suculentos premios.
             speakers: []
           - time: '13:00 - 13:45h'
             title: 'Matar al SaaS es fácil, lo difícil viene después'
@@ -322,9 +349,9 @@ blocks:
             speakers:
               - joseramon
           - time: '13:45 - 14:30'
-            title: TBA
+            title: CHARLA AMBELIBOBOL
             id: charla-tba2
-            subtitle: TBC
+            subtitle: POR ANUNCIAR
             description: >-
               En esta franja horaria disfrutarás de una charla awesómica y
               eminentemente práctica, impartida por un/a speaker con MUCHOS
@@ -341,11 +368,10 @@ blocks:
               actualizamos con [X](https://x.com/tarugoconf){target=_blank} e
               [Instagram](https://www.instagram.com/tarugoconf/).
             speakers:
-              - tba-2
+              - sonny
           - time: '14:30 - 16:30h'
             title: "\U0001F419 Comida y Pulpeirada"
             id: comida-viernes
-            subtitle: ofrecido por SNGULAR
             description: >-
               Diferentes opciones gastronómicas ecológicas, sostenibles y mucho
               gallegas... incluyendo a Anxo —nuestro pulpeiro de O Carballiño—
@@ -357,54 +383,68 @@ blocks:
               Y, por supuesto, contaremos con opciones veganas y sin gluten.
             speakers: []
           - time: '16:30 - 16:45'
-            title: ¿Qué saben los muggles?
-            subtitle: Video
+            title: ¿Qué saben los muggles de IA?
+            subtitle: Videoreportaje
             description: >-
               Nuestros intrépidos reporteros se lanzarán a la calle, micrófono
-              en mano, para averiguar hasta qué punto el público general -sin
-              experiencia técnica- conoce el día a día del sector informático.
+              en mano, para averiguar hasta qué sabe el público general de la IA
+              y su impacto.
             speakers: []
           - time: '16:45 - 17:30h'
-            title: Los billetes de avión se compran los martes
-            id: charla-alberto
-            subtitle: por Alberto Rey
+            title: Charla Fantabulosa
+            id: charla-tba3
+            subtitle: POR ANUNCIAR
             description: >-
-              En esta charla descubrirás la algoritmia, infraestructura técnica
-              y modelo de negocio detrás de la estrategía de precios dinámicos
-              de las líneas aéreas, de la mano de alguien que las conoce
-              perfectamente porque LAS HA CREADO.
+              «*Ningún discurso es demasiado corto*». En la TRG creemos en las
+              enseñanzas de los legendarios Kenneth Roman y Joel Raphaelson, por
+              eso nuestras charlas «sólo» duran 30 minutos. Eso sí, tenemos un
+              turno de preguntas de 15 minutos —desarrollado en formato
+              entrevista, sentado en un sofá, como en un *late night show*— que
+              SIEMPRE se nos queda corto. ¡La interactuación con el público
+              suele ser tan interesante como la charla en sí!
 
 
-              ¿Es verdad que si visitamos la web de una aerolínea más de una vez
-              nos suben el precio de los billetes? ¿Es cierto que los martes los
-              vuelos se pueden comprar más baratos? ¿Si reservo más tarde tengo
-              la oportunidad de encontrar viajes más baratos? Después de asistir
-              a esta ponencia, revisarás muchos de los mitos más extendidos
-              sobre el precio de los vuelos.
+              La TRG se diferencia de otras conferencias en que tiene **línea
+              editorial**. Elegimos los temas que creemos que más pueden
+              interesar al público y, después, buscamos a los ponentes que
+              creemos que mejor pueden desarrollarlos. 
 
 
-              Nunca volverás a comprar un billete de avión como hacías hasta
-              ahora.
+              Si quieres ver cómo es una charla típica de la TRG, tienes muchas
+              disponibles en nuestro canal de Vimeo. Por ejemplo, la que dio
+              Antonio en 2023, explicando [cómo una fábrica de polvorones se
+              había convertido en una empresa puntera de
+              I+D](https://vimeo.com/894460019/2c5c69323d){target="_blank"}.
+
+
+              Iremos desvelando las charlas en los próximos días. Puedes
+              enterarte de las últimas novedades del evento siguiendo nuestra
+              cuenta en [X](https://x.com/tarugoconf){target="_blank"} o
+              [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
+              ***Stay tuned Antunez !!!***
             speakers:
-              - alberto
+              - gina
           - time: '17:30 - 18:15 '
-            title: La tecnología detrás de la lucha contra el fuego
-            id: charla-macarena
-            subtitle: por Macarena Ortega
+            title: Charla Ameisin
+            id: charla-tba4
+            subtitle: POR ANUNCIAR
             description: >-
-              Este verano, España ha sufrido seis de los diez mayores incendios
-              forestales del siglo XXI y tanto el incremento de temperaturas
-              provocado por el cambio climático como el abandono del medio rural
-              hacen a los expertos vaticinar que lo que viene puede ser mucho
-              peor.
+              Justo antes de la merienda disfrutarás de una charla awesómica y
+              eminentemente práctica, impartida por un/a speaker con MUCHOS
+              tiros pegaos y experiencia contrastada en el tema.
 
 
-              En esta charla Macarena nos contará cómo una pequeña empresa
-              española decidió no rendirse y encontrar una solución, combinando
-              software, hardware y ciencia de datos hasta convertirse en un
-              referente mundial en la lucha contra el fuego.
+              **El objetivo es que adquieras un nuevo superpoder que puedas
+              aplicar en tu día a día** —el lunes siguiente, si quieres— que te
+              ayude a progresar personal y profesionalmente.
+
+
+              Si quieres enterarte del contenido y speaker en cuanto lo
+              anunciemos, no dejes de seguirnos en redes sociales. Las que más
+              actualizamos con [X](https://x.com/tarugoconf){target=_blank} e
+              [Instagram](https://www.instagram.com/tarugoconf/).
             speakers:
-              - macarena
+              - ricardo
           - time: '18:15 - 19:00h'
             title: "\U0001F36A Merienda"
             id: merienda-viernes
@@ -412,61 +452,69 @@ blocks:
               Café y bollería artesanal para aguantar hasta el final.
 
 
-              En esta ocasión, Don Robot nos llevará hasta ese 1982 del primer
-              «Tron» con una selección de música para recargar las pilas con la
-              energía de los 80.
+              En esta ocasión, [nuestro DJ
+              Residente](https://www.youtube.com/watch?v=ltXX9Ab6vuo) teñirá el
+              ambiente con ritmos tropicales y latinos que nos harán mover los
+              pies como langostinos.
             speakers: []
           - time: '19:00 - 19:15'
             title: "\U0001F3B0 La Jerocleta"
             description: >-
-              Sorteo de jugosos premios entre todos los que hayan tuiteado con
-              el hashtag
-              [#TRGx](https://x.com/search?q=%23trgx&src=typed_query&f=live){target="_blank"},
+              ¡El momento más esperado por los asistentes veteranos de la TRG!
+
+
+              Sorteo de jugosos premios entre todos los que tuiteen con el
+              *hashtag*
+              [#TRG26](https://x.com/search?q=%23trg26&src=typed_query&f=live){target="_blank"},
               realizado con la mítica «Jerocleta» de **Jerónimo López**. Sin
               duda alguna, el software español más utilizado de la historía.
 
 
-              Cuanto más tuitees, más posibilidades tendrás de ganar.
+              ¡Cuanto más tuitees, más posibilidades tendrás de ganar!
             speakers: []
           - time: '19:15 - 20:00h'
-            title: Open Source que salva vidas
-            id: charla-pablo
-            subtitle: por Pablo Sánchez
+            title: Charla tope de gama
+            id: charla-tba5
+            subtitle: POR ANUNCIAR
             description: >-
-              Pablo nos contará cómo ha aplicado muchas de las metodologías que
-              ha aprendido en su carrera como ingeniero de hardware a un
-              proyecto social, lo que le ha permitido fabricar incubadoras con
-              un coste de 350€ en vez de los 30.000€.
+              «*Ningún discurso es demasiado corto*». En la TRG creemos en las
+              enseñanzas de los legendarios Kenneth Roman y Joel Raphaelson, por
+              eso nuestras charlas «sólo» duran 30 minutos. Eso sí, tenemos un
+              turno de preguntas de 15 minutos —desarrollado en formato
+              entrevista, sentado en un sofá, como en un *late night show*— que
+              SIEMPRE se nos queda corto. ¡La interactuación con el público
+              suele ser tan interesante como la charla en sí!
 
 
-              No es magia, solo tecnología y buenas prácticas. Desde el enfoque
-              open source, para que el proceso pueda ser auditable y escalable,
-              hasta la priorización de funciones en los dispositivos para
-              demostrar —una vez más— la Ley de Pareto «de libro» aplicado el
-              desarrollo de tecnología: con el 20% del presupuesto total, se
-              pueden desarrollar el 80% de las funcionalidades de un proyecto.
+              La TRG se diferencia de otras conferencias en que tiene **línea
+              editorial**. Elegimos los temas que creemos que más pueden
+              interesar al público y, después, buscamos a los ponentes que
+              creemos que mejor pueden desarrollarlos. 
 
 
-              En esta charla conocerás un caso práctico de la teoría que todos
-              conocemos. Quien sabe, quizás sea la inspiración que necesites
-              para aplicarlas en tu día a día.
+              Si quieres ver cómo es una charla típica de la TRG, tienes muchas
+              disponibles en nuestro canal de Vimeo. Por ejemplo, la que dio
+              Antonio en 2023, explicando [cómo una fábrica de polvorones se
+              había convertido en una empresa puntera de
+              I+D](https://vimeo.com/894460019/2c5c69323d){target="_blank"}.
+
+
+              Iremos desvelando las charlas en los próximos días. Puedes
+              enterarte de las últimas novedades del evento siguiendo nuestra
+              cuenta en [X](https://x.com/tarugoconf){target="_blank"} o
+              [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
+              ***Stay tuned Antunez !!!***
             speakers:
-              - pablo-sanchez
+              - castillo
           - time: '20:00 - 20:30h'
             title: Rendición de cuentas
             id: rendicion-cuentas
-            description: >-
-              Como ya es tradición, **haremos públicas todas las cifras del
-              evento** -fuentes de ingresos, partidas de gastos y cuenta de
-              resultados-, agradeceremos el esfuerzo a todo el equipo de
-              profesionales y voluntarios que lo hacen posible y vislumbraremos
-              qué podemos esperar para el año que viene.
+            description: "Como ya es tradición, **haremos públicas todas las cifras del evento** -fuentes de ingresos, partidas de gastos y cuenta de resultados- y... confirmaremos si habrá o no TRG el próximo año \U0001F631"
             speakers:
               - david-bonilla
           - time: '20:30 - 22:30h'
             title: "\U0001F973 Legendaria Fiesta Taruga"
             id: fiesta
-            subtitle: ofrecida por Slimbook
             description: >-
               Transformaremos La Nave en una auténtica «discoteque» con comida y
               bebida, **suministro ilimitado de churros con y sin chocolate**,
@@ -474,13 +522,13 @@ blocks:
               PUEDE SER MARAVILLOSA.
 
 
-              * **INTRO** - Este año contaremos con la actuación de **Fake
-              Punk**, una pareja de DJs que rendirá homenaje a Daft Punk con un
-              set lleno de energía y buena música.
+              * **INTRO** - Este año contaremos con la actuación de la
+              **Ma-IA-mi Sound Machine**, una pareja de DJs que rendirá homenaje
+              al sonido *house* de Miami con un set lleno de energía y buena
+              música.
 
-              * **MAIN EVENT** - Una estrella de la música, uno de esos artistas
-              que todos conocemos, nos ayudará a poner el broche final al día.
-              Stay tuned Antunez!
+              * **MAIN EVENT** - El reggaetón más canalla nos hará bailar hasta
+              bien entrada la noche.
             speakers: []
   - type: speakers
     title: Speakers
@@ -545,34 +593,84 @@ blocks:
             url: 'https://helmcode.com/'
           - icon: linkedin-logo
             url: 'https://www.linkedin.com/in/helmcode/'
-      - name: Big Botty
-        id: big
-        role: TBD
-        bio: TBD
+      - name: Speaker Awesómica
+        id: trudy
+        role: Por anunciar
+        bio: >-
+          Elegimos a nuestros ponentes no solo por su experiencia y conocimiento
+          en el tema que deben desarrollar, sino también por su capacidad de
+          comunicar de forma efectiva y amena.
+
+
+          Iremos desvelando los speakers en los próximos días. Puedes enterarte
+          de las últimas novedades del evento siguiendo nuestra cuenta en
+          [X](https://x.com/tarugoconf){target="_blank"} o
+          [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
+          ***Stay tuned Antunez !!!***
         image: /files/PONENTE 2 - serio.jpg
         links: []
-      - name: Sonny Crockett
+      - name: SPEAKER AMBELIBOBOL
         id: sonny
-        role: TBD
-        bio: TBD
+        role: Por anunciar
+        bio: >-
+          Elegimos a nuestros ponentes no solo por su experiencia y conocimiento
+          en el tema que deben desarrollar, sino también por su capacidad de
+          comunicar de forma efectiva y amena.
+
+
+          Iremos desvelando los speakers en los próximos días. Puedes enterarte
+          de las últimas novedades del evento siguiendo nuestra cuenta en
+          [X](https://x.com/tarugoconf){target="_blank"} o
+          [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
+          ***Stay tuned Antunez !!!***
         image: /files/PONENTE 1 - serio.jpg
         links: []
-      - name: Gina Navarro
+      - name: SPEAKER FANTABULOSA
         id: gina
-        role: TBD
-        bio: TBD
-        image: /files/PONENTE 6 - serio.jpg
+        role: Por anunciar
+        bio: >-
+          Elegimos a nuestros ponentes no solo por su experiencia y conocimiento
+          en el tema que deben desarrollar, sino también por su capacidad de
+          comunicar de forma efectiva y amena.
+
+
+          Iremos desvelando los speakers en los próximos días. Puedes enterarte
+          de las últimas novedades del evento siguiendo nuestra cuenta en
+          [X](https://x.com/tarugoconf){target="_blank"} o
+          [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
+          ***Stay tuned Antunez !!!***
+        image: /files/people/gina_gpt.jpg
         links: []
-      - name: Rico Tubbs
-        id: rico
-        role: TBD
-        bio: TBD
+      - name: SPEAKER AMEISIN
+        id: ricardo
+        role: Por anunciar
+        bio: >-
+          Elegimos a nuestros ponentes no solo por su experiencia y conocimiento
+          en el tema que deben desarrollar, sino también por su capacidad de
+          comunicar de forma efectiva y amena.
+
+
+          Iremos desvelando los speakers en los próximos días. Puedes enterarte
+          de las últimas novedades del evento siguiendo nuestra cuenta en
+          [X](https://x.com/tarugoconf){target="_blank"} o
+          [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
+          ***Stay tuned Antunez !!!***
         image: /files/PONENTE 5 - Serio.jpg
         links: []
-      - name: Marty Castillo
-        id: marty
-        role: TBD
-        bio: TBD
+      - name: SPEAKER TOPE DE GAMA
+        id: castillo
+        role: Por anunciar
+        bio: >-
+          Elegimos a nuestros ponentes no solo por su experiencia y conocimiento
+          en el tema que deben desarrollar, sino también por su capacidad de
+          comunicar de forma efectiva y amena.
+
+
+          Iremos desvelando los speakers en los próximos días. Puedes enterarte
+          de las últimas novedades del evento siguiendo nuestra cuenta en
+          [X](https://x.com/tarugoconf){target="_blank"} o
+          [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
+          ***Stay tuned Antunez !!!***
         image: /files/PONENTE 3 - serio.jpg
         links: []
   - type: logos
@@ -595,30 +693,29 @@ blocks:
       Crea, publica, y despega.
     size: medium
     items:
-      - alt: Logo
-        img: /files/logos/logo.png
-        url: 'https://github.com/tarugoconf/TOP'
-      - alt: Logo
-        img: /files/logos/logo.png
-        url: 'https://github.com/tarugoconf/TOP'
-      - alt: Logo
-        img: /files/logos/logo.png
-        url: 'https://github.com/tarugoconf/TOP'
-      - alt: Logo
-        img: /files/logos/logo.png
-        url: 'https://github.com/tarugoconf/TOP'
-  - type: separator
-    width: is-invisible
+      - alt: Extramile
+        img: /files/logos/extramile.png
+        url: 'https://extramilecloud.com/'
+        description: Mapas Inteligentes.
+      - alt: Manfred
+        img: /files/logos/logo_manfred_color.png
+        url: 'https://www.getmanfred.com/'
+        description: Ayudamos a las empresas a crear mejores equipos.
+      - alt: Raiola
+        img: /files/logos/raiola_networks_horizontal_positivo.png
+        url: 'https://raiolanetworks.com/'
+        description: Dominios y alojamiento web de calidad.
+      - alt: Pétalo
+        img: /files/logos/petalo-logo-positivo.png
+        url: 'https://petalo.xyz/'
+        description: M&A estratégico. Y con cariño.
   - type: logos
     theme: width-full
     size: small
     items:
-      - alt: Logo
-        img: /files/logos/logo.png
-        url: 'https://github.com/tarugoconf/TOP'
-      - alt: Logo
-        img: /files/logos/Marca Madrid Innovation + ayto-blanco.png
-        url: 'https://github.com/tarugoconf/TOP'
+      - alt: Ayuntamiento de Madrid
+        img: /files/logos/madrid-innovation-ayto.png
+        url: 'https://www.madridinnovation.es/'
   - type: separator
     width: is-default
   - type: people
@@ -736,42 +833,46 @@ blocks:
           descuento?
         answer: >
           Pues sí. Los suscriptores de [La
-          Bonilista](https://www.bonilista.com/){target=_blank} pudistéis
+          Bonilista](https://www.bonilista.com/){target=_blank} podréis
           **acceder a las entradas *early bird*, de precio reducido, un día
-          antes que el público general**. Se agotaron en 24 horas, así que, os
-          quedásteis con la mayoría :)
+          antes que el público general**. Se agotan en 24 horas, así que, os
+          quedaréis con la mayoría :)
       - question: "¿Qué es eso del Community Day del sábado? \U0001F389"
         answer: >
           Una jornada abierta, a la que podréis traer a familia, compañeros y/o
           amigos, con un montón de actividades para grandes y pequeños.
 
 
-          Tenéis toda la info actualizada en [esta página](/community-day).
+          En breve tendréis toda la información actualizada en la web.
       - question: ¿Ofrecéis ayuda para gestionar viajes y/o hoteles?
-        answer: >
+        answer: >-
           Sí, gracias a nuestro partnership con Vyootrip, podéis reservar
-          vuestro viaje y estancia con interesantes descuentos. Tenéis más info
-          en [esta página](https://www.vyootrip.com/trgcon/){target=_blank}.
+          vuestro viaje y estancia con interesantes descuentos.
+
+
+          Tenéis más info en [esta
+          página](https://www.vyootrip.com/trgcon/){target=_blank}. Pronto
+          actualizarán precios y opciones para la edición de este año.
       - question: ¿Cómo puedo estar al día de todas las noticias y novedades del evento?
         answer: >
           Tenemos un [Blog](https://tarugoconf.com/blog){target=_blank} donde
-          iremos colgando toda la información relevante,
-
-          pero no dejes de seguir [la cuenta en Twitter de la
+          iremos colgando toda la información relevante, pero no dejes de seguir
+          [la cuenta en Twitter de la
           TRG](https://twitter.com/tarugoconf){target=_blank} y,
 
           especialmente, el hashtag
-          [#trgX](https://twitter.com/search?q=%23trgX&src=typed_query&f=live){target=_blank}.
+          [#trg26](https://twitter.com/search?q=%23trg26&src=typed_query&f=live){target=_blank}.
       - question: "¿Cuándo se podrán comprar entradas? \U0001F39F️"
-        answer: >
-          Solemos sacar las entradas a la venta en junio.
+        answer: >-
+          El **14 de junio** mandaremos un correo a los suscriptores de [La
+          Bonilista](https://www.bonilista.com/){target=_blank} con
+          instrucciones sobre cómo **acceder a las entradas *early bird* —de
+          precio reducido— un día antes que el público general**.
 
 
-          Avisamos con bastante antelación del día que se ponen a la venta. Los
-          suscriptores de [La
-          Bonilista](https://www.bonilista.com/){target=_blank}, eso sí, pueden
-          **acceder a las entradas *early bird* —de precio reducido— un día
-          antes que el público general**.
+          **El domingo 21 de junio** las entradas estarán disponibles para los
+          suscriptores de la *newsletter* y, un día después, para todo el
+          público en general.
       - question: Si mi empresa me paga la entrada ¿Hacéis factura?
         answer: >
           Por supuesto. En la TRG, lo único negro es el futuro de David Bonilla
