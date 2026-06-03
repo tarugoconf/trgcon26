@@ -13,7 +13,7 @@ menu:
     highlight: false
 blocks:
   - type: hero
-    title: TRGCON 26
+    title: TRG26
     intro: >-
       <video class="video-bg" preload playsinline autoplay muted loop
       src="/files/hero-loop.mp4"></video>
@@ -939,7 +939,9 @@ blocks:
             icon: twitter-logo
             text: '@tarugoconf'
 metas:
-  image: ''
+  image: /files/trg26-home-meta.jpg
+  title: TRG26
+  description: La conferencia tecnológica más gallega y awesómica del mundo.
 url: /
 extra_head: |-
   <style>
@@ -1025,3 +1027,4 @@ extra_head: |-
       }
     }
   </style>
+title: TRG26

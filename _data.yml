@@ -2,11 +2,12 @@ title_suffix: La conferencia técnica más awesómica del mundo.
 menu_style: transparent
 metas:
   title: =title
-  site: TRGCON 24
+  site: TRG26
   lang: es
   color: '#00ab7d'
   generator: true
   image: /files/img-home.png
+  twitter: '@tarugoconf'
 state: pre-event
 cta:
   text: Consigue tu entrada
