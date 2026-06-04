@@ -743,6 +743,8 @@ blocks:
         url: 'https://www.eventbrite.es/'
         description: Proveedor oficial de ticketing de la TRG.
   - type: logos
+    title: Colaboradores
+    id: colaboradores
     theme: width-full
     size: small
     items:
@@ -800,6 +802,30 @@ blocks:
       - name: Juan Miqueo
         img: /files/people/juan-miqueo.jpeg
         url: 'https://twitter.com/juan_miqueo'
+      - name: Anca Gabriela Munteanu
+        img: /files/people/anca_gabriela.jpeg
+        url: 'https://www.linkedin.com/in/ancagmun/'
+      - name: Ricardo Sanz
+        img: /files/people/ricardo_sanz.jpeg
+        url: 'https://www.linkedin.com/in/ricardosanzmartinez/'
+      - name: Pablo Grueso
+        img: /files/people/pablo_grueso.jpeg
+        url: 'https://www.linkedin.com/in/pablogrueso/'
+      - name: Álvaro Amor
+        img: /files/people/alvaro-amor.jpeg
+        url: 'https://www.linkedin.com/in/alvaroamor/'
+      - name: Boris Gragera
+        img: /files/people/boris.jpeg
+        url: 'https://www.linkedin.com/in/borisgragera/'
+      - name: Rei Aguilera
+        img: /files/people/rei_aguilera.jpg
+        url: 'https://www.linkedin.com/in/reiaguilera/'
+      - name: Joaquín Fernandez
+        img: /files/people/joaquin_fernandez.png
+        url: 'https://x.com/Iarwain'
+      - name: Rubén Arevalillo
+        img: /files/people/ruben_arevalillo.jpg
+        url: 'https://x.com/rarevalillo'
   - type: separator
     width: is-default
   - type: pdf
@@ -821,7 +847,7 @@ blocks:
       - **25** millones de impresiones en redes sociales
 
 
-      Si quieres que tu empresa sea parte de la próxima #trgX puedes mandarnos
+      Si quieres que tu empresa sea parte de la próxima #trg26 puedes mandarnos
       un mail a [tarugoconf@bonillaware.com](mailto:tarugoconf@bonillaware.com)
       ¡Nos encantará charlar contigo!
     src: /files/trg26_sponsors_deck_es.pdf
@@ -1061,6 +1087,10 @@ extra_head: |-
         transform: scale(1);
         opacity: 1;
       }
+    }
+    
+    #partners .block-logos-list img {
+      filter: none
     }
   </style>
 title: TRG26
