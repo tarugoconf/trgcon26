@@ -434,6 +434,10 @@ body {
   font-family: condensed;
   font-size: 2.5rem;
 }
+#colaboradores {
+  --title-color: var(--color-dark);
+  --title-shadow: var(--color-secondary);
+}
 #partners {
   --title-color: var(--color-dark);
   --title-shadow: var(--color-secondary);
