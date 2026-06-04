@@ -348,7 +348,7 @@ blocks:
               ofrece el mercado.
             speakers:
               - joseramon
-          - time: '13:45 - 14:30'
+          - time: '13:45 - 14:30h'
             title: CHARLA AMBELIBOBOL
             id: charla-tba2
             subtitle: POR ANUNCIAR
@@ -382,7 +382,7 @@ blocks:
 
               Y, por supuesto, contaremos con opciones veganas y sin gluten.
             speakers: []
-          - time: '16:30 - 16:45'
+          - time: '16:30 - 16:45h'
             title: ¿Qué saben los muggles de IA?
             subtitle: Videoreportaje
             description: >-
@@ -424,7 +424,7 @@ blocks:
               ***Stay tuned Antunez !!!***
             speakers:
               - gina
-          - time: '17:30 - 18:15 '
+          - time: '17:30 - 18:15h '
             title: Charla Ameisin
             id: charla-tba4
             subtitle: POR ANUNCIAR
@@ -457,7 +457,7 @@ blocks:
               ambiente con ritmos tropicales y latinos que nos harán mover los
               pies como langostinos.
             speakers: []
-          - time: '19:00 - 19:15'
+          - time: '19:00 - 19:15h'
             title: "\U0001F3B0 La Jerocleta"
             description: >-
               ¡El momento más esperado por los asistentes veteranos de la TRG!
@@ -529,6 +529,31 @@ blocks:
 
               * **MAIN EVENT** - El reggaetón más canalla nos hará bailar hasta
               bien entrada la noche.
+            speakers: []
+      - title: 'Sábado, 24 de octubre'
+        events:
+          - time: '11:00 - 17:00h'
+            title: "\U0001F389 Community Day"
+            id: community-day
+            label: IMPORTANTE
+            description: >+
+              Después de la intensidad del viernes, el sábado 24 de octubre —de
+              11:00h a 17:00h— celebramos el «Día de la Comunidad», una jornada
+              diseñada para disfrutar relajadamente y a la que podrás traer a tu
+              familia, amigos y compañeros de trabajo.
+
+
+              **Habrá actividades para todas las edades... y todo tipo de
+              relación con la tecnología**. En el Community Day disfrutarán por
+              igual grandes, pequeños, hackers de nivel 32 o gente que no ha
+              tocado un ordenador en su vida.
+
+
+              En muy poco tiempo os detallaremos toda la agenda del día, pero
+              para que os hagáis una idea de lo que podéis encontrar, podéis
+              consultar [la del año
+              pasado](https://2025.trgcon.com/community-day/){target="_blank"}.
+
             speakers: []
   - type: speakers
     title: Speakers
@@ -746,7 +771,7 @@ blocks:
       - name: Juan Carlos Vez
         img: /files/people/juancarlos.jpg
         url: 'https://www.linkedin.com/in/juancarlosvezvazquez/'
-      - name: Marc de Mena
+      - name: Marc De Mena
         img: /files/people/marcdemena.jpeg
         url: 'https://www.linkedin.com/in/mdemena/'
       - name: Beatriz Jimenez
@@ -772,6 +797,9 @@ blocks:
       - name: Guillermo Montoya
         img: /files/people/guillermo_montoya.jpg
         url: 'https://twitter.com/Gmfdsr'
+      - name: Juan Miqueo
+        img: /files/people/juan-miqueo.jpeg
+        url: 'https://twitter.com/juan_miqueo'
   - type: separator
     width: is-default
   - type: pdf
