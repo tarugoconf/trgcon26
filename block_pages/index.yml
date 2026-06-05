@@ -742,6 +742,10 @@ blocks:
         img: /files/logos/eventbrite_logo.png
         url: 'https://www.eventbrite.es/'
         description: Proveedor oficial de ticketing de la TRG.
+      - alt: '540'
+        img: /files/logos/logo_540_negro.png
+        url: 'https://www.540deg.com/'
+        description: Desarrollo de software de calidad con pragmatismo.
   - type: logos
     title: Colaboradores
     id: colaboradores
@@ -826,6 +830,23 @@ blocks:
       - name: Rubén Arevalillo
         img: /files/people/ruben_arevalillo.jpg
         url: 'https://x.com/rarevalillo'
+      - name: Sebastián Vidal
+        img: /files/people/sebastian.png
+        url: 'https://www.linkedin.com/in/sebasvidal/'
+      - name: Luis Ibañez
+        img: /files/logos/luis_ibanez.jpeg
+        url: 'https://x.com/ender3_'
+      - name: Dimas Suarez
+        img: /files/logos/dimas.jpg
+        url: 'https://massuarez.es/'
+      - name: Pide permanecer anónimo
+        img: /files/people/anonimo2.jpg
+      - name: Toño de la Torre
+        img: /files/logos/tono-de-la-torre.jpeg
+        url: 'https://es.linkedin.com/in/antoniodelatorre/es'
+      - name: Rubén Morgade
+        img: /files/logos/ruben_morgade.jpeg
+        url: 'https://www.linkedin.com/in/rubenmorgade/'
   - type: separator
     width: is-default
   - type: pdf
