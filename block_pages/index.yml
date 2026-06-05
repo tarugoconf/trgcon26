@@ -827,9 +827,6 @@ blocks:
       - name: Joaquín Fernandez
         img: /files/people/joaquin_fernandez.png
         url: 'https://x.com/Iarwain'
-      - name: Rubén Arevalillo
-        img: /files/people/ruben_arevalillo.jpg
-        url: 'https://x.com/rarevalillo'
       - name: Sebastián Vidal
         img: /files/people/sebastian.png
         url: 'https://www.linkedin.com/in/sebasvidal/'
