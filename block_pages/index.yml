@@ -874,12 +874,10 @@ blocks:
     src: /files/trg26_sponsors_deck_es.pdf
     caption: >
       [Descarga el dosier del
-      patrocinio](https://www.dropbox.com/scl/fi/sx1jxcdwuouc71deaarvs/TRG26_SPONSORS_DECK_ES.pdf?rlkey=qcr15kz630kgwlfjweofu5502&dl=0){target=_blank
-      .button}
+      patrocinio](/files/trg26_sponsors_deck_es.pdf){target=_blank .button}
 
 
-      [Versión en
-      inglés](https://www.dropbox.com/scl/fi/pzmujbxjgyvu6g602bzvh/TRG26_SPONSORS_DECK_EN.pdf?rlkey=t97n21lxiwxij5o1lsamwk6zx&dl=0){target=_blank}
+      [Versión en inglés](/files/trg26_sponsors_deck_en.pdf){target=_blank}
   - type: location
     title: Dónde?
     id: location
