@@ -844,6 +844,12 @@ blocks:
       - name: Rubén Morgade
         img: /files/logos/ruben_morgade.jpeg
         url: 'https://www.linkedin.com/in/rubenmorgade/'
+      - name: Iván Fernandez
+        img: /files/people/ivan.jpg
+        url: 'https://www.linkedin.com/in/iv%C3%A1n-fern%C3%A1ndez-calvo-21425033/'
+      - name: Jose Luis Cases
+        img: /files/people/jose-luis-cases.jpeg
+        url: 'https://www.linkedin.com/in/jose-luis-cases-lozano/'
   - type: separator
     width: is-default
   - type: pdf
