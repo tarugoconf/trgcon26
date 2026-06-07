@@ -752,12 +752,15 @@ blocks:
     theme: width-full
     size: small
     items:
-      - alt: Ayuntamiento de Madrid
-        img: /files/logos/madrid-innovation-ayto.png
-        url: 'https://www.madridinnovation.es/'
+      - alt: Tailor Hub
+        img: /files/logos/tailor-logo.png
+        url: 'https://www.tailor-hub.com/'
       - alt: Metricool
         img: /files/logos/logo-metricool.png
         url: 'https://metricool.com/es/'
+      - alt: Ayuntamiento de Madrid
+        img: /files/logos/madrid-innovation-ayto.png
+        url: 'https://www.madridinnovation.es/'
   - type: separator
     width: is-default
   - type: people
