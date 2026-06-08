@@ -154,39 +154,10 @@ blocks:
               circulo con el que interactuarás durante el resto del evento.
             speakers: []
           - time: '20:00 - 22:00h'
-            title: ¿Acabará la IA con mi puesto de trabajo?
+            title: El dia del juicio final
             id: show-jueves
-            subtitle: Podcast en directo
-            description: >-
-              ***** y ***** son el ying y el yang de *****, **uno de los podcast
-              más didácticos, rigurosos y —sobre todo— divertidos sobre 
-              Inteligencia Artificial** que puedes escuchar en castellano. En la
-              TRG26 grabarán un programa en directo en el que interactuarán
-              constantemente con el público.
-
-
-              La IA ha puesto patas arriba el mercado laboral de «cuello blanco»
-              en general y el sector técnico en particular.
-
-
-              Algunas empresas han escuchado los *cantos de sirena* de muchos
-              gurús y se han desprendido de parte de su plantilla o congelado
-              sus contrataciones. Otras, directamente han usado la IA como
-              excusa para hacer una limpia que satisfaga a accionistas e
-              inversores.
-
-
-              Pero ¿cuánto hay de realidad y cuánto de pensamiento mágico detrás
-              de todas estas decisiones empresariales?
-
-
-              En dos horas separaremos la señal del ruido para **dibujar un mapa
-              que nos indique hacia dónde va el mercado laboral y qué debemos
-              hacer para anticiparnos** y no perdernos por el cámino.
-
-
-              El público podrá interactuar e intervenir en un *chou* único lleno
-              de sorpresas para los asistentes.
+            subtitle: "con Monos Estocásticos \U0001F435\U0001F648"
+            description: "[Antonio](https://x.com/antonello){target=\"_blank\"} y [Mati](https://x.com/matiass){target=\"_blank\"} son el ying y el yang de [Monos Estocásticos](https://cuonda.com/monos-estocasticos){target=\"_blank\"} **uno de los podcast más didácticos, rigurosos y —sobre todo— divertidos sobre  Inteligencia Artificial** que puedes escuchar en castellano.\n\nEn la TRG26 grabarán un programa en directo en el que interactuarán constantemente con el público \U0001F973\n\nLa IA ha puesto patas arriba la industría tecnológica, pero ¿cuánto hay de realidad y cuánto de pensamiento mágico detrás de las últimas decisiones empresariales y las oleadas de despidos?\n\nEn dos horas, nuestros monos separán la señal del ruido para **dibujar un mapa que nos indique hacia dónde va el sector informático y qué debemos hacer para no perdernos por el camino**.\n___\n \n### ONE MORE THING... «RUINA SE ESCRIBE CON I y A»\n\nAl estilo del popular formato [La Ruina](https://www.youtube.com/watch?v=Ee1zWoCk6ZI&t=752s){target=\"_blank\"}, los asistentes al *chou* podrán compartir sus particulares «ruinas» informáticas —con cualquier tecnología en general y con la IA en particular— en una divertida catarsis colectiva que nos elevará a un nivel superior de consciencia.\n\n¿De verdad te lo vas a perder?"
             speakers: []
       - title: 'Viernes, 23 de octubre'
         events:
