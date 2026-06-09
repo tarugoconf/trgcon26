@@ -1,0 +1,332 @@
+title: Community Day
+menu:
+  - text: Portada
+    url: /
+    highlight: true
+  - text: FAQ
+    url: '#faq'
+    highlight: false
+blocks:
+  - type: header
+    title: "\U0001F389<br>Community Day"
+    description: >
+      Después de la intensidad del viernes, el **sábado 25 de octubre —de 11:00h
+      a 17:00h—** celebramos el «Día de la Comunidad», una jornada diseñada para
+      que disfrutar relajadamente a la que podrás **traer a tu familia, amigos y
+      compañeros de trabajo** para disfrutar de todas las actividades que hemos
+      preparado y que disfrutarán por igual grandes y pequeños.<br><br>
+
+      En esta página tienes una lista de todas las actividades, pero también
+      puedes consultar [la agenda detallada](/#agenda) o ver [un video-resumen
+      de la edición de 2022](https://vimeo.com/836780949){target="_blank"}, para
+      que sepas que puedes esperar.
+  - type: activities
+    theme: is-primary width-box box-fill
+    items:
+      - title: Flynn's Arcade
+        tags:
+          - Niños
+          - Jóvenes
+          - Mayores
+        img: /files/activities/flynn_arcade.jpg
+        description: >-
+          Recrearemos el mítico salón de máquinas recreativas de la película
+          Tron.</br></br>Disfruta, SIN TENER QUE ECHAR 25 PESETAS, de alguno de
+          los mejores videojuegos de la historia en encarnizados campeonatos
+          improvisados con otros asistentes.
+      - title: TarugOff
+        tags:
+          - Mayores
+        img: /files/activities/tarugoff.jpeg
+        description: >-
+          La TRG es mucho más que 8 charlas. En su *open space* los asistentes
+          podréis proponer vuestros propios contenidos y votar los que mas os
+          interesen. Coordinado por
+          [@merybere](https://x.com/merybere){target="_blank"}.
+      - title: Scalextric Gigante
+        tags:
+          - Niños
+          - Jóvenes
+          - Mayores
+        img: /files/activities/scalextric.jpeg
+        description: >-
+          Compite en el circuito que siempre soñaste montar en tu
+          salón.</br></br>Este año ampliamos pista y contaremos con unos coches
+          muy, MUY especiales.
+      - title: Ludoteca
+        tags:
+          - Niños
+        img: /files/activities/tar_ludoteca.jpg
+        description: >-
+          Zona para que los niños de 3 a 6 años puedan jugar, vigilados por
+          monitores titulados.
+      - title: Taller de Caligrafía
+        tags:
+          - Niños
+          - Jóvenes
+          - Adultos
+        img: /files/activities/raulmuro1.jpg
+        description: >-
+          Con el ilustrador [Raúl
+          Muro](https://www.instagram.com/raul_muro/){target="_blank"},
+          aprenderás los trazos básicos de la caligrafía utilizando *brushpen*.
+          También verás la diferencia que existe con el lettering, entre otras
+          muchas cosas.
+      - title: "Torneo de W1ndj4mm3rs \U0001F3C6"
+        tags:
+          - Jóvenes
+          - Mayores
+        img: /files/activities/w1ndj4mm3rs.jpg
+        description: >-
+          Nos hemos venido arriba llevando a la vida real [el videojuego clásico
+          de
+          1994](https://www.youtube.com/watch?v=vOynFbfOejo){target=_blank}.</br></br>Anímate
+          a [participar en el
+          torneo](https://docs.google.com/forms/d/e/1FAIpQLSexu1LOy3gv7SpsDi9WodneRw0jKdbMZIrZKGQDAt5NghVuIg/viewform){target=_blank}
+          más salvaje o disfruta del espectáculo como espectador.
+      - title: Taller de dibujo para pequeños grandes artistas
+        tags:
+          - Jóvenes
+          - Mayores
+        img: /files/activities/hugo.gif
+        description: >-
+          Aprende técnicas básicas de dibujo, que te harán parecer un experto,
+          de la mano de [Hugo
+          Tobio](https://twitter.com/HugoTobio){target=_blank} ¡El mismísimo
+          ilustrador de la Bonilista!
+      - title: Taller de Ajedrez (de 7 a 99 años)
+        tags:
+          - Niños
+          - Jóvenes
+          - Mayores
+        img: /files/activities/talleres-ajedrez_1.max-1200x900.jpg
+        description: >-
+          Pequeños y mayores conocerán las reglas básicas del ajedrez, para
+          aprender divirtiéndose y adquirir una base que nos permita seguir
+          descubriendo este apasionante juego que nos permitirá tanto conocer a
+          más gente como conocernos a nosotros mismos.
+      - title: Taller de Sketchnoting
+        tags:
+          - Jóvenes
+          - Mayores
+        img: /files/activities/oyabun24.jpeg
+        description: >-
+          Aprende a dibujar ideas.</br></br>Impartido por el mítico [Javier
+          «Oyabun» Alonso](https://twitter.com/oyabun){target=_blank}, Product
+          Designer en Docker y sketchnoter oficial de la TRG.
+      - title: "Torneo de Fortnite \U0001F3C6"
+        tags:
+          - Jóvenes
+          - Mayores
+        img: /files/activities/fortnite_trgx.jpg
+        description: >-
+          Torneo organizado de Fortnite, con diferentes categorías, dependiendo
+          del nivel del jugador.</br></br>Contaremos con casters para narrar las
+          partidas, suculentos premios y mucha, MUCHA diversión.
+      - title: CodelyTV Live
+        tags:
+          - Mayores
+        img: /files/activities/codely.jpeg
+        description: >-
+          Podrás participar en la **grabación en directo** de un episodio de
+          [CodelyTV](https://www.youtube.com/@CodelyTV){target=_blank}, el
+          divertido canal de YouTube que se ha convertido en uno de los
+          favoritos de la Comunidad técnica.
+      - title: Exhibición de Magia
+        tags:
+          - Niños
+          - Jóvenes
+          - Mayores
+        img: /files/activities/tar_magia.jpg
+        description: >-
+          El mítico [Juan
+          Tomas](https://twitter.com/juantomas){target="_blank"}, uno de los
+          pocos magos grises aun en activo que conoció las tarjetas perforadas,
+          nos obsequiará con unos trucos de ***mágia informática*** que
+          disfrutarán grandes y pequeños.
+      - title: Juegos «Desenchufados»
+        tags:
+          - Niños
+          - Jóvenes
+        img: /files/activities/TRG23_desenchufados.jpeg
+        description: >-
+          Juegos tradicionales para que las nuevas generaciones conozcan la vida
+          que hay más allá de la consola ¿Jugamos a las chapas?
+      - title: Twister Gigante
+        tags:
+          - Niños
+          - Jóvenes
+          - Mayores
+        img: /files/activities/tar_twister.jpg
+        description: >-
+          Podrás espanzurrarte con tus colegas y seres queridos. El único juego
+          donde esperamos que realmente seas retorcido.
+      - title: Jenga Gigante
+        tags:
+          - Niños
+          - Jóvenes
+          - Mayores
+        img: /files/activities/TRG23_jenga.jpeg
+        description: 'El juego de toda la vida, pero más divertido —y GRANDE— que nunca.'
+      - title: Conos de Luz
+        tags:
+          - Niños
+          - Jóvenes
+          - Mayores
+        img: /files/activities/conos.png
+        description: >-
+          Diviértete y haz ejercicio con nuestros juegos de conos para toda la
+          familia.
+      - title: Laboratorio de personalización de chapas
+        tags:
+          - Niños
+          - Jóvenes
+        img: /files/activities/TRG23_chapas.jpg
+        description: >-
+          ¡Fabrica chapas con tus propios diseños!<br><br>Puedes traer una foto,
+          un diseño impreso... o hacer un dibujo allí mismo :)
+      - title: Pintacaras
+        tags:
+          - Niños
+        img: /files/activities/TRG23_pintacaras.jpeg
+        description: Un clásico que nunca falla entre los más pequeños.
+      - title: 'Debriefing de la #TRGx'
+        tags:
+          - Mayores
+        img: /files/activities/tar_debriefing.jpg
+        description: >-
+          Conoce y comenta todos los detalles del evento, charlando
+          relajadamente con sus principales protagonistas —ponentes,
+          patrocinadores y organizadores— en un ambiente relajado y amigable.
+      - title: "\U0001F69A Food Trailer"
+        tags:
+          - Niños
+          - Jóvenes
+          - Mayores
+        img: /files/activities/trailer.jpeg
+        description: >-
+          Vuelve el famoso **trailer de 12 ejes** que nos traemos desde Galicia
+          para proporcionar opciones gastronómicas ricas, saludables y
+          sostenibles para todos los asistentes al Community Day.
+      - title: Tienda
+        tags:
+          - Niños
+          - Jóvenes
+          - Mayores
+        img: /files/activities/tienda24.jpeg
+        description: >-
+          Tienda atendida por el equipo de la TRG donde podrás completar tu
+          colección de merchandising del evento con piezas de esta o pasadas
+          ediciones.</br></br>Podrás encontrar auténticas joyas *vintage* y
+          suculentos descuentos.
+      - title: Librería
+        tags:
+          - Niños
+          - Jóvenes
+          - Adultos
+        img: /files/activities/libreria.jpg
+        description: >-
+          Un stand donde podrás conocer y adquirir libros relacionados de una u
+          otra manera con la tecnología para grandes y pequeños. Y ¿quién sabe?
+          puede que te los firmen sus propios autores...
+  - type: faq
+    title: FAQ
+    id: faq
+    theme: is-primary width-full box-fill
+    questions:
+      - question: ¿Quién puede ir al Community Day?
+        answer: >-
+          Pueden ir todos los asistentes con entrada de la TRGx que, además,
+          pueden traer consigo a los acompañantes que quieran: amigos,
+          familiares, compañeros de trabajo...<br><br>No podrán acceder personas
+          *random* que no acompañen a un asistente de la TRG.
+      - question: ¿Es una jornada solo para familias con niños?
+        answer: >-
+          ¡NORL! Hay actividades para grandes y pequeños, pero si quieres
+          pasarte con tus hijos, padres o amigos para acercarles un poco más a
+          la realidad de tu profesión, se lo pasarán PIRATA :)
+      - question: ¿Cuesta algo?
+        answer: >-
+          No. El Community Day es **completamente gratuito**.</br></br>Solo
+          tendréis que pagar los servicios de restauración (comida y bebida) que
+          consumáis.
+      - question: ¿Dónde se celebra?
+        answer: >-
+          En [La
+          Nave](https://www.lanavemadrid.com/quienes-somos/){target=_blank}, en
+          la calle Cifuentes 5 de Madrid, igual que el resto de la
+          TRGx.</br></br>
+
+          Si vais en **metro**, está a 5 minutos andando de la parada Villaverde
+          Bajo - Cruce de la Línea 3.</br>
+
+          Si llegáis en **tren**, lo tenéis a 7 minutos andando de la estación
+          Puente Alcocer, en la Línea C5.
+      - question: ¿Qué horario tiene? ¿Cuándo pasa cada cosa?
+        answer: >-
+          El Community Day arrancará a las 11:00h de la mañana y estará abierto
+          hasta después de comer (a las 17:00h, tiene que estar todo
+          recogido).</br></br>
+
+          Como habrá muchas actividades en paralelo, hemos recopilado **todos
+          los horarios y detalles** en [la Agenda del Evento](/#agenda).
+      - question: ¿Habrá sitio para aparcar?
+        answer: >-
+          Sí claro. Al lado de La Nave hay MUCHO sitio para aparcar y un sábado
+          aun más.
+      - question: ¿Habrá comida y bebida?
+        answer: >-
+          Sí. El catering oficial del evento, [O Fogar do
+          Santiso](https://fogardosantiso.es/){target=_blanck}, os ofrecerá
+          distintas propuestas (de pago) para beber y comer durante toda la
+          jornada.
+      - question: ¿Hay un límite de aforo?
+        answer: >-
+          Sí, 1.000 personas. Pero si llegamos a ese límite, el próximo año
+          alquilamos un estadio de fútbol.
+      - question: ¡Tengo más dudas!
+        answer: >-
+          No pasa nada. Como siempre, escribe a
+          [tarugoconf@bonillaware.com](mailto:tarugoconf@bonillaware.com) y allí
+          estaremos encantados de atenderte.
+metas:
+  image: ''
+theme: is-primary
+extra_head: |-
+  <style>
+    .type-header {
+      font-size: min(4rem, 10vw);
+      font-weight: normal;
+      font-family: condensed;
+      color: var(--color-dark);
+      text-shadow: -4px 4px 0 color-mix(in srgb, var(--color-light) 50%, transparent);
+    }
+    .block-activities-list li {
+      overflow: visible;
+
+      > div {
+        flex-direction: row;
+        background-color: #fff3;
+      }
+    }
+    
+    .block-activities-list img {
+      aspect-ratio: 2 / 3;
+      width: min(200px, 25vw);
+      height: min(250px, 35vwk);
+      border: solid 8px white;
+      border-bottom-width: 64px;
+      box-shadow: -4px 4px 12px #0005;
+    }
+    .block-activities-list li {
+      &:nth-child(2n) img {
+        transform: rotate(2deg) translate(0, -20px);
+      }
+      &:nth-child(3n) img {
+        transform: rotate(-2deg) translate(0, 15px);
+      }
+      &:nth-child(5n) img {
+        transform: rotate(4deg) translate(-5px, -5px);
+      }
+    }
+  </style>
