@@ -10,7 +10,7 @@ blocks:
   - type: header
     title: "\U0001F389<br>Community Day"
     description: >
-      Después de la intensidad del viernes, el **sábado 25 de octubre —de 11:00h
+      Después de la intensidad del viernes, el **sábado 24 de octubre —de 11:00h
       a 17:00h—** celebramos el «Día de la Comunidad», una jornada diseñada para
       que disfrutar relajadamente a la que podrás **traer a tu familia, amigos y
       compañeros de trabajo** para disfrutar de todas las actividades que hemos
@@ -23,6 +23,28 @@ blocks:
   - type: activities
     theme: is-primary width-box box-fill
     items:
+      - title: La DesconferencIA
+        tags:
+          - Adultos
+        img: /files/activities/tarugoff.jpeg
+        description: >-
+          La TRG es mucho más que 8 charlas.</br>En este *open space* alrededor
+          de la IA, los asistentes podréis compartir y acceder a ese
+          **«conocimiento tribal» sobre trabajo con la IA** (desde el *tooling*
+          que usáis a vuestros flujos de trabajo) que NO suele estar publicado
+          en ningún sitio y solo se transmite de boca a oreja. 
+      - title: Taller de Caligrafía
+        tags:
+          - Niños
+          - Jóvenes
+          - Adultos
+        img: /files/activities/raulmuro1.jpg
+        description: >-
+          Con el ilustrador [Raúl
+          Muro](https://www.instagram.com/raul_muro/){target="_blank"},
+          aprenderás los trazos básicos de la caligrafía utilizando *brushpen*.
+          También verás la diferencia que existe con el lettering, entre otras
+          muchas cosas.
       - title: Flynn's Arcade
         tags:
           - Niños
@@ -34,15 +56,6 @@ blocks:
           Tron.</br></br>Disfruta, SIN TENER QUE ECHAR 25 PESETAS, de alguno de
           los mejores videojuegos de la historia en encarnizados campeonatos
           improvisados con otros asistentes.
-      - title: TarugOff
-        tags:
-          - Mayores
-        img: /files/activities/tarugoff.jpeg
-        description: >-
-          La TRG es mucho más que 8 charlas. En su *open space* los asistentes
-          podréis proponer vuestros propios contenidos y votar los que mas os
-          interesen. Coordinado por
-          [@merybere](https://x.com/merybere){target="_blank"}.
       - title: Scalextric Gigante
         tags:
           - Niños
@@ -60,18 +73,6 @@ blocks:
         description: >-
           Zona para que los niños de 3 a 6 años puedan jugar, vigilados por
           monitores titulados.
-      - title: Taller de Caligrafía
-        tags:
-          - Niños
-          - Jóvenes
-          - Adultos
-        img: /files/activities/raulmuro1.jpg
-        description: >-
-          Con el ilustrador [Raúl
-          Muro](https://www.instagram.com/raul_muro/){target="_blank"},
-          aprenderás los trazos básicos de la caligrafía utilizando *brushpen*.
-          También verás la diferencia que existe con el lettering, entre otras
-          muchas cosas.
       - title: "Torneo de W1ndj4mm3rs \U0001F3C6"
         tags:
           - Jóvenes

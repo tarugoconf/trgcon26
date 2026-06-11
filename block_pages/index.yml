@@ -22,7 +22,7 @@ blocks:
 
       <time>Madrid. 22–24 octubre</time>
 
-      <img src="/files/trgcon-veintiseis.png" alt="TRGCON Veintiseis">
+      <img src="/files/trgcon-2-veintiseis.png" alt="TRGCON Veintiseis">
 
       </div>
 
@@ -828,6 +828,15 @@ blocks:
       - name: Jose Luis Cases
         img: /files/people/jose-luis-cases.jpeg
         url: 'https://www.linkedin.com/in/jose-luis-cases-lozano/'
+      - name: Daniel Ramos
+        img: /files/logos/danielramos.jpg
+        url: 'https://twitter.com/danielramosl'
+      - name: David Pardo
+        img: /files/people/davidpardo.jpg
+        url: 'https://twitter.com/dei_biz'
+      - name: Bruno López
+        img: /files/people/bruno.jpeg
+        url: 'https://www.linkedin.com/in/brunoloplag/'
   - type: separator
     width: is-default
   - type: pdf
