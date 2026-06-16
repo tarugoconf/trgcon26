@@ -730,6 +730,9 @@ blocks:
       - alt: Tailor Hub
         img: /files/logos/tailor-logo.png
         url: 'https://www.tailor-hub.com/'
+      - alt: Grupo Billingham
+        img: /files/logos/logotipos_billingham_nuevos_en_color_1_2_hwydwb.svg
+        url: 'https://www.grupobillingham.com/'
       - alt: Metricool
         img: /files/logos/logo-metricool.png
         url: 'https://metricool.com/es/'
