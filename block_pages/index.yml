@@ -687,7 +687,7 @@ blocks:
 
 
 
-      [![Image](/files/logos/wpcom-logo-pill.png){width=600}](https://wordpress.com/es/ai/?utm_medium=referral&utm_source=TRGCon2026&utm_campaign=organizerlink){target=_blank}
+      [![Image](/files/logos/wpcom-logo-pill.png){width=450}](https://wordpress.com/es/ai/?utm_medium=referral&utm_source=TRGCon2026&utm_campaign=organizerlink){target=_blank}
 
 
       Crea, publica, y despega.
@@ -725,6 +725,14 @@ blocks:
         img: /files/logos/jakala_logo.png
         url: 'https://www.jakala.com/es/'
         description: 'Datos, IA y experiencias con un impacto útil y duradero.'
+      - alt: Panel
+        img: /files/logos/panel_logo_negro.png
+        url: 'https://www.panel.es/'
+        description: El cambio empieza en TI.
+      - alt: Vrinka
+        img: /files/logos/logo_vrinka.svg
+        url: 'https://vrinka.com/'
+        description: Realidad Virtual en grupo
   - type: logos
     title: Colaboradores
     id: colaboradores
