@@ -33,15 +33,15 @@ blocks:
       - id: food
         text: Comida y bebida ilimitada durante la jornada principal (viernes)
       - id: workshop
-        text: Entrada a un taller práctico (jueves)
+        text: Posibilidad de reservar plaza en los talleres prácticos (jueves)
+      - id: networking
+        text: Acceso a las actividades de networking (jueves)
       - id: community_day
         text: Acceso al Community Day (sábado)
       - id: tshirt
         text: Camiseta del evento
       - id: welcome_pack
         text: Welcome Pack
-      - id: networking
-        text: Acceso a la plataforma de networking
       - id: party
         text: Entrada a la fiesta (viernes)
       - id: dinner
@@ -52,8 +52,6 @@ blocks:
         text: Acceso al «Senado»
       - id: photo
         text: Foto en la web del evento (si lo desean)
-      - id: extra
-        text: 20% de descuento en talleres
     tickets:
       - name: Early Bird
         pricing: 165€ + IVA
@@ -70,6 +68,7 @@ blocks:
           - tshirt
           - welcome_pack
           - networking
+          - workshop
       - name: Normal
         pricing: 250€ + IVA
         img: /files/ENTRADA NORMA.png
@@ -85,30 +84,6 @@ blocks:
           - tshirt
           - welcome_pack
           - networking
-      - name: Killer Combo
-        pricing: 350€ + IVA
-        img: /files/ENTRADA KILLER COMBO.png
-        buy:
-          text: Comprar
-          url: 'https://trg26.eventbrite.es'
-          disabled: true
-        features:
-          - conferences
-          - workshop
-          - food
-          - party
-          - community_day
-          - tshirt
-          - welcome_pack
-          - networking
-      - name: Taller
-        pricing: 150€ + IVA
-        img: /files/ENTRADA Y TALLER.png
-        buy:
-          text: Comprar
-          url: 'https://trg26.eventbrite.es'
-          disabled: true
-        features:
           - workshop
       - name: Mecenas
         pricing: 500€ + IVA
@@ -131,6 +106,7 @@ blocks:
           - senate
           - photo
           - extra
+          - workshop
 title: Entradas
 metas:
   image: ''
