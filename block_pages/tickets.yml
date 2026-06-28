@@ -54,7 +54,7 @@ blocks:
         text: Foto en la web del evento (si lo desean)
     tickets:
       - name: Early Bird
-        pricing: 175€ + IVA
+        pricing: 165€ + IVA
         img: /files/ENTRADA EARLY BIRD.png
         buy:
           text: Comprar
