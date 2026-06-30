@@ -233,7 +233,7 @@ blocks:
               [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
               ***Stay tuned Antunez !!!***
             speakers:
-              - trudy
+              - sonny
           - time: '11:00 - 11:45h'
             title: Quemar tokens sin quemar tu empresa
             id: charla-cristian
@@ -325,26 +325,38 @@ blocks:
             speakers:
               - joseramon
           - time: '13:45 - 14:30h'
-            title: CHARLA AMBELIBOBOL
-            id: charla-tba2
-            subtitle: POR ANUNCIAR
+            title: Cómo programan quienes programan la IA
+            id: charla-mai
+            subtitle: por Mai Giménez
             description: >-
-              En esta franja horaria disfrutarás de una charla awesómica y
-              eminentemente práctica, impartida por un/a speaker con MUCHOS
-              tiros pegaos y experiencia contrastada en el tema.
+              La inteligencia artificial ha cambiado para siempre la forma en la
+              que desarrollamos software, pero demasiadas empresas todavía creen
+              que «trabajar con IA» consiste en pagar una suscripción de Gemini,
+              Claude o Codex a sus desarrolladores.
 
 
-              **El objetivo es que adquieras un nuevo superpoder que puedas
-              aplicar en tu día a día** —el lunes siguiente, si quieres— que te
-              ayude a progresar personal y profesionalmente.
+              Limitarse a replicar el día a día con la asistencia de un LLM es
+              un grave error. En la era de la IA agéntica, el miedo a la página
+              en blanco ha muerto, pero el peligro real es el *AI-slop*. Nuestro
+              rol como desarrolladores debe evolucionar para adaptarse a este
+              nuevo paradigma, repensando la organización, los flujos y las
+              herramientas que esa nueva realidad exige.
 
 
-              Si quieres enterarte del contenido y speaker en cuanto lo
-              anunciemos, no dejes de seguirnos en redes sociales. Las que más
-              actualizamos con [X](https://x.com/tarugoconf){target=_blank} e
-              [Instagram](https://www.instagram.com/tarugoconf/).
+              En esta charla, Mai diseccionará **las dinámicas de programación,
+              procesos de revisión y mecanismos de colaboración en empresas que
+              no solo usan IA, sino que la desarrollan**. Qué tareas se aceleran
+              y escalan. Dónde sigue mereciendo la pena invertir tiempo humano.
+              Qué cuellos de botella nuevos aparecen. Qué hábitos y buenas
+              prácticas conviene cultivar para trabajar mejor sin delegar jamás
+              la responsabilidad de pensar.
+
+
+              **Para que, más allá del *hype* y el ruido, entendamos hacia dónde
+              evolucionará de verdad el desarrollo de software** en los próximos
+              años.
             speakers:
-              - sonny
+              - mai
           - time: '14:30 - 16:30h'
             title: "\U0001F419 Comida y Pulpeirada"
             id: comida-viernes
@@ -593,22 +605,32 @@ blocks:
             url: 'https://helmcode.com/'
           - icon: linkedin-logo
             url: 'https://www.linkedin.com/in/helmcode/'
-      - name: Speaker Awesómica
-        id: trudy
-        role: Por anunciar
+      - name: ' Mai Giménez'
+        id: mai
+        company: DeepMind
+        role: 'Research Engineer '
         bio: >-
-          Elegimos a nuestros ponentes no solo por su experiencia y conocimiento
-          en el tema que deben desarrollar, sino también por su capacidad de
-          comunicar de forma efectiva y amena.
+          Mai Giménez investiga en el desarrollo de modelos de lenguaje grandes
+          y multimodales en Google DeepMind. Tiene un doctorado en comprensión
+          del lenguaje natural y también completó un máster en diseño e
+          ilustración.
 
 
-          Iremos desvelando los speakers en los próximos días. Puedes enterarte
-          de las últimas novedades del evento siguiendo nuestra cuenta en
-          [X](https://x.com/tarugoconf){target="_blank"} o
-          [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
-          ***Stay tuned Antunez !!!***
-        image: /files/PONENTE 2 - serio.jpg
-        links: []
+          A Mai le apasiona crear la tecnología más útil para todo el mundo y su
+          principal interés de investigación se centra en el lenguaje y los
+          impactos sociotécnicos de estos modelos en el mundo real.
+
+
+          Y, por si fuera poco, contribuye de forma activa a la comunidad
+          técnica. Mai fue miembro de la junta directiva de la Asociación Python
+          España, ayudó a organizar varias PyConES y es una orgullosa integrante
+          de PyLadies.
+        image: /files/people/mai_gimenez.jpg
+        links:
+          - icon: linkedin-logo
+            url: 'https://www.linkedin.com/in/maigimenez/'
+          - icon: x-logo
+            url: 'https://x.com/maidotgimenez'
       - name: SPEAKER AMBELIBOBOL
         id: sonny
         role: Por anunciar
