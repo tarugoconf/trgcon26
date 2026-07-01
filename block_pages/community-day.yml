@@ -33,29 +33,46 @@ blocks:
           **«conocimiento tribal» sobre trabajo con la IA** (desde el *tooling*
           que usáis a vuestros flujos de trabajo) que NO suele estar publicado
           en ningún sitio y solo se transmite de boca a oreja. 
-      - title: Taller de Caligrafía
+      - title: "Torneo de W1ndj4mm3rs \U0001F3C6"
         tags:
-          - Niños
           - Jóvenes
-          - Adultos
-        img: /files/activities/raulmuro1.jpg
+          - Mayores
+        img: /files/activities/captura-de-pantalla-2026-07-01-a-las-8.14.54.png
         description: >-
-          Con el ilustrador [Raúl
-          Muro](https://www.instagram.com/raul_muro/){target="_blank"},
-          aprenderás los trazos básicos de la caligrafía utilizando *brushpen*.
-          También verás la diferencia que existe con el lettering, entre otras
-          muchas cosas.
+          Nos hemos venido arriba llevando a la vida real [el videojuego clásico
+          de
+          1994](https://www.youtube.com/watch?v=vOynFbfOejo){target=_blank}.</br></br>Anímate
+          a participar en el torneo más salvaje o disfruta del espectáculo como
+          espectador.
       - title: Flynn's Arcade
         tags:
           - Niños
           - Jóvenes
           - Mayores
-        img: /files/activities/flynn_arcade.jpg
+        img: /files/activities/1761647849202.jpeg
         description: >-
           Recrearemos el mítico salón de máquinas recreativas de la película
           Tron.</br></br>Disfruta, SIN TENER QUE ECHAR 25 PESETAS, de alguno de
           los mejores videojuegos de la historia en encarnizados campeonatos
           improvisados con otros asistentes.
+      - title: Realidad Virtual en Grupo
+        tags:
+          - Niños
+          - Jóvenes
+          - Mayores
+        img: /files/activities/vr_grupo.jpg
+        description: >-
+          Podrás experimentar la realidad virtual con tus amigos o tu familia,
+          en un juego colaborativo que os llevará a luchar con Terminators
+          dirigidos por una IA rebelde.
+      - title: 'Debriefing de la #TRG26'
+        tags:
+          - Mayores
+        img: /files/activities/tar_debriefing.jpg
+        description: >-
+          Conoce y comenta todos los detalles del evento, charlando
+          relajadamente con sus principales protagonistas —ponentes,
+          patrocinadores y organizadores— en un ambiente relajado y amigable.
       - title: Scalextric Gigante
         tags:
           - Niños
@@ -73,18 +90,6 @@ blocks:
         description: >-
           Zona para que los niños de 3 a 6 años puedan jugar, vigilados por
           monitores titulados.
-      - title: "Torneo de W1ndj4mm3rs \U0001F3C6"
-        tags:
-          - Jóvenes
-          - Mayores
-        img: /files/activities/w1ndj4mm3rs.jpg
-        description: >-
-          Nos hemos venido arriba llevando a la vida real [el videojuego clásico
-          de
-          1994](https://www.youtube.com/watch?v=vOynFbfOejo){target=_blank}.</br></br>Anímate
-          a [participar en el
-          torneo](https://docs.google.com/forms/d/e/1FAIpQLSexu1LOy3gv7SpsDi9WodneRw0jKdbMZIrZKGQDAt5NghVuIg/viewform){target=_blank}
-          más salvaje o disfruta del espectáculo como espectador.
       - title: Taller de dibujo para pequeños grandes artistas
         tags:
           - Jóvenes
@@ -106,33 +111,6 @@ blocks:
           aprender divirtiéndose y adquirir una base que nos permita seguir
           descubriendo este apasionante juego que nos permitirá tanto conocer a
           más gente como conocernos a nosotros mismos.
-      - title: Taller de Sketchnoting
-        tags:
-          - Jóvenes
-          - Mayores
-        img: /files/activities/oyabun24.jpeg
-        description: >-
-          Aprende a dibujar ideas.</br></br>Impartido por el mítico [Javier
-          «Oyabun» Alonso](https://twitter.com/oyabun){target=_blank}, Product
-          Designer en Docker y sketchnoter oficial de la TRG.
-      - title: "Torneo de Fortnite \U0001F3C6"
-        tags:
-          - Jóvenes
-          - Mayores
-        img: /files/activities/fortnite_trgx.jpg
-        description: >-
-          Torneo organizado de Fortnite, con diferentes categorías, dependiendo
-          del nivel del jugador.</br></br>Contaremos con casters para narrar las
-          partidas, suculentos premios y mucha, MUCHA diversión.
-      - title: CodelyTV Live
-        tags:
-          - Mayores
-        img: /files/activities/codely.jpeg
-        description: >-
-          Podrás participar en la **grabación en directo** de un episodio de
-          [CodelyTV](https://www.youtube.com/@CodelyTV){target=_blank}, el
-          divertido canal de YouTube que se ha convertido en uno de los
-          favoritos de la Comunidad técnica.
       - title: Exhibición de Magia
         tags:
           - Niños
@@ -191,14 +169,6 @@ blocks:
           - Niños
         img: /files/activities/TRG23_pintacaras.jpeg
         description: Un clásico que nunca falla entre los más pequeños.
-      - title: 'Debriefing de la #TRGx'
-        tags:
-          - Mayores
-        img: /files/activities/tar_debriefing.jpg
-        description: >-
-          Conoce y comenta todos los detalles del evento, charlando
-          relajadamente con sus principales protagonistas —ponentes,
-          patrocinadores y organizadores— en un ambiente relajado y amigable.
       - title: "\U0001F69A Food Trailer"
         tags:
           - Niños
@@ -220,16 +190,6 @@ blocks:
           colección de merchandising del evento con piezas de esta o pasadas
           ediciones.</br></br>Podrás encontrar auténticas joyas *vintage* y
           suculentos descuentos.
-      - title: Librería
-        tags:
-          - Niños
-          - Jóvenes
-          - Adultos
-        img: /files/activities/libreria.jpg
-        description: >-
-          Un stand donde podrás conocer y adquirir libros relacionados de una u
-          otra manera con la tecnología para grandes y pequeños. Y ¿quién sabe?
-          puede que te los firmen sus propios autores...
   - type: faq
     title: FAQ
     id: faq
