@@ -764,6 +764,9 @@ blocks:
       - alt: Tailor Hub
         img: /files/logos/tailor-logo.png
         url: 'https://www.tailor-hub.com/'
+      - alt: Transparent Edge
+        img: /files/logos/te_logotipo_secundario_positivo.svg
+        url: 'https://www.transparentedge.eu/'
       - alt: Grupo Billingham
         img: /files/logos/logotipos_billingham_nuevos_en_color_1_2_hwydwb.svg
         url: 'https://www.grupobillingham.com/'
