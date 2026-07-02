@@ -379,39 +379,29 @@ blocks:
               y su impacto.
             speakers: []
           - time: '16:45 - 17:30h'
-            title: Charla Fantabulosa
-            id: charla-tba3
-            subtitle: POR ANUNCIAR
+            title: 'La creatividad no escala. La ejecución, sí'
+            id: charla-nuria
+            subtitle: por Nuria Mediavilla
             description: >-
-              «*Ningún discurso es demasiado corto*». En la TRG creemos en las
-              enseñanzas de los legendarios Kenneth Roman y Joel Raphaelson, por
-              eso nuestras charlas «sólo» duran 30 minutos. Eso sí, tenemos un
-              turno de preguntas de 15 minutos —desarrollado en formato
-              entrevista, sentado en un sofá, como en un *late night show*— que
-              SIEMPRE se nos queda corto. ¡La interactuación con el público
-              suele ser tan interesante como la charla en sí!
+              ¿Podemos reducir el «buen gusto» a un algoritmo? ¿Puede una
+              máquina despertar una sensación? ¿Cómo potenciar un proceso
+              creativo con inteligencia artificial sin sustituir aquello que lo
+              hace valioso?
 
 
-              La TRG se diferencia de otras conferencias en que tiene **línea
-              editorial**. Elegimos los temas que creemos que más pueden
-              interesar al público y, después, buscamos a los ponentes que
-              creemos que mejor pueden desarrollarlos. 
+              Nuria desglosará un conjunto de metodologías, buenas prácticas y
+              herramientas que conforman un marco de trabajo para escalar
+              procesos de diseño —desde la exploración de ideas hasta la
+              generación de variaciones, prototipos, contenidos o sistemas de
+              interacción— y multiplicar la creatividad humana en vez de
+              sustituirla.
 
 
-              Si quieres ver cómo es una charla típica de la TRG, tienes muchas
-              disponibles en nuestro canal de Vimeo. Por ejemplo, la que dio
-              Antonio en 2023, explicando [cómo una fábrica de polvorones se
-              había convertido en una empresa puntera de
-              I+D](https://vimeo.com/894460019/2c5c69323d){target="_blank"}.
-
-
-              Iremos desvelando las charlas en los próximos días. Puedes
-              enterarte de las últimas novedades del evento siguiendo nuestra
-              cuenta en [X](https://x.com/tarugoconf){target="_blank"} o
-              [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
-              ***Stay tuned Antunez !!!***
+              Los asistentes a esta charla conocerán cómo integrar diseño en el
+              desarrollo iterativo de productos y servicios digitales en la era
+              de la IA.  
             speakers:
-              - gina
+              - nuria
           - time: '17:30 - 18:15h '
             title: Charla Ameisin
             id: charla-tba4
@@ -579,32 +569,6 @@ blocks:
             url: 'https://open.spotify.com/show/2zTAR5x2wWtvdB8JXjy0cm'
           - icon: globe
             url: 'https://www.gemba.es/'
-      - name: Cristian Córdova
-        id: cristian
-        company: Helmcode
-        role: Fundador
-        bio: >-
-          Cristian es un camarada del metal, formado no en los pasillos de
-          Stanford sino en la FP superior de Administración de Sistemas del
-          Instituto Virgen de la Paz de Alcobendas.
-
-
-          Culo inquieto, ha hecho todas las *pokevoluciones* del cacharreo,
-          pasado de la simple gestión de una instancia Linux al SRE y después a
-          DevOps, lo que le permitió adquirir todos los conocimientos necesarios
-          para especializarse en la administración de infraestructura para IA.
-
-
-          Fundador de Helmcode, una empresa que proporciona servicios de DevOps
-          e Inferencia, tanto a empresas como a particulares.
-        image: /files/people/cristian.jpg
-        links:
-          - icon: x-logo
-            url: 'https://x.com/barckcode'
-          - icon: globe
-            url: 'https://helmcode.com/'
-          - icon: linkedin-logo
-            url: 'https://www.linkedin.com/in/helmcode/'
       - name: ' Mai Giménez'
         id: mai
         company: DeepMind
@@ -631,6 +595,32 @@ blocks:
             url: 'https://www.linkedin.com/in/maigimenez/'
           - icon: x-logo
             url: 'https://x.com/maidotgimenez'
+      - name: Cristian Córdova
+        id: cristian
+        company: Helmcode
+        role: Fundador
+        bio: >-
+          Cristian es un camarada del metal, formado no en los pasillos de
+          Stanford sino en la FP superior de Administración de Sistemas del
+          Instituto Virgen de la Paz de Alcobendas.
+
+
+          Culo inquieto, ha hecho todas las *pokevoluciones* del cacharreo,
+          pasado de la simple gestión de una instancia Linux al SRE y después a
+          DevOps, lo que le permitió adquirir todos los conocimientos necesarios
+          para especializarse en la administración de infraestructura para IA.
+
+
+          Fundador de Helmcode, una empresa que proporciona servicios de DevOps
+          e Inferencia, tanto a empresas como a particulares.
+        image: /files/people/cristian.jpg
+        links:
+          - icon: x-logo
+            url: 'https://x.com/barckcode'
+          - icon: globe
+            url: 'https://helmcode.com/'
+          - icon: linkedin-logo
+            url: 'https://www.linkedin.com/in/helmcode/'
       - name: SPEAKER AMBELIBOBOL
         id: sonny
         role: Por anunciar
@@ -647,22 +637,35 @@ blocks:
           ***Stay tuned Antunez !!!***
         image: /files/PONENTE 1 - serio.jpg
         links: []
-      - name: SPEAKER FANTABULOSA
-        id: gina
-        role: Por anunciar
+      - name: Nuria Mediavilla
+        id: nuria
+        company: Tinybird
+        role: Product Designer
         bio: >-
-          Elegimos a nuestros ponentes no solo por su experiencia y conocimiento
-          en el tema que deben desarrollar, sino también por su capacidad de
-          comunicar de forma efectiva y amena.
+          Nuria diseña para desarrolladores, o sea, se dedica a convencer a
+          gente muy lista de que el diseño no es decoración, es lógica, solo que
+          con otro lenguaje. Es de Bilbao, tiene la mala hostia que se le
+          presupone a cualquier bilbaína, y la lleva usando a su favor desde que
+          se metió en esto.
 
 
-          Iremos desvelando los speakers en los próximos días. Puedes enterarte
-          de las últimas novedades del evento siguiendo nuestra cuenta en
-          [X](https://x.com/tarugoconf){target="_blank"} o
-          [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
-          ***Stay tuned Antunez !!!***
-        image: /files/people/gina_gpt.jpg
-        links: []
+          Lleva cuatro años en Tinybird, después de pasar por Corunet,
+          Zorraquino y una temporada de freelance. Ahora usa Claude Code para
+          tener autonomía real: lleva sus propios cambios a producción y le
+          quita carga a ingeniería en todo lo que puede resolver ella misma. Va
+          de que el diseño deje de ser el cuello de botella.
+
+
+          Fuera del trabajo, Blur —su mejor amigo, un galgo de 12 años— la sigue
+          a todas partes. Le apasiona el diseño y le apasiona la IA, pero donde
+          de verdad disfruta es comiendo bien, de fiesta y viajando. Vamos, una
+          disfrutona.
+        image: /files/people/nuria2.jpg
+        links:
+          - icon: linkedin-logo
+            url: 'https://es.linkedin.com/in/nuriamediavilla'
+          - icon: x-logo
+            url: 'https://x.com/nmediavilla19'
       - name: SPEAKER AMEISIN
         id: ricardo
         role: Por anunciar
@@ -755,6 +758,14 @@ blocks:
         img: /files/logos/logo_vrinka.svg
         url: 'https://vrinka.com/'
         description: Realidad Virtual en grupo
+      - alt: Next Digital
+        img: /files/logos/logo_next.png
+        url: 'https://www.nextdigital.es/'
+        description: 'Código de calidad, futuro sostenible'
+      - alt: Oscar Rama
+        img: /files/logos/oscar_rama2.png
+        url: 'https://oscarrama.es/'
+        description: Te mereces un abogado mejor que ChatGPT
   - type: logos
     title: Colaboradores
     id: colaboradores
@@ -767,6 +778,9 @@ blocks:
       - alt: Transparent Edge
         img: /files/logos/te_logotipo_secundario_positivo.svg
         url: 'https://www.transparentedge.eu/'
+      - alt: Wanda Media
+        img: /files/logos/wanda_media.png
+        url: 'https://wandamedia.es/'
       - alt: Grupo Billingham
         img: /files/logos/logotipos_billingham_nuevos_en_color_1_2_hwydwb.svg
         url: 'https://www.grupobillingham.com/'
