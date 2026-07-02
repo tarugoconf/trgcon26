@@ -766,6 +766,10 @@ blocks:
         img: /files/logos/oscar_rama2.png
         url: 'https://oscarrama.es/'
         description: Te mereces un abogado mejor que ChatGPT
+      - alt: onext
+        img: /files/logos/Logo_onext_transparente.svg
+        url: 'https://www.onext.es/es/'
+        description: Ingeniería de contexto para IA empresarial.
   - type: logos
     title: Colaboradores
     id: colaboradores
