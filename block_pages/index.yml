@@ -901,6 +901,12 @@ blocks:
       - name: Juanjo Ibañez
         img: /files/people/juanjo.jpeg
         url: 'https://www.linkedin.com/in/juan-jose-ibanez-5277751a/'
+      - name: Javier López
+        img: /files/people/javier_lopez.jpeg
+        url: 'https://www.linkedin.com/in/javierlopezcamacho/'
+      - name: txetxu Velayos
+        img: /files/people/txetxu.jpg
+        url: 'https://x.com/txetxuvel'
   - type: separator
     width: is-default
   - type: pdf
