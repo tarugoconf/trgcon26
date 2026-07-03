@@ -379,27 +379,30 @@ blocks:
               y su impacto.
             speakers: []
           - time: '16:45 - 17:30h'
-            title: 'La creatividad no escala. La ejecución, sí'
+            title: 'El Diseño post-chatGPT: eliminando barreras, no trabajos'
             id: charla-nuria
             subtitle: por Nuria Mediavilla
             description: >-
-              ¿Podemos reducir el «buen gusto» a un algoritmo? ¿Puede una
-              máquina despertar una sensación? ¿Cómo potenciar un proceso
-              creativo con inteligencia artificial sin sustituir aquello que lo
-              hace valioso?
+              ¿Qué pasa cuando ya no necesitas a nadie más para llevar una idea
+              a producción? **¿Sigue haciendo falta un perfil de diseño cuando
+              cualquiera puede generar una interfaz en segundos?** ¿O es
+              precisamente ahora cuando ese perfil se vuelve más necesario que
+              nunca?
 
 
-              Nuria desglosará un conjunto de metodologías, buenas prácticas y
-              herramientas que conforman un marco de trabajo para escalar
-              procesos de diseño —desde la exploración de ideas hasta la
-              generación de variaciones, prototipos, contenidos o sistemas de
-              interacción— y multiplicar la creatividad humana en vez de
-              sustituirla.
+              Nuria contará cómo ha pasado de proponer diseño a construirlo y
+              lanzarlo ella misma, usando IA para eliminar las barreras técnicas
+              que antes obligaban a depender de otros equipos: prototipos,
+              cambios en producción, sistemas de interacción. No se trata de
+              trabajar más rápido, sino de tener autonomía real sobre el impacto
+              del propio trabajo, y de entender que el buen criterio de diseño
+              importa más cuanto menos cuesta ejecutar cualquier cosa.
 
 
-              Los asistentes a esta charla conocerán cómo integrar diseño en el
-              desarrollo iterativo de productos y servicios digitales en la era
-              de la IA.  
+              Los asistentes a esta charla se llevarán **un enfoque práctico de
+              cómo integrar diseño en el desarrollo iterativo de producto en la
+              era de la IA**, y por qué el perfil de diseño, lejos de sobrar, es
+              hoy de los que más puede aportar.
             speakers:
               - nuria
           - time: '17:30 - 18:15h '
