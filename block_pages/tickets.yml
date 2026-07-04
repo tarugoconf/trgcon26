@@ -61,7 +61,7 @@ blocks:
         buy:
           text: Comprar
           url: 'https://trg26.eventbrite.es'
-          disabled: true
+          disabled: false
         features:
           - conferences
           - food
@@ -77,7 +77,7 @@ blocks:
         buy:
           text: Comprar
           url: 'https://trg26.eventbrite.es'
-          disabled: true
+          disabled: false
         features:
           - conferences
           - food
@@ -93,7 +93,7 @@ blocks:
         buy:
           text: Comprar
           url: 'https://trg26.eventbrite.es'
-          disabled: true
+          disabled: false
         features:
           - conferences
           - streaming
