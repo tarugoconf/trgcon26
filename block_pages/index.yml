@@ -926,6 +926,9 @@ blocks:
       - name: Diego Mariño
         img: /files/people/diego-marino.jpeg
         url: 'https://twitter.com/diegomarino'
+      - name: Javier Ramírez
+        img: /files/people/fotojavi.jpeg
+        url: 'https://www.linkedin.com/in/javierramirezblanes'
   - type: separator
     width: is-default
   - type: pdf
