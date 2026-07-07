@@ -898,15 +898,34 @@ blocks:
       - name: Bruno López
         img: /files/people/bruno.jpeg
         url: 'https://www.linkedin.com/in/brunoloplag/'
+      - name: Martín Álvarez
+        img: /files/people/martin.jpeg
+        url: >-
+          https://www.linkedin.com/in/mart%C3%ADn-%C3%A1lvarez-castillo-41254650/
       - name: Juanjo Ibañez
         img: /files/people/juanjo.jpeg
         url: 'https://www.linkedin.com/in/juan-jose-ibanez-5277751a/'
-      - name: Javier López
+      - name: Javier López-Camacho
         img: /files/people/javier_lopez.jpeg
         url: 'https://www.linkedin.com/in/javierlopezcamacho/'
       - name: txetxu Velayos
         img: /files/people/txetxu.jpg
         url: 'https://x.com/txetxuvel'
+      - name: Pablo R.
+        img: /files/logos/pablor.jpg
+        url: 'https://x.com/root_rat'
+      - name: Ricardo Bartolomé
+        img: /files/people/ricardo.jpeg
+        url: 'https://www.linkedin.com/in/ricardobartolome/'
+      - name: Ignacio Lacasa
+        img: /files/people/ignacio.jpeg
+        url: 'https://www.linkedin.com/in/ignacio-lacasa/'
+      - name: Boro Mas
+        img: /files/people/boromas.jpg
+        url: 'https://x.com/boromas'
+      - name: Diego Mariño
+        img: /files/people/diego-marino.jpeg
+        url: 'https://twitter.com/diegomarino'
   - type: separator
     width: is-default
   - type: pdf
