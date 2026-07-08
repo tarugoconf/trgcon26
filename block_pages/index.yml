@@ -929,6 +929,9 @@ blocks:
       - name: Javier Ramírez
         img: /files/people/fotojavi.jpeg
         url: 'https://www.linkedin.com/in/javierramirezblanes'
+      - name: Noemí Carro
+        img: /files/people/noemi.jpg
+        url: 'https://x.com/NoemiCarro'
   - type: separator
     width: is-default
   - type: pdf
