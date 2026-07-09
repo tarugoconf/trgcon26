@@ -932,6 +932,9 @@ blocks:
       - name: Noemí Carro
         img: /files/people/noemi.jpg
         url: 'https://x.com/NoemiCarro'
+      - name: César Alberca
+        img: /files/people/cesar_alberca.jpeg
+        url: 'https://cesalberca.com'
   - type: separator
     width: is-default
   - type: pdf
