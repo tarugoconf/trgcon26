@@ -1187,6 +1187,30 @@ extra_head: |-
         oklch(0.65 0.16 234) 95%
       );
     }
+    @media (width < 500px) {
+      .ly-blocks {
+        background-image: linear-gradient(
+          to bottom,
+          oklch(0.10 0.05 345) 10%,
+          oklch(0.60 0.16 345) 15%,
+          #dafaff 20%,
+          #dafaff 90%,
+          oklch(0.65 0.16 234) 95%
+        );
+      }
+    }
+    @media (width < 800px) {
+      .ly-blocks {
+        background-image: linear-gradient(
+          to bottom,
+          oklch(0.10 0.05 345) 10%,
+          oklch(0.60 0.16 345) 20%,
+          #dafaff 35%,
+          #dafaff 90%,
+          oklch(0.65 0.16 234) 95%
+        );
+      }
+    }
     @keyframes logoin {
       from {
         transform: scale(1.5);
