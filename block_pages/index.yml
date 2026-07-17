@@ -935,6 +935,9 @@ blocks:
       - name: César Alberca
         img: /files/people/cesar_alberca.jpeg
         url: 'https://cesalberca.com'
+      - name: Manuel Delgado
+        img: /files/people/manuel_delgado.jpeg
+        url: 'https://www.manueldelgado.com'
   - type: separator
     width: is-default
   - type: pdf
