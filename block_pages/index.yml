@@ -938,6 +938,9 @@ blocks:
       - name: Manuel Delgado
         img: /files/people/manuel_delgado.jpeg
         url: 'https://www.manueldelgado.com'
+      - name: Juan Jesús Yubero
+        img: /files/people/yubero.jpeg
+        url: 'https://www.linkedin.com/in/juanjesusyubero/'
   - type: separator
     width: is-default
   - type: pdf
