@@ -453,39 +453,12 @@ blocks:
               ¡Cuanto más tuitees, más posibilidades tendrás de ganar!
             speakers: []
           - time: '19:15 - 20:00h'
-            title: Charla tope de gama
-            id: charla-tba5
-            subtitle: POR ANUNCIAR
-            description: >-
-              «*Ningún discurso es demasiado corto*». En la TRG creemos en las
-              enseñanzas de los legendarios Kenneth Roman y Joel Raphaelson, por
-              eso nuestras charlas «sólo» duran 30 minutos. Eso sí, tenemos un
-              turno de preguntas de 15 minutos —desarrollado en formato
-              entrevista, sentado en un sofá, como en un *late night show*— que
-              SIEMPRE se nos queda corto. ¡La interactuación con el público
-              suele ser tan interesante como la charla en sí!
-
-
-              La TRG se diferencia de otras conferencias en que tiene **línea
-              editorial**. Elegimos los temas que creemos que más pueden
-              interesar al público y, después, buscamos a los ponentes que
-              creemos que mejor pueden desarrollarlos. 
-
-
-              Si quieres ver cómo es una charla típica de la TRG, tienes muchas
-              disponibles en nuestro canal de Vimeo. Por ejemplo, la que dio
-              Antonio en 2023, explicando [cómo una fábrica de polvorones se
-              había convertido en una empresa puntera de
-              I+D](https://vimeo.com/894460019/2c5c69323d){target="_blank"}.
-
-
-              Iremos desvelando las charlas en los próximos días. Puedes
-              enterarte de las últimas novedades del evento siguiendo nuestra
-              cuenta en [X](https://x.com/tarugoconf){target="_blank"} o
-              [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
-              ***Stay tuned Antunez !!!***
+            title: Lo veo todo negro (AI powered Edition™)
+            id: charla-juanjo
+            subtitle: por Juanjo Montiel
+            description: "Juanjo lleva más de diecinueve años trabajando como desarrollador. Y, como casi todos los programadores, contempla la inteligencia artificial con una mezcla de fascinación y cierta inquietud.\n\nPero Juanjo puede aportar una perspectiva especialmente reveladora sobre esta tecnología porque es ciego de nacimiento. Aunque ninguno sabemos muy bien qué futuro nos deparará la IA, él si puede afirmar con absoluta seguridad que lo ve NEGRO \U0001F60E\n \nEn esta charla, Juanjo nos mostrará las posibilidades y retos que ha introducido la IA en nuestro día a día —productividad, autonomía, dependencia de plataformas de terceros, falsas promesas, sesgos, el derribo de antiguas barreras y la aparición de otras nuevas— pero desde un prisma que las aumenta por 1.000, como es depender de la tecnología no por comodidad, sino para percibir el mundo y tomar decisiones diarias.\n\nUn prisma que, precisamente por eso, pone esas posibilidades y esos retos a la vista de todos, ciegos o no."
             speakers:
-              - castillo
+              - juanjo
           - time: '20:00 - 20:30h'
             title: Rendición de cuentas
             id: rendicion-cuentas
@@ -685,22 +658,38 @@ blocks:
           ***Stay tuned Antunez !!!***
         image: /files/PONENTE 5 - Serio.jpg
         links: []
-      - name: SPEAKER TOPE DE GAMA
-        id: castillo
-        role: Por anunciar
+      - name: Juanjo Montiel
+        id: juanjo
+        company: Microsoft
+        role: Senior Software Development Engineer
         bio: >-
-          Elegimos a nuestros ponentes no solo por su experiencia y conocimiento
-          en el tema que deben desarrollar, sino también por su capacidad de
-          comunicar de forma efectiva y amena.
+          Juanjo Montiel es ingeniero de software en Microsoft, especializado en
+          .NET, C#, servicios en la nube y accesibilidad digital. Ciego de
+          nacimiento y programador autodidacta desde la adolescencia, lleva más
+          de diecinueve años creando productos y experiencias digitales
+          accesibles.
 
 
-          Iremos desvelando los speakers en los próximos días. Puedes enterarte
-          de las últimas novedades del evento siguiendo nuestra cuenta en
-          [X](https://x.com/tarugoconf){target="_blank"} o
-          [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
-          ***Stay tuned Antunez !!!***
-        image: /files/PONENTE 3 - serio.jpg
-        links: []
+          A lo largo de su trayectoria ha combinado el desarrollo profesional
+          con la docencia, la divulgación y la creación de proyectos propios.
+          Entre ellos se encuentran TagFit, una aplicación para identificar y
+          organizar ropa de forma accesible, y Corro, un motor de juegos de mesa
+          y cartas diseñado para que personas ciegas y videntes puedan jugar
+          juntas en igualdad de condiciones.
+
+
+          Le apasiona construir software de calidad, explorar cómo la tecnología
+          puede ampliar la autonomía de las personas y compartir lo que aprende
+          mediante cursos, artículos y conferencias, siempre desde la cercanía y
+          el buen humor.
+        image: /files/people/juanjo.jpg
+        links:
+          - icon: linkedin-logo
+            url: 'https://www.linkedin.com/in/jjmontiel/'
+          - icon: globe
+            url: 'https://www.kastwey.org/'
+          - icon: mastodon-logo
+            url: 'https://bookstodon.es/@kastwey'
   - type: logos
     title: Partners
     id: partners
