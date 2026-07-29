@@ -929,6 +929,9 @@ blocks:
       - name: Anxo Barreiro Canosa
         img: /files/people/anxo.jpg
         url: 'https://x.com/Anxobc'
+      - name: Andrea Magán
+        img: /files/people/andrea.jpeg
+        url: 'https://www.linkedin.com/in/andreamaganrey/'
   - type: separator
     width: is-default
   - type: pdf
