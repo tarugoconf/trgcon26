@@ -59,9 +59,9 @@ blocks:
         pricing: 175€ + IVA
         img: /files/ENTRADA EARLY BIRD.png
         buy:
-          text: Comprar
+          text: Agotadas
           url: 'https://trg26.eventbrite.es'
-          disabled: false
+          disabled: true
         features:
           - conferences
           - food
