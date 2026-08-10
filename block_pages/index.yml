@@ -770,6 +770,9 @@ blocks:
       - alt: Transparent Edge
         img: /files/logos/te_logotipo_secundario_positivo.svg
         url: 'https://www.transparentedge.eu/'
+      - alt: Docuten
+        img: /files/logos/docuten_logo.png
+        url: 'https://docuten.com/es/'
       - alt: Wanda Media
         img: /files/logos/wanda_media.png
         url: 'https://wandamedia.es/'
