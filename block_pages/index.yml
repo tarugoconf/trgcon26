@@ -782,6 +782,9 @@ blocks:
       - alt: Metricool
         img: /files/logos/logo-metricool.png
         url: 'https://metricool.com/es/'
+      - alt: New Age Agency
+        img: /files/logos/logo_newage.png
+        url: 'https://www.instagram.com/newage.agency'
       - alt: Ayuntamiento de Madrid
         img: /files/logos/madrid-innovation-ayto.png
         url: 'https://www.madridinnovation.es/'
