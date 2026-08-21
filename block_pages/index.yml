@@ -938,6 +938,9 @@ blocks:
       - name: Andrea Magán
         img: /files/people/andrea.jpeg
         url: 'https://www.linkedin.com/in/andreamaganrey/'
+      - name: Pablo Fernandez-Maquieira
+        img: /files/people/pablo_fernandez_maquieira.jpeg
+        url: 'https://pablofm.com/'
   - type: separator
     width: is-default
   - type: pdf
