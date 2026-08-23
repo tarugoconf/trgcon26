@@ -688,6 +688,8 @@ blocks:
             url: 'https://www.linkedin.com/in/jjmontiel/'
           - icon: globe
             url: 'https://www.kastwey.org/'
+          - icon: butterfly
+            url: 'https://bsky.app/profile/kastwey.org'
           - icon: mastodon-logo
             url: 'https://bookstodon.es/@kastwey'
   - type: logos
