@@ -100,44 +100,30 @@ blocks:
               la TRG26 ¡Bienvenidos!
             speakers: []
           - time: '15:30 - 17:30h'
-            title: TALLERES de patrocinadores
+            title: TALLERES PRÁCTICOS
             id: taller-sponsors
-            subtitle: POR ANUNCIAR
+            subtitle: ¡Reserva tu plaza!
             description: >-
               Talleres patrocinados por nuestros sponsors, que abren a los
-              asistentes de la TRG que se hagan con una de las invitaciones
-              ¡Hablad con ellos!
+              asistentes de la TRG26.
 
 
-              Iremos desvelando los talleres en los próximos días. Puedes
-              enterarte de las últimas novedades del evento siguiendo nuestra
-              cuenta en [X](https://x.com/tarugoconf){target="_blank"} o
-              [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
-              Stay tuned Antunez !!!
-            speakers: []
-          - time: '15:30 - 18:00h'
-            title: TALLERES organizados por la TRG
-            id: talleres-trg
-            subtitle: POR ANUNCIAR
-            description: >-
-              Los talleres de la TRG son formaciones prácticas de DOS HORAZAS Y
-              MEDIA, impartidas por profesionales en activo y con muchos *tiros
-              pegaos* en la materia impartida, que **te permitirán adquirir una
-              nuevo habilidad que podrás emplear inmediatamente en tu día a
-              día**.
+              Podéis reservar vuestra plaza al comprar la entrada de la TRG,
+              pero si se os olvidó, también **podéis reservar ahora en
+              Eventbrite, usando el mismo mail con el que os registrastéis**.
 
 
-              ¡Ojo! Los talleres no están incluidos en la entrada general de la
-              TRG26. Puedes acceder a ellos con una entrada de tipo ***Killer
-              Combo*** o adquiriendo el complemento ***Taller Práctico*** al
-              comprar tu entrada.
+              * 15:30 - 18:00h Webs escalables y mantenibles en la era de la IA
+              (ofrecido por WordPress)
 
+              * 15:30 - 18:00h Escenarios legales clave que la IA no solucionará
+              (ofecido por Rama Legal)
 
-              Iremos desvelando los talleres en los próximos días. Puedes
-              enterarte de las últimas novedades del evento siguiendo nuestra
-              cuenta en [X](https://x.com/tarugoconf){target="_blank"} o
-              [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
-              Stay tuned Antunez !!!
+              * <s>15:30 - 18:00h Ata en corto a tus agentes: SDD en directo
+              (ofrecido por Onext)</s> AGOTADO
+
+              * <s>15:30 - 18:00h De Developer a Forward Deployed Engineer
+              (ofrecido por Orbitant)</s> AGOTADO
             speakers: []
           - time: '18:00 - 20:00h'
             title: Networking Tarugo
@@ -154,7 +140,7 @@ blocks:
               circulo con el que interactuarás durante el resto del evento.
             speakers: []
           - time: '20:00 - 22:00h'
-            title: El dia del juicio final
+            title: Corrupción en m-IA-mi
             id: show-jueves
             subtitle: "con Monos Estocásticos \U0001F435\U0001F648"
             description: "[Antonio](https://x.com/antonello){target=\"_blank\"} y [Mati](https://x.com/matiass){target=\"_blank\"} son el ying y el yang de [Monos Estocásticos](https://cuonda.com/monos-estocasticos){target=\"_blank\"} **uno de los podcast más didácticos, rigurosos y —sobre todo— divertidos sobre  Inteligencia Artificial** que puedes escuchar en castellano.\n\nEn la TRG26 grabarán un programa en directo en el que interactuarán constantemente con el público \U0001F973\n\nLa IA ha puesto patas arriba la industría tecnológica, pero ¿cuánto hay de realidad y cuánto de pensamiento mágico detrás de las últimas decisiones empresariales y las oleadas de despidos?\n\nEn dos horas, nuestros monos separán la señal del ruido para **dibujar un mapa que nos indique hacia dónde va el sector informático y qué debemos hacer para no perdernos por el camino**.\n___\n \n### ONE MORE THING... «RUINA SE ESCRIBE CON I y A»\n\nAl estilo del popular formato [La Ruina](https://www.youtube.com/watch?v=Ee1zWoCk6ZI&t=752s){target=\"_blank\"}, los asistentes al *chou* podrán compartir sus particulares «ruinas» informáticas —con cualquier tecnología en general y con la IA en particular— en una divertida catarsis colectiva que nos elevará a un nivel superior de consciencia.\n\n¿De verdad te lo vas a perder?"
@@ -180,7 +166,7 @@ blocks:
               ¡Bienvenidos!
             speakers: []
           - time: '10:00 - 10:15h'
-            title: Corrupción en m-IA-mi
+            title: El día del juicio final
             id: keynote
             subtitle: Keynote
             description: >-
@@ -760,6 +746,10 @@ blocks:
         img: /files/logos/Logo_onext_transparente.svg
         url: 'https://www.onext.es/es/'
         description: Ingeniería de contexto para IA empresarial.
+      - alt: Technosylva
+        img: /files/logos/technosylva-300dpi-png-logo.png
+        url: 'https://technosylva.com'
+        description: Tecnología para luchar contra incendios forestales
   - type: logos
     title: Colaboradores
     id: colaboradores
@@ -943,6 +933,9 @@ blocks:
       - name: Pablo Fernandez-Maquieira
         img: /files/people/pablo_fernandez_maquieira.jpeg
         url: 'https://pablofm.com/'
+      - name: Alfonso Gutierrez
+        img: /files/people/alfonso_gutierrez_guay.jpg
+        url: 'https://www.linkedin.com/in/alfonsogu/'
   - type: separator
     width: is-default
   - type: pdf
