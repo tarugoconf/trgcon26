@@ -103,27 +103,7 @@ blocks:
             title: TALLERES PRÁCTICOS
             id: taller-sponsors
             subtitle: ¡Reserva tu plaza!
-            description: >-
-              Talleres patrocinados por nuestros sponsors, que abren a los
-              asistentes de la TRG26.
-
-
-              Podéis reservar vuestra plaza al comprar la entrada de la TRG,
-              pero si se os olvidó, también **podéis reservar ahora en
-              Eventbrite, usando el mismo mail con el que os registrastéis**.
-
-
-              * 15:30 - 18:00h Webs escalables y mantenibles en la era de la IA
-              (ofrecido por WordPress)
-
-              * 15:30 - 18:00h Escenarios legales clave que la IA no solucionará
-              (ofecido por Rama Legal)
-
-              * <s>15:30 - 18:00h Ata en corto a tus agentes: SDD en directo
-              (ofrecido por Onext)</s> AGOTADO
-
-              * <s>15:30 - 18:00h De Developer a Forward Deployed Engineer
-              (ofrecido por Orbitant)</s> AGOTADO
+            description: "Talleres patrocinados por nuestros sponsors, que abren a los asistentes de la TRG26.\n\nPodéis reservar vuestra plaza al comprar la entrada de la TRG, pero **si se os olvidó, también podéis reservar AHORA** [en Eventbrite](https://www.eventbrite.es/e/entradas-trg26-1985907372410){target=_blank} —eso sí— usando el mismo mail con el que os registrastéis \U0001F64F\n\n* 15:30 - 18:00h Webs escalables y mantenibles en la era de la IA (ofrecido por WordPress)\n* 15:30 - 18:00h Escenarios legales clave que la IA no solucionará (ofecido por Rama Legal)\n* <s>15:30 - 18:00h Ata en corto a tus agentes: SDD en directo (ofrecido por Onext)</s> AGOTADO\n* <s>15:30 - 18:00h De Developer a Forward Deployed Engineer (ofrecido por Orbitant)</s> AGOTADO"
             speakers: []
           - time: '18:00 - 20:00h'
             title: Networking Tarugo
