@@ -916,6 +916,15 @@ blocks:
       - name: Alfonso Gutierrez
         img: /files/people/alfonso_gutierrez_guay.jpg
         url: 'https://www.linkedin.com/in/alfonsogu/'
+      - name: Fátima Ballesteros
+        img: /files/people/fatima.jpeg
+        url: 'https://www.linkedin.com/in/fatima-ballesteros-11b1183b'
+      - name: Alejandro San Nicolás
+        img: /files/people/alejandro.jpg
+        url: 'https://www.linkedin.com/in/alejandrosnicolas'
+      - name: Pablo Santos
+        img: /files/people/pablo-santos.jpg
+        url: 'https://es.linkedin.com/in/psantosl'
   - type: separator
     width: is-default
   - type: pdf
