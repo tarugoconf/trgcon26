@@ -925,6 +925,9 @@ blocks:
       - name: Pablo Santos
         img: /files/people/pablo-santos.jpg
         url: 'https://es.linkedin.com/in/psantosl'
+      - name: Miguel Ángel Nicolao
+        img: /files/people/miguel_angel.jpg
+        url: 'https://x.com/mnicolao11'
   - type: separator
     width: is-default
   - type: pdf
