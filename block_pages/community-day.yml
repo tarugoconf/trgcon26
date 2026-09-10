@@ -23,16 +23,28 @@ blocks:
   - type: activities
     theme: is-primary width-box box-fill
     items:
-      - title: La DesconferencIA
+      - title: <b>La DesconferencIA</b>
         tags:
           - Adultos
         img: /files/activities/tarugoff.jpeg
         description: >-
-          La TRG es mucho más que 8 charlas.</br>En este *open space* alrededor
-          de la IA, los asistentes podréis compartir y acceder a ese
-          **«conocimiento tribal» sobre trabajo con la IA** (desde el *tooling*
-          que usáis a vuestros flujos de trabajo) que NO suele estar publicado
-          en ningún sitio y solo se transmite de boca a oreja. 
+          Este año, transformamos nuestro tradicional *open space* en  <b>una
+          pequeña miniconferencia paralela donde poder hablar tanto      de las
+          oportunidades como de las incertidumbres       que ha introducido la
+          IA en nuestro día a día</b>,       en un ambiente relajado y
+          amigable,        donde TODOS tendremos la oportunidad de escuchar y
+          ser escuchados.     </br></br>      Los asistentes podréis compartir y
+          acceder a ese **«conocimiento tribal»       sobre trabajo con la IA**
+          (desde el *tooling* que usáis a vuestros flujos de trabajo)  que NO
+          suele estar publicado en ningún sitio y solo se transmite «boca a
+          boca», pero TAMBIEN vuestras inquietudes respecto cómo va a cambiar
+          esto vuestro trabajo...  o vuestro medio a que os pueda llevar a
+          perderlo. Ningún tema sobra. </br></br>     Dirigido por <a
+          href="https://x.com/merybere" target="_blank">@merybere</a>      —con
+          amplia experiencia dinamizando conferencias <i>ágiles</i>—      y dos
+          TITANES del ecosistema IA, como son       <a
+          href="https://x.com/dobleio" target="_blank">@dobleio</a> y       <a
+          href="https://x.com/root_rat" target="_blank">@root_rat</a>.
         wide: true
         style: is-shadow
       - title: "Torneo de W1ndj4mm3rs \U0001F3C6"
@@ -41,23 +53,25 @@ blocks:
           - Mayores
         img: /files/activities/captura-de-pantalla-2026-07-01-a-las-8.14.54.png
         description: >-
-          Nos hemos venido arriba llevando a la vida real [el videojuego clásico
-          de
-          1994](https://www.youtube.com/watch?v=vOynFbfOejo){target=_blank}.</br></br>Anímate
-          a participar en el torneo más salvaje o disfruta del espectáculo como
-          espectador.
+          El año pasado llevamos a la vida real [el clásico videojuego de
+          1994](https://www.youtube.com/watch?v=vOynFbfOejo){target=_blank} y el
+          resultado fue... ESPECTACULAR, así que, este año
+          repetiremos.</br></br>El sábado celebraremos un torneo con premios,
+          muchas sorpresas y <a
+          href="https://x.com/david_bonilla/status/2075105670890676699"
+          target="_blank">nuestros awesómicos speakers</a>. Anímate a participar
+          o disfruta del espectáculo como espectador.
         wide: false
-      - title: Flynn's Arcade
+      - title: Taller de Yoyó
         tags:
           - Niños
-          - Jóvenes
-          - Mayores
-        img: /files/activities/1761647849202.jpeg
+          - Jovenes
+          - Adultos
+        img: /files/activities/yoyob.webp
         description: >-
-          Recrearemos el mítico salón de máquinas recreativas de la película
-          Tron.</br></br>Disfruta, SIN TENER QUE ECHAR 25 PESETAS, de alguno de
-          los mejores videojuegos de la historia en encarnizados campeonatos
-          improvisados con otros asistentes.
+          Aprende a hacer algunos de los trucos más espectaculares del mundo del
+          yoyó, como «el dormilón» o el <i>off-string</i>, en una master class
+          sobre uno de los juguetes más antiguos del mundo.
         wide: false
       - title: Realidad Virtual en Grupo
         tags:
@@ -78,6 +92,31 @@ blocks:
           Conoce y comenta todos los detalles del evento, charlando
           relajadamente con sus principales protagonistas —ponentes,
           patrocinadores y organizadores— en un ambiente relajado y amigable.
+        wide: false
+      - title: Rincón Arcade
+        tags:
+          - Niños
+          - Jóvenes
+          - Mayores
+        img: /files/activities/1761647849202.jpeg
+        description: >-
+          Tendremos nuestra pequeña versión del clásico salón de máquinas
+          recreativas.</br></br>Disfruta, SIN TENER QUE ECHAR 25 PESETAS, de
+          alguno de los mejores videojuegos de la historia en encarnizados
+          campeonatos improvisados con tus amigos, familia u otros asistentes.
+        wide: false
+      - title: Exhibición de Magia
+        tags:
+          - Niños
+          - Jóvenes
+          - Mayores
+        img: /files/activities/tar_magia.jpg
+        description: >-
+          El mítico [Juan
+          Tomas](https://twitter.com/juantomas){target="_blank"}, uno de los
+          pocos magos grises aun en activo que conoció las tarjetas perforadas,
+          nos obsequiará con unos trucos de ***mágia informática*** que
+          disfrutarán grandes y pequeños.
         wide: false
       - title: Scalextric Gigante
         tags:
@@ -121,19 +160,6 @@ blocks:
           descubriendo este apasionante juego que nos permitirá tanto conocer a
           más gente como conocernos a nosotros mismos.
         wide: false
-      - title: Exhibición de Magia
-        tags:
-          - Niños
-          - Jóvenes
-          - Mayores
-        img: /files/activities/tar_magia.jpg
-        description: >-
-          El mítico [Juan
-          Tomas](https://twitter.com/juantomas){target="_blank"}, uno de los
-          pocos magos grises aun en activo que conoció las tarjetas perforadas,
-          nos obsequiará con unos trucos de ***mágia informática*** que
-          disfrutarán grandes y pequeños.
-        wide: false
       - title: Juegos «Desenchufados»
         tags:
           - Niños
@@ -142,6 +168,16 @@ blocks:
         description: >-
           Juegos tradicionales para que las nuevas generaciones conozcan la vida
           que hay más allá de la consola ¿Jugamos a las chapas?
+        wide: false
+      - title: Conos de Luz
+        tags:
+          - Niños
+          - Jóvenes
+          - Mayores
+        img: /files/activities/conos.png
+        description: >-
+          Diviértete y haz ejercicio con nuestros juegos de conos para toda la
+          familia.
         wide: false
       - title: Twister Gigante
         tags:
@@ -160,16 +196,6 @@ blocks:
           - Mayores
         img: /files/activities/TRG23_jenga.jpeg
         description: 'El juego de toda la vida, pero más divertido —y GRANDE— que nunca.'
-        wide: false
-      - title: Conos de Luz
-        tags:
-          - Niños
-          - Jóvenes
-          - Mayores
-        img: /files/activities/conos.png
-        description: >-
-          Diviértete y haz ejercicio con nuestros juegos de conos para toda la
-          familia.
         wide: false
       - title: Laboratorio de personalización de chapas
         tags:
