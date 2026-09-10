@@ -323,7 +323,8 @@ extra_head: |-
     .block-activities-list img {
       aspect-ratio: 2 / 3;
       width: min(200px, 25vw);
-      height: min(250px, 35vwk);
+      height: auto;
+      align-self: flex-start;
       border: solid 8px white;
       border-bottom-width: 64px;
       box-shadow: -4px 4px 12px #0005;
