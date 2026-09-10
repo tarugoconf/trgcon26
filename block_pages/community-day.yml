@@ -33,6 +33,8 @@ blocks:
           **«conocimiento tribal» sobre trabajo con la IA** (desde el *tooling*
           que usáis a vuestros flujos de trabajo) que NO suele estar publicado
           en ningún sitio y solo se transmite de boca a oreja. 
+        wide: true
+        style: is-shadow
       - title: "Torneo de W1ndj4mm3rs \U0001F3C6"
         tags:
           - Jóvenes
@@ -44,6 +46,7 @@ blocks:
           1994](https://www.youtube.com/watch?v=vOynFbfOejo){target=_blank}.</br></br>Anímate
           a participar en el torneo más salvaje o disfruta del espectáculo como
           espectador.
+        wide: false
       - title: Flynn's Arcade
         tags:
           - Niños
@@ -55,6 +58,7 @@ blocks:
           Tron.</br></br>Disfruta, SIN TENER QUE ECHAR 25 PESETAS, de alguno de
           los mejores videojuegos de la historia en encarnizados campeonatos
           improvisados con otros asistentes.
+        wide: false
       - title: Realidad Virtual en Grupo
         tags:
           - Niños
@@ -65,6 +69,7 @@ blocks:
           Podrás experimentar la realidad virtual con tus amigos o tu familia,
           en un juego colaborativo que os llevará a luchar con Terminators
           dirigidos por una IA rebelde.
+        wide: false
       - title: 'Debriefing de la #TRG26'
         tags:
           - Mayores
@@ -73,6 +78,7 @@ blocks:
           Conoce y comenta todos los detalles del evento, charlando
           relajadamente con sus principales protagonistas —ponentes,
           patrocinadores y organizadores— en un ambiente relajado y amigable.
+        wide: false
       - title: Scalextric Gigante
         tags:
           - Niños
@@ -83,6 +89,7 @@ blocks:
           Compite en el circuito que siempre soñaste montar en tu
           salón.</br></br>Este año ampliamos pista y contaremos con unos coches
           muy, MUY especiales.
+        wide: false
       - title: Ludoteca
         tags:
           - Niños
@@ -90,6 +97,7 @@ blocks:
         description: >-
           Zona para que los niños de 3 a 6 años puedan jugar, vigilados por
           monitores titulados.
+        wide: false
       - title: Taller de dibujo para pequeños grandes artistas
         tags:
           - Jóvenes
@@ -100,6 +108,7 @@ blocks:
           de la mano de [Hugo
           Tobio](https://twitter.com/HugoTobio){target=_blank} ¡El mismísimo
           ilustrador de la Bonilista!
+        wide: false
       - title: Taller de Ajedrez (de 7 a 99 años)
         tags:
           - Niños
@@ -111,6 +120,7 @@ blocks:
           aprender divirtiéndose y adquirir una base que nos permita seguir
           descubriendo este apasionante juego que nos permitirá tanto conocer a
           más gente como conocernos a nosotros mismos.
+        wide: false
       - title: Exhibición de Magia
         tags:
           - Niños
@@ -123,6 +133,7 @@ blocks:
           pocos magos grises aun en activo que conoció las tarjetas perforadas,
           nos obsequiará con unos trucos de ***mágia informática*** que
           disfrutarán grandes y pequeños.
+        wide: false
       - title: Juegos «Desenchufados»
         tags:
           - Niños
@@ -131,6 +142,7 @@ blocks:
         description: >-
           Juegos tradicionales para que las nuevas generaciones conozcan la vida
           que hay más allá de la consola ¿Jugamos a las chapas?
+        wide: false
       - title: Twister Gigante
         tags:
           - Niños
@@ -140,6 +152,7 @@ blocks:
         description: >-
           Podrás espanzurrarte con tus colegas y seres queridos. El único juego
           donde esperamos que realmente seas retorcido.
+        wide: false
       - title: Jenga Gigante
         tags:
           - Niños
@@ -147,6 +160,7 @@ blocks:
           - Mayores
         img: /files/activities/TRG23_jenga.jpeg
         description: 'El juego de toda la vida, pero más divertido —y GRANDE— que nunca.'
+        wide: false
       - title: Conos de Luz
         tags:
           - Niños
@@ -156,6 +170,7 @@ blocks:
         description: >-
           Diviértete y haz ejercicio con nuestros juegos de conos para toda la
           familia.
+        wide: false
       - title: Laboratorio de personalización de chapas
         tags:
           - Niños
@@ -164,11 +179,13 @@ blocks:
         description: >-
           ¡Fabrica chapas con tus propios diseños!<br><br>Puedes traer una foto,
           un diseño impreso... o hacer un dibujo allí mismo :)
+        wide: false
       - title: Pintacaras
         tags:
           - Niños
         img: /files/activities/TRG23_pintacaras.jpeg
         description: Un clásico que nunca falla entre los más pequeños.
+        wide: false
       - title: "\U0001F69A Food Trailer"
         tags:
           - Niños
@@ -179,6 +196,7 @@ blocks:
           Vuelve el famoso **trailer de 12 ejes** que nos traemos desde Galicia
           para proporcionar opciones gastronómicas ricas, saludables y
           sostenibles para todos los asistentes al Community Day.
+        wide: false
       - title: Tienda
         tags:
           - Niños
@@ -190,6 +208,7 @@ blocks:
           colección de merchandising del evento con piezas de esta o pasadas
           ediciones.</br></br>Podrás encontrar auténticas joyas *vintage* y
           suculentos descuentos.
+        wide: false
   - type: faq
     title: FAQ
     id: faq
