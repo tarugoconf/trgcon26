@@ -279,6 +279,15 @@ extra_head: |-
       border-bottom-width: 64px;
       box-shadow: -4px 4px 12px #0005;
     }
+    .block-activities-list li.is-wide img {
+      transform: rotate(-2deg) translate(0, 10px);
+    }
+    @container (min-width: 830px) {
+      .block-activities-list li.is-wide img {
+        width: min(300px, 37.5vw);
+        aspect-ratio: 1 / 1;
+      }
+    }
     .block-activities-list li {
       &:nth-child(2n) img {
         transform: rotate(2deg) translate(0, -20px);
