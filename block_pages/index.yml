@@ -730,6 +730,10 @@ blocks:
         img: /files/logos/technosylva-300dpi-png-logo.png
         url: 'https://technosylva.com'
         description: Tecnología para luchar contra incendios forestales
+      - alt: Ciclogreen
+        img: /files/logos/horizontal-color.png
+        url: 'https://ciclogreen.com/'
+        description: Movilidad sostenible para empresas
   - type: logos
     title: Colaboradores
     id: colaboradores
