@@ -43,11 +43,11 @@ blocks:
           href="https://x.com/merybere" target="_blank">@merybere</a>      —con
           amplia experiencia dinamizando conferencias <i>ágiles</i>—      y dos
           TITANES del ecosistema IA, como son       <a
-          href="https://x.com/dobleio" target="_blank">@dobleio</a> y       <a
+          href="https://x.com/dobleio" target="_blank">@dobleio</a> y <a
           href="https://x.com/root_rat" target="_blank">@root_rat</a>.
         wide: true
         style: is-shadow
-      - title: "Torneo de W1ndj4mm3rs \U0001F3C6"
+      - title: "<b>Torneo de W1ndj4mm3rs</b> \U0001F3C6"
         tags:
           - Jóvenes
           - Mayores
@@ -62,9 +62,8 @@ blocks:
           target="_blank">nuestros awesómicos speakers</a>. Anímate a participar
           o disfruta del espectáculo como espectador.
         wide: false
-      - title: Taller de Yoyó
+      - title: <b>Taller de Yoyó</b>
         tags:
-          - Niños
           - Jovenes
           - Adultos
         img: /files/activities/yoyob.webp
@@ -73,18 +72,19 @@ blocks:
           yoyó, como «el dormilón» o el <i>off-string</i>, en una master class
           sobre uno de los juguetes más antiguos del mundo.
         wide: false
-      - title: Realidad Virtual en Grupo
+      - title: <b>Realidad Virtual en Grupo</b>
         tags:
           - Niños
           - Jóvenes
           - Mayores
         img: /files/activities/vr_grupo.jpg
         description: >-
-          Podrás experimentar la realidad virtual con tus amigos o tu familia,
-          en un juego colaborativo que os llevará a luchar con Terminators
-          dirigidos por una IA rebelde.
+          De la mano de <a href="https://vrinka.com/"
+          target="_blank">VRINKA</a>, podrás experimentar la realidad virtual
+          con tus amigos o tu familia, en un juego colaborativo que os llevará a
+          luchar con Terminators dirigidos por una IA rebelde.
         wide: false
-      - title: 'Debriefing de la #TRG26'
+      - title: '<b>Debriefing de la #TRG26</b>'
         tags:
           - Mayores
         img: /files/activities/tar_debriefing.jpg
@@ -93,7 +93,7 @@ blocks:
           relajadamente con sus principales protagonistas —ponentes,
           patrocinadores y organizadores— en un ambiente relajado y amigable.
         wide: false
-      - title: Rincón Arcade
+      - title: <b>Rincón Arcade</b>
         tags:
           - Niños
           - Jóvenes
@@ -105,7 +105,7 @@ blocks:
           alguno de los mejores videojuegos de la historia en encarnizados
           campeonatos improvisados con tus amigos, familia u otros asistentes.
         wide: false
-      - title: Exhibición de Magia
+      - title: <b>Exhibición de Magia</b>
         tags:
           - Niños
           - Jóvenes
@@ -118,58 +118,58 @@ blocks:
           nos obsequiará con unos trucos de ***mágia informática*** que
           disfrutarán grandes y pequeños.
         wide: false
-      - title: Scalextric Gigante
+      - title: <b>Scalextric Gigante</b>
         tags:
           - Niños
           - Jóvenes
           - Mayores
         img: /files/activities/scalextric.jpeg
         description: >-
-          Compite en el circuito que siempre soñaste montar en tu
-          salón.</br></br>Este año ampliamos pista y contaremos con unos coches
-          muy, MUY especiales.
+          Compite en el circuito que siempre soñaste montar en tu salón: más de
+          12 metros de pista con 4 carriles.</br></br>¡Participa en trepidantes
+          carreras con tus amigos u otros asistentes!
         wide: false
-      - title: Ludoteca
+      - title: <b>Ludoteca</b>
         tags:
           - Niños
         img: /files/activities/tar_ludoteca.jpg
         description: >-
           Zona para que los niños de 3 a 6 años puedan jugar, vigilados por
-          monitores titulados.
+          monitores titulados.</br></br>El único riesgo del que deben
+          preocuparse los padres es que los críos no quieran marcharse.
         wide: false
-      - title: Taller de dibujo para pequeños grandes artistas
+      - title: <b>Taller de dibujo para pequeños grandes artistas</b>
         tags:
           - Jóvenes
           - Mayores
-        img: /files/activities/hugo.gif
+        img: /files/activities/hugo.jpg
         description: >-
           Aprende técnicas básicas de dibujo, que te harán parecer un experto,
           de la mano de [Hugo
-          Tobio](https://twitter.com/HugoTobio){target=_blank} ¡El mismísimo
-          ilustrador de la Bonilista!
+          Tobio](https://twitter.com/HugoTobio){target=_blank} <b>¡El mismísimo
+          ilustrador de La Bonilista!</b>
         wide: false
-      - title: Taller de Ajedrez (de 7 a 99 años)
+      - title: <b>Taller de Ajedrez (de 7 a 99 años)</b>
         tags:
           - Niños
           - Jóvenes
           - Mayores
         img: /files/activities/talleres-ajedrez_1.max-1200x900.jpg
         description: >-
-          Pequeños y mayores conocerán las reglas básicas del ajedrez, para
-          aprender divirtiéndose y adquirir una base que nos permita seguir
-          descubriendo este apasionante juego que nos permitirá tanto conocer a
-          más gente como conocernos a nosotros mismos.
+          Pequeños y mayores aprenderán las reglas básicas del ajedrez, para
+          aprender divirtiéndose y adquirir una base que permita seguir
+          descubriendo este apasionante juego.
         wide: false
-      - title: Juegos «Desenchufados»
+      - title: <b>Juegos «Desenchufados»</b>
         tags:
           - Niños
           - Jóvenes
         img: /files/activities/TRG23_desenchufados.jpeg
         description: >-
           Juegos tradicionales para que las nuevas generaciones conozcan la vida
-          que hay más allá de la consola ¿Jugamos a las chapas?
+          que hay más allá de la consola.</br></br>¿Jugamos a las chapas?
         wide: false
-      - title: Conos de Luz
+      - title: <b>Conos de Luz</b>
         tags:
           - Niños
           - Jóvenes
@@ -179,7 +179,7 @@ blocks:
           Diviértete y haz ejercicio con nuestros juegos de conos para toda la
           familia.
         wide: false
-      - title: Twister Gigante
+      - title: <b>Twister Gigante</b>
         tags:
           - Niños
           - Jóvenes
@@ -189,15 +189,17 @@ blocks:
           Podrás espanzurrarte con tus colegas y seres queridos. El único juego
           donde esperamos que realmente seas retorcido.
         wide: false
-      - title: Jenga Gigante
+      - title: <b>Jenga Gigante</b>
         tags:
           - Niños
           - Jóvenes
           - Mayores
         img: /files/activities/TRG23_jenga.jpeg
-        description: 'El juego de toda la vida, pero más divertido —y GRANDE— que nunca.'
+        description: >-
+          El juego de toda la vida, pero más divertido —y grande— que
+          nunca.</br></br>MUY grande.
         wide: false
-      - title: Laboratorio de personalización de chapas
+      - title: <b>Laboratorio de personalización de chapas</b>
         tags:
           - Niños
           - Jóvenes
@@ -206,13 +208,15 @@ blocks:
           ¡Fabrica chapas con tus propios diseños!<br><br>Puedes traer una foto,
           un diseño impreso... o hacer un dibujo allí mismo :)
         wide: false
-      - title: Pintacaras
+      - title: <b>Pintacaras</b>
         tags:
           - Niños
         img: /files/activities/TRG23_pintacaras.jpeg
-        description: Un clásico que nunca falla entre los más pequeños.
+        description: >-
+          Un clásico que nunca falla entre los más pequeños... y entre los no
+          tan pequeños.
         wide: false
-      - title: "\U0001F69A Food Trailer"
+      - title: "\U0001F69A <b>Food Trailer</b>"
         tags:
           - Niños
           - Jóvenes
@@ -223,7 +227,7 @@ blocks:
           para proporcionar opciones gastronómicas ricas, saludables y
           sostenibles para todos los asistentes al Community Day.
         wide: false
-      - title: Tienda
+      - title: <b>Tienda</b>
         tags:
           - Niños
           - Jóvenes
