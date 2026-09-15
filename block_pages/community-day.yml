@@ -47,21 +47,22 @@ blocks:
           target="_blank">@root_rat</a>.
         wide: true
         style: is-shadow
-      - title: "<b>Torneo de W1ndj4mm3rs</b> \U0001F3C6"
+      - title: "<b>Pista y Torneo de Pickleball</b> \U0001F3C6"
         tags:
           - Jóvenes
           - Mayores
-        img: /files/activities/captura-de-pantalla-2026-07-01-a-las-8.14.54.png
+        img: /files/logos/pickleball_2.jpg
         description: >-
-          El año pasado llevamos a la vida real [el clásico videojuego de
-          1994](https://www.youtube.com/watch?v=vOynFbfOejo){target=_blank} y el
-          resultado fue... ESPECTACULAR, así que, este año
-          repetiremos.</br></br>El sábado celebraremos un torneo con premios,
-          muchas sorpresas y <a
+          Si aún no conoces el deporte que está ARRASANDO en Estados Unidos, en
+          la TRG tendrás la oportunidad de probarlo en una pista reglamentaria.
+          Las palas y bolas corren de nuestra cuenta.</br></br>Y el sábado
+          <b>celebraremos un salvaje y divertido torneo</b> con premios, muchas
+          sorpresas y <a
           href="https://x.com/david_bonilla/status/2075105670890676699"
-          target="_blank">nuestros awesómicos speakers</a>. Anímate a participar
-          o disfruta del espectáculo como espectador.
+          target="_blank">nuestros awesómicos speakers</a>. ¡Anímate a
+          participar o disfruta del espectáculo como espectador!
         wide: false
+        style: is-secondary
       - title: <b>Taller de Yoyó</b>
         tags:
           - Jovenes
