@@ -1,0 +1,230 @@
+title: Networking
+menu:
+  - text: Portada
+    url: /
+    highlight: true
+  - text: Antes
+    url: '#antes'
+    highlight: false
+  - text: Al llegar
+    url: '#llegada'
+    highlight: false
+  - text: Durante
+    url: '#durante'
+    highlight: false
+blocks:
+  - type: header
+    title: "\U0001F91D<br>Networking"
+    description: >-
+      El principal objetivo de la TRG es conseguir **que cualquier asistente que
+      quiera conocer gente nueva tenga oportunidades de sobra para hacerlo, en
+      un ambiente seguro y amigable**, aunque vegáis solos/as.<br><br>
+
+      Para conseguirlo, hemos diseñado una serie de iniciativas y dinámicas. En
+      esta página las tienes todas, ordenadas por el momento en el que las
+      podrás disfrutar.
+  - type: activities
+    title: Antes del evento
+    id: antes
+    description: El networking empieza mucho antes de pisar La Nave.
+    theme: is-secondary width-box box-fill
+    items:
+      - title: <b>Tarjetas de Asistente</b>
+        tags:
+          - Online
+        img: /files/networking/tarjeta.jpg
+        description: >-
+          Crea tu propia tarjeta de asistente en <a
+          href="https://tarjetas.trgcon.com/"
+          target="_blank">tarjetas.trgcon.com</a> y publícala en tus redes con
+          el hashtag <b>#TRG26</b>. Así podrán encontrarte fácilmente… y tú
+          podrás buscar a quienes ya hayan publicado la suya.</br></br>Es la
+          manera más sencilla de contactar con gente antes del evento y quedar
+          durante el mismo.
+        wide: false
+      - title: <b>Presentación de Partners</b>
+        tags:
+          - Online
+        img: /files/networking/partners.jpg
+        description: >-
+          Cada semana enviamos dos newsletter con información sobre el evento,
+          en las que aprovechamos para presentarte a los partners del evento y
+          que así puedas ponerles cara, nombre y apellidos.</br></br>Si te
+          interesan sus productos, sus servicios… o trabajar con ellos, podrás
+          contactarles antes incluso de que empiece la TRG.
+        wide: false
+  - type: activities
+    title: Al llegar
+    id: llegada
+    description: Todo lo que necesitas saber te espera en el mostrador de acreditación.
+    theme: is-secondary width-box box-fill
+    items:
+      - title: <b>Briefing de Acreditación</b>
+        tags:
+          - Durante todo el evento
+        img: /files/networking/acreditacion.jpg
+        description: >-
+          Mientras gestionamos tu acreditación, resolveremos todas tus dudas y
+          te explicaremos las actividades de <i>networking</i> del
+          evento.</br></br>Y, si lo deseas, te ayudaremos a identificar a «los
+          anclas», por si quieres que alguno sea tu anfitrión y te ayude a dar
+          tus primeros pasos en la TRG.
+        wide: false
+      - title: <b>Chapas «Necesito mi espacio»</b>
+        tags:
+          - Durante todo el evento
+        img: /files/networking/chapa.png
+        description: >-
+          <b>Por defecto, todos los asistentes de la TRG está abiertos a hacer
+          *networking*</b>, pero a lo mejor no es tu caso... o, simplemente,
+          quieres un momento para ti.</br></br>No te preocupes, hemos pensado en
+          todo. Tenemos un cajón con 100 chapas negras con el texto <b>«necesito
+          mi espacio»</b>. Si en algún momento necesitas el tuyo, coge una y
+          póntela en el pecho, en la acreditación o donde quieras: nadie te
+          molestará. Cuando ya no la necesites, devuélvela… ¡que solo hay 100!
+          :)
+        wide: false
+  - type: activities
+    title: Durante el evento
+    id: durante
+    description: >-
+      Personas, espacios y actividades dedicados a que conozcas gente nueva sin
+      esfuerzo.
+    theme: is-secondary width-box box-fill
+    items:
+      - title: <b>Los anclas</b>
+        tags:
+          - Durante todo el evento
+        img: /files/networking/anclas.jpg
+        description: >-
+          Los «anclas» son asistentes que no solo están abiertos a
+          <i>networking</i>, sino que <b>se han ofrecido a facilitarlo</b>:
+          puedes presentarte a cualquiera de ellos en cualquier momento o
+          sumarte a la conversación que estén manteniendo, sin más.</br></br>Los
+          reconocerás por sus <b>collares de flores hawaianos</b>. Si quieres
+          ser ancla, puedes postularte en <a
+          href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSfHehj0zDv9rfNx5g3mQrvH1KmZ7B91cgbLOpVi-HNVuokV8w/viewform?usp=send_form"
+          target="_blank">este formulario</a>.
+        wide: false
+      - title: <b>La «playa» de <i>networking</i></b>
+        tags:
+          - Durante todo el evento
+        img: /files/networking/playa.jpg
+        description: >-
+          Un espacio físico con unas normas muy sencillas: si estás dentro, no
+          solo aceptas que cualquiera pueda hablarte o sumarse a tu
+          conversación, sino que <b>te animamos a sumar a todos los que
+          entren</b>.</br></br>Nuestra playa también será el hogar y punto de
+          encuentro de los anclas.
+        wide: false
+      - title: <b>El código QR de tu acreditación</b>
+        tags:
+          - Durante todo el evento
+        img: /files/networking/acreditaciones.jpg
+        description: >-
+          Todas las acreditaciones llevan un código QR que permite <b>leer y
+          guardar los datos de contacto</b> de otros asistentes de forma
+          sencilla.</br></br>Seguir en contacto después de charlar con alguien
+          será más fácil y sencillo que nunca.
+        wide: false
+      - title: <b>La gymkana del jueves</b>
+        tags:
+          - 'Jueves, a las 18:00h'
+        img: /files/networking/gymkana.jpg
+        description: >-
+          Organizada por <a href="https://x.com/merybere" target="_blank">María
+          Berenguer</a> en una franja horaria que la hace compatible con los
+          talleres y el show en directo del jueves.</br></br>¡No tendrás excusas
+          para no conocer gente nueva desde el primer minuto! Pásate por el
+          escenario principal y nosotros nos encargamos del resto.
+        wide: false
+      - title: <b>La fiesta del viernes</b>
+        tags:
+          - 'Viernes, a las 20:30h'
+        img: /files/networking/fiesta.jpg
+        description: >-
+          El broche de oro a la jornada principal de la TRG.</br></br>Aún
+          estamos pensando en dinámicas y sorpresa, pero cuenta desde ya con
+          <b>la presencia de los anclas como anfitriones</b> y nuestra
+          legendaria barra libre de churros con chocolate.
+        wide: false
+      - title: <b>La DesconferencIA del sábado</b>
+        tags:
+          - 'Sábado, a las 11:30h'
+        img: /files/activities/tarugoff.jpeg
+        description: >-
+          Organizada también por María Berenguer, con la colaboración de <a
+          href="https://x.com/dobleio" target="_blank">@dobleio</a> y <a
+          href="https://x.com/root_rat"
+          target="_blank">@root_rat</a>.</br></br>Una pequeña miniconferencia
+          paralela donde poder hablar tanto de las oportunidades como de las
+          incertidumbres que ha introducido la IA en nuestro día a día, en un
+          ambiente relajado y amigable, donde <b>TODOS tendremos la oportunidad
+          de escuchar y ser escuchados</b>.
+        wide: false
+  - type: separator
+    width: is-invisible
+metas:
+  image: ''
+theme: is-secondary
+extra_head: |-
+  <style>
+    .type-header {
+      font-size: min(4rem, 10vw);
+      font-weight: normal;
+      font-family: condensed;
+      color: var(--color-dark);
+      text-shadow: -4px 4px 0 color-mix(in srgb, var(--color-light) 50%, transparent);
+    }
+    .block-activities-header {
+      margin-bottom: 1.5rem;
+    }
+    .block-activities-header .type-title {
+      font-size: min(var(--font-8-size), 3.25rem);
+    }
+    body.is-secondary .block-activities-header .type-title {
+      color: white;
+      text-shadow: -3px 3px 0 color-mix(in srgb, var(--color-primary) 40%, transparent);
+    }
+    .block-activities.is-secondary .activity-title {
+      color: var(--color-dark);
+    }
+    .block-activities-list li {
+      overflow: visible;
+
+      > div {
+        flex-direction: row;
+        background-color: #fff3;
+      }
+    }
+
+    .block-activities-list img {
+      aspect-ratio: 2 / 3;
+      width: min(200px, 25vw);
+      height: auto;
+      align-self: flex-start;
+      border: solid 8px white;
+      border-bottom-width: 64px;
+      box-shadow: -4px 4px 12px #0005;
+    }
+    .block-activities-list li.is-wide img {
+      transform: rotate(-2deg) translate(0, 10px);
+    }
+    @container (min-width: 830px) {
+      .block-activities-list li.is-wide img {
+        width: min(300px, 37.5vw);
+        aspect-ratio: 1 / 1;
+      }
+    }
+    .block-activities-list li {
+      &:nth-child(2n) img {
+        transform: rotate(2deg) translate(0, -20px);
+      }
+      &:nth-child(3n) img {
+        transform: rotate(-2deg) translate(0, 15px);
+      }
+      &:nth-child(5n) img {
+        transform: rotate(4deg) translate(-5px, -5px);
+      }
+    }
+  </style>
