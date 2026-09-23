@@ -7,8 +7,19 @@ blocks:
   - type: header
     title: Entradas
     description: >
-      TODAS las entradas saldrán a la venta **el 5 de julio de 2026 a las 11:00h
-      (CEST)**.</br></br>Ese día, las entradas *early bird* estarán disponibles
+      <div align="center">
+        <center>
+      <a href="mailto:tarugoconf@bonillaware.com?subject=Quiero una entrada para
+      la TRG" target="_blank"><img src="/files/trg26_entradas_agotadas.png"
+      alt="Descripción de la imagen" style="width: 100%; max-width: 100%;
+      height: auto;" /></a>
+          </center>
+      </div>
+
+
+
+      TODAS las entradas saldrán a la venta el 5 de julio de 2026 a las 11:00h
+      (CEST).</br></br>Ese día, las entradas *early bird* estarán disponibles
       sólo mediante un código de acceso que se enviará a los suscriptores de [La
       Bonilista](https://www.bonilista.com/){target=_blank} a esa misma hora. Un
       día después, si aún quedan disponibles, se pondrán a disposición del
@@ -75,9 +86,9 @@ blocks:
         pricing: 250€ + IVA
         img: /files/ENTRADA NORMA.png
         buy:
-          text: Comprar
+          text: AGOTADAS
           url: 'https://trg26.eventbrite.es'
-          disabled: false
+          disabled: true
         features:
           - conferences
           - food
@@ -91,9 +102,9 @@ blocks:
         pricing: 500€ + IVA
         img: /files/ENTRADA MECENAS.png
         buy:
-          text: Comprar
+          text: AGOTADAS
           url: 'https://trg26.eventbrite.es'
-          disabled: false
+          disabled: true
         features:
           - conferences
           - streaming

@@ -690,14 +690,26 @@ blocks:
         img: /files/logos/logo_manfred_color.png
         url: 'https://www.getmanfred.com/'
         description: Ayudamos a las empresas a crear mejores equipos.
-      - alt: Raiola
-        img: /files/logos/raiola_networks_horizontal_positivo.png
-        url: 'https://raiolanetworks.com/'
-        description: Dominios y alojamiento web de calidad.
       - alt: Merlin Software
         img: /files/logos/logo_merlin_azul.png
         url: 'https://merlinsoftware.es/'
         description: Consultoría tecnológica honesta
+      - alt: Costa.io
+        img: /files/logos/2026_costa_logo.png
+        url: 'https://costa.io/'
+        description: Más diseño. Mejores negocios.
+      - alt: Secuoyas
+        img: /files/logos/secuoyas-black.png
+        url: 'https://www.secuoyas.com/'
+        description: Innovación para humanistas digitales
+      - alt: Next Digital
+        img: /files/logos/logo_next.png
+        url: 'https://www.nextdigital.es/'
+        description: 'Código de calidad, futuro sostenible'
+      - alt: Raiola
+        img: /files/logos/raiola_networks_horizontal_positivo.png
+        url: 'https://raiolanetworks.com/'
+        description: Dominios y alojamiento web de calidad.
       - alt: Pétalo
         img: /files/logos/petalo-logo-positivo.png
         url: 'https://petalo.xyz/'
@@ -706,14 +718,6 @@ blocks:
         img: /files/logos/panel_logo_negro.png
         url: 'https://www.panel.es/'
         description: El cambio empieza en TI.
-      - alt: Next Digital
-        img: /files/logos/logo_next.png
-        url: 'https://www.nextdigital.es/'
-        description: 'Código de calidad, futuro sostenible'
-      - alt: Secuoyas
-        img: /files/logos/secuoyas-black.png
-        url: 'https://www.secuoyas.com/'
-        description: Innovación para humanistas digitales
       - alt: '540'
         img: /files/logos/logo_540_negro.png
         url: 'https://www.540deg.com/'
@@ -726,18 +730,14 @@ blocks:
         img: /files/logos/technosylva-300dpi-png-logo.png
         url: 'https://technosylva.com'
         description: Tecnología para luchar contra incendios forestales
-      - alt: Ciclogreen
-        img: /files/logos/horizontal-color.png
-        url: 'https://ciclogreen.com/'
-        description: Movilidad sostenible para empresas
       - alt: Oscar Rama
         img: /files/logos/oscar_rama2.png
         url: 'https://oscarrama.es/'
         description: Te mereces un abogado mejor que ChatGPT
-      - alt: Costa.io
-        img: /files/logos/2026_costa_logo.png
-        url: 'https://costa.io/'
-        description: Más diseño. Mejores negocios.
+      - alt: Ciclogreen
+        img: /files/logos/horizontal-color.png
+        url: 'https://ciclogreen.com/'
+        description: Movilidad sostenible para empresas
       - alt: Vrinka
         img: /files/logos/logo_vrinka.svg
         url: 'https://vrinka.com/'
