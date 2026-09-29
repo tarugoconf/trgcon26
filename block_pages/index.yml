@@ -949,6 +949,9 @@ blocks:
       - name: Antonio Villegas
         img: /files/people/trg26-antonio-villegas.jpeg
         url: 'https://www.linkedin.com/in/antoniovillegasacosta/'
+      - name: Roberto Morlán
+        img: /files/people/trg26_robertomorlan.jpeg
+        url: 'https://www.linkedin.com/in/robermorlan/'
   - type: separator
     width: is-default
   - type: pdf
