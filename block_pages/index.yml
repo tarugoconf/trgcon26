@@ -946,6 +946,9 @@ blocks:
         url: 'https://x.com/mnicolao11'
       - name: Pide permanecer anónimo
         img: /files/people/anonimo2.jpg
+      - name: Antonio Villegas
+        img: /files/people/trg26-antonio-villegas.jpeg
+        url: 'https://www.linkedin.com/in/antoniovillegasacosta/'
   - type: separator
     width: is-default
   - type: pdf
