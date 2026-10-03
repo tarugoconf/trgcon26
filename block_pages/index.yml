@@ -372,26 +372,29 @@ blocks:
             speakers:
               - nuria
           - time: '17:30 - 18:15h '
-            title: Charla Ameisin
-            id: charla-tba4
-            subtitle: POR ANUNCIAR
+            title: 'Fue la IA, señoría'
+            id: charla-ari
+            subtitle: por Ari Font
             description: >-
-              Justo antes de la merienda disfrutarás de una charla awesómica y
-              eminentemente práctica, impartida por un/a speaker con MUCHOS
-              tiros pegaos y experiencia contrastada en el tema.
+              Un empleado pega un contrato confidencial en un chatbot. Un agente
+              promete a un cliente algo que la empresa no puede cumplir. Un
+              directivo utiliza un modelo para decidir a quién contratar... La
+              IA puede multiplicar la productividad de nuestro equipo, pero
+              también las posibilidades de liarla parda sin que ni siquiera nos
+              demos cuenta.
 
 
-              **El objetivo es que adquieras un nuevo superpoder que puedas
-              aplicar en tu día a día** —el lunes siguiente, si quieres— que te
-              ayude a progresar personal y profesionalmente.
+              En esta charla, Ari nos explicará **los riesgos y
+              responsabilidades legales que supone introducir IA en nuestra
+              empresa**, tanto con modelos gestionados por nosotros mismos como
+              con servicios de terceros. 
 
 
-              Si quieres enterarte del contenido y speaker en cuanto lo
-              anunciemos, no dejes de seguirnos en redes sociales. Las que más
-              actualizamos con [X](https://x.com/tarugoconf){target=_blank} e
-              [Instagram](https://www.instagram.com/tarugoconf/).
+              Te llevarás un mapa para no perderte entre las preguntas,
+              controles y evidencias que deberíamos revisar todos antes de poner
+              una IA a trabajar en nuestra empresa.
             speakers:
-              - ricardo
+              - ari
           - time: '18:15 - 19:00h'
             title: "\U0001F36A Merienda"
             id: merienda-viernes
@@ -608,22 +611,37 @@ blocks:
             url: 'https://es.linkedin.com/in/nuriamediavilla'
           - icon: x-logo
             url: 'https://x.com/nmediavilla19'
-      - name: SPEAKER AMEISIN
-        id: ricardo
-        role: Por anunciar
+      - name: Ari Font
+        id: ari
+        company: Alinia AI
+        role: Cofundadora y CEO
         bio: >-
-          Elegimos a nuestros ponentes no solo por su experiencia y conocimiento
-          en el tema que deben desarrollar, sino también por su capacidad de
-          comunicar de forma efectiva y amena.
+          Ariadna (o Ari) lleva años intentando que las máquinas entiendan a los
+          humanos… y que los humanos se hagan responsables de sus máquinas.
 
 
-          Iremos desvelando los speakers en los próximos días. Puedes enterarte
-          de las últimas novedades del evento siguiendo nuestra cuenta en
-          [X](https://x.com/tarugoconf){target="_blank"} o
-          [Instagram](https://www.instagram.com/tarugoconf/){target="_blank"}.
-          ***Stay tuned Antunez !!!***
-        image: /files/PONENTE 5 - Serio.jpg
-        links: []
+          Licenciada en Traducción e Interpretación por la Universitat Pompeu
+          Fabra y doctora por Carnegie Mellon, ha desarrollado su carrera entre
+          el lenguaje, la inteligencia artificial y los problemas que aparecen
+          cuando ambas cosas llegan al mundo real.
+
+
+          Fue directora de desarrollo en IBM Watson y lideró la plataforma de
+          machine learning de Twitter, donde impulsó el programa de IA
+          responsable.
+
+
+          Hoy es cofundadora y CEO de Alinia AI, donde trabaja para que las
+          empresas puedan desplegar agentes de IA con controles, supervisión y
+          trazabilidad.
+        image: /files/people/ari-font-2.jpg
+        links:
+          - icon: linkedin-logo
+            url: 'https://www.linkedin.com/in/ariadna/'
+          - icon: globe
+            url: 'https://www.alinia.ai/'
+          - icon: x-logo
+            url: 'https://x.com/quicola'
       - name: Juanjo Montiel
         id: juanjo
         company: Microsoft
