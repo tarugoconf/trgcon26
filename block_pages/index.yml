@@ -974,6 +974,11 @@ blocks:
       - name: Roberto Morlán
         img: /files/people/trg26_robertomorlan.jpeg
         url: 'https://www.linkedin.com/in/robermorlan/'
+      - name: Pide permanecer anónimo
+        img: /files/people/sam3.jpg
+      - name: Roberto Canales
+        img: /files/people/roberto-canales-mora.webp
+        url: 'https://robertocanales.com/'
   - type: separator
     width: is-default
   - type: pdf
