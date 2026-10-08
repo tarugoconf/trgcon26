@@ -756,10 +756,14 @@ blocks:
         img: /files/logos/horizontal-color.png
         url: 'https://ciclogreen.com/'
         description: Movilidad sostenible para empresas
-      - alt: Aastrokube
+      - alt: Astrokube
         img: /files/logos/ak-logo-dark-horizontal.svg
         url: 'https://www.astrokube.com/es/'
         description: 'Tu infraestructura, operada por agentes. Tú al mando.'
+      - alt: Hijos de Rivera
+        img: /files/logos/hr-logotipo-positivo-horizontal.png
+        url: 'https://corporacionhijosderivera.com/'
+        description: 'Inconformistas, desde 1906'
       - alt: Vrinka
         img: /files/logos/logo_vrinka.svg
         url: 'https://vrinka.com/'
