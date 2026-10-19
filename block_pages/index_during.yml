@@ -118,15 +118,15 @@ metas:
   image: /files/trg26-home-meta.jpg
 only_state: event
 menu:
-  - text: Dónde
-    url: '#location'
-    highlight: false
   - text: Agenda
     url: '#agenda'
     highlight: false
-  - text: Cómo patrocinar
-    url: '#patrocinar'
+  - text: Partners
+    url: '#partners'
     highlight: true
+  - text: Dónde
+    url: '#location'
+    highlight: false
   - text: FAQ
     url: '#faq'
     highlight: false
@@ -157,48 +157,6 @@ blocks:
       tecnológico en particular. En 2026, la TRG quiere ser el lugar donde
       separar la señal del ruido y aprender lo que realmente debemos hacer para
       seguir construyendo el futuro.
-  - type: separator
-    width: is-invisible
-  - type: carouseltext
-    title: ¿Qué te vas a <span>encontrar</span>?
-    id: about
-    theme: width-full
-    carousel:
-      - src: /files/TRG_aitor.jpg
-      - src: /files/GcxSiPRWMAApJQJ.jpeg
-      - src: /files/TRG_pulpo2.jpeg
-      - src: /files/trg_alicandela.jpeg
-      - src: /files/20251024_TRGCONx_006p.jpg
-      - src: /files/1761645488656.jpeg
-      - src: /files/20251024_TRGCONx_077p.jpg
-      - src: /files/20251024_trgconx_136p.jpg
-      - src: /files/peques_pixelados2.jpg
-      - src: /files/F9cIZM8WsAA_T8K.jpeg
-    text: >-
-      La TRG es **una conferencia sobre diseño, desarrollo y comercialización de
-      servicios y productos digitales** que nace con el objetivo de punto de
-      encuentro para «gente que hace cosas» alrededor del software, la
-      innovación tecnológica e Internet: técnicos, diseñadores, gente de
-      negocio, marketing u operaciones. Aquí nadie sobra. Todos son bienvenidos.
-
-
-      Se organiza cuidando cada detalle —desde las acreditaciones hasta la
-      gastronomía— para intentar transformar la asistencia en una experiencia y
-      aportar el mayor valor posible a asistentes, ponentes y patrocinadores.
-
-
-      En esta edición, el contenido pivotará alrededor de la Inteligencia
-      Artificial, pero desde un punto de vista pragmático: experiencias reales
-      que los asistentes puedan aplicar en su día a día.
-
-
-      Todos nos preguntamos cómo afectará la IA a nuestro trabajo. La agenda de
-      la TRG se ha diseñado para que encontremos respuestas.
-  - type: vimeo
-    code: '1180454644'
-    cover: /files/thumb.jpg
-    alt: Videoresumen de la anterior edición de la TRGCON
-    id: video
   - type: calendar
     title: Agenda
     description: >-
@@ -621,6 +579,8 @@ blocks:
             id: juegos-gigantes
             track: pasillo-central
             speakers: []
+  - type: separator
+    width: is-default
   - type: speakers
     title: Speakers
     description: >
@@ -840,9 +800,7 @@ blocks:
       Estas son las compañías que hacen que todo esto sea posible. Cada una de
       estas empresas ha decidido apoyarnos para que la TRG cuente con una mínima
       seguridad económica y así poder centrarnos en ofrecer a la Comunidad la
-      calidad y el espíritu de siempre. Si quieres ser parte de este esfuerzo,
-      [consulta nuestras *awesómicas* oportunidades de
-      patrocinio](/#patrocinar).
+      calidad y el espíritu de siempre.
 
 
 
@@ -1139,37 +1097,9 @@ blocks:
       - name: Roberto Canales
         img: /files/people/roberto-canales-mora.webp
         url: 'https://robertocanales.com/'
-  - type: separator
-    width: is-default
-  - type: pdf
-    title: Cómo patrocinar
-    id: patrocinar
-    theme: width-full
-    text: >-
-      En la TRG intentamos huir de la figura del «sponsor» habitual y
-      consideramos a nuestros patrocinadores verdaderos socios. Nos preocupamos
-      por entender sus objetivos y personalizamos los paquetes de patrocinio
-      para intentar alcanzarlos, trabajando mano a mano con ellos y creando
-      relaciones que perduran a lo largo de los años.
-
-
-      - Más de **1.000** asistentes a lo largo de los 3 días
-
-      - **2** días trending topic nacional
-
-      - **25** millones de impresiones en redes sociales
-
-
-      Si quieres que tu empresa sea parte de la próxima #trg26 puedes mandarnos
-      un mail a [tarugoconf@bonillaware.com](mailto:tarugoconf@bonillaware.com)
-      ¡Nos encantará charlar contigo!
-    src: /files/trg26_sponsors_deck_es.pdf
-    caption: >
-      [Descarga el dosier del patrocinio
-      (1.3)](/files/trg26_sponsors_deck_es.pdf){target=_blank .button}
-
-
-      [Versión en inglés](/files/trg26_sponsors_deck_en.pdf){target=_blank}
+      - name: Alejandro Vidal
+        img: /files/people/alejandro_vidal.jpg
+        url: 'https://doble.io/es/'
   - type: location
     title: Dónde?
     id: location
