@@ -983,6 +983,9 @@ blocks:
       - name: Roberto Canales
         img: /files/people/roberto-canales-mora.webp
         url: 'https://robertocanales.com/'
+      - name: Alejandro Vidal
+        img: /files/people/alejandro_vidal.jpg
+        url: 'https://doble.io/es/'
   - type: separator
     width: is-default
   - type: pdf
@@ -1275,3 +1278,4 @@ extra_head: |-
     }
   </style>
 title: TRG26
+only_state: pre-event

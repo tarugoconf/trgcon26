@@ -1,0 +1,1315 @@
+title: TRG26
+url: /
+extra_head: |-
+  <style>
+    @scope(.block-hero) {
+      :scope {      
+        padding-top: 120px;
+        overflow: hidden;
+        position: relative;
+        background: none;
+      }
+
+      h1 {
+        display: none;
+      }
+      .logo {
+        display: grid;
+        justify-content: center;
+        justify-items: center;
+        width: fit-content;
+        margin: auto;
+        padding: 20px 10px;
+        position: relative;
+        z-index: 2;
+        animation: logoin 1s both;
+      }
+      .logo img {
+        width: 100%;
+        max-width: 600px;
+        height: auto;
+        display: block;
+        content: "";
+      }
+      time {
+        font-family: condensed;
+        text-transform: uppercase;
+        font-size: clamp(2rem, 1vw, 2.5rem);
+        letter-spacing: 0.1em;
+        text-shadow: -2px 2px 0 black;
+      }
+      .video-bg {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        mask-image: linear-gradient(#000 75%, #0000);
+      }
+      .forma-2,
+      .forma-1 {
+        width: clamp(100px, 10vw, 150px);
+        height: auto;
+        position: absolute;
+        z-index: 1;
+      }
+      .forma-2 {
+        top: 15%;
+        left: calc(50% + min(300px, 25vw));
+      }
+      .forma-1 {
+        bottom: 0;
+        left: calc(50% - min(400px, 45vw));
+      }
+    }
+    .ly-blocks {
+      background-image: linear-gradient(
+        to bottom,
+        oklch(0.10 0.05 345) 15%,
+        oklch(0.60 0.16 345) 40%,
+        #dafaff 50%,
+        #dafaff 90%,
+        oklch(0.65 0.16 234) 95%
+      );
+    }
+    @media (width < 500px) {
+      .ly-blocks {
+        background-image: linear-gradient(
+          to bottom,
+          oklch(0.10 0.05 345) 10%,
+          oklch(0.60 0.16 345) 15%,
+          #dafaff 20%,
+          #dafaff 90%,
+          oklch(0.65 0.16 234) 95%
+        );
+      }
+    }
+    @media (width < 800px) {
+      .ly-blocks {
+        background-image: linear-gradient(
+          to bottom,
+          oklch(0.10 0.05 345) 10%,
+          oklch(0.60 0.16 345) 20%,
+          #dafaff 35%,
+          #dafaff 90%,
+          oklch(0.65 0.16 234) 95%
+        );
+      }
+    }
+    @keyframes logoin {
+      from {
+        transform: scale(1.5);
+        opacity: .3;
+      }
+      to {
+        transform: scale(1);
+        opacity: 1;
+      }
+    }
+    
+    #partners .block-logos-list img {
+      filter: none
+    }
+  </style>
+metas:
+  title: TRG26
+  description: La conferencia tecnológica más gallega y awesómica del mundo.
+  image: /files/trg26-home-meta.jpg
+only_state: event
+menu:
+  - text: Dónde
+    url: '#location'
+    highlight: false
+  - text: Agenda
+    url: '#agenda'
+    highlight: false
+  - text: Cómo patrocinar
+    url: '#patrocinar'
+    highlight: true
+  - text: FAQ
+    url: '#faq'
+    highlight: false
+blocks:
+  - type: hero
+    title: TRG26
+    intro: >-
+      <video class="video-bg" preload playsinline autoplay muted loop
+      src="/files/hero-loop.mp4"></video>
+
+      <div class="logo">
+
+      <time>Madrid. 22–24 octubre</time>
+
+      <img src="/files/trgcon-2-veintiseis.png" alt="TRGCON Veintiseis">
+
+      </div>
+
+      <img src="/files/forma-1.png" alt="" class="forma-1">
+
+      <img src="/files/forma-2.png" alt="" class="forma-2">
+  - type: text
+    id: intro
+    theme: width-full
+    columns: false
+    text: >-
+      La IAx ha supuesto una revolución para la sociedad en general y el sector
+      tecnológico en particular. En 2026, la TRG quiere ser el lugar donde
+      separar la señal del ruido y aprender lo que realmente debemos hacer para
+      seguir construyendo el futuro.
+  - type: separator
+    width: is-invisible
+  - type: carouseltext
+    title: ¿Qué te vas a <span>encontrar</span>?
+    id: about
+    theme: width-full
+    carousel:
+      - src: /files/TRG_aitor.jpg
+      - src: /files/GcxSiPRWMAApJQJ.jpeg
+      - src: /files/TRG_pulpo2.jpeg
+      - src: /files/trg_alicandela.jpeg
+      - src: /files/20251024_TRGCONx_006p.jpg
+      - src: /files/1761645488656.jpeg
+      - src: /files/20251024_TRGCONx_077p.jpg
+      - src: /files/20251024_trgconx_136p.jpg
+      - src: /files/peques_pixelados2.jpg
+      - src: /files/F9cIZM8WsAA_T8K.jpeg
+    text: >-
+      La TRG es **una conferencia sobre diseño, desarrollo y comercialización de
+      servicios y productos digitales** que nace con el objetivo de punto de
+      encuentro para «gente que hace cosas» alrededor del software, la
+      innovación tecnológica e Internet: técnicos, diseñadores, gente de
+      negocio, marketing u operaciones. Aquí nadie sobra. Todos son bienvenidos.
+
+
+      Se organiza cuidando cada detalle —desde las acreditaciones hasta la
+      gastronomía— para intentar transformar la asistencia en una experiencia y
+      aportar el mayor valor posible a asistentes, ponentes y patrocinadores.
+
+
+      En esta edición, el contenido pivotará alrededor de la Inteligencia
+      Artificial, pero desde un punto de vista pragmático: experiencias reales
+      que los asistentes puedan aplicar en su día a día.
+
+
+      Todos nos preguntamos cómo afectará la IA a nuestro trabajo. La agenda de
+      la TRG se ha diseñado para que encontremos respuestas.
+  - type: vimeo
+    code: '1180454644'
+    cover: /files/thumb.jpg
+    alt: Videoresumen de la anterior edición de la TRGCON
+    id: video
+  - type: calendar
+    title: Agenda
+    description: >-
+      Tres días llenos de actividades, pero sobre todo, de oportunidades para
+      conocer y ser conocido.
+    id: agenda
+    theme: is-light width-box box-fill
+    days:
+      - title: 'Jueves, 22 de octubre'
+        events:
+          - time: '15:00h'
+            title: Apertura de puertas y acreditación de asistentes
+            id: apertura-jueves
+            description: >
+              ¡Acredítate antes que nadie y evita las colas del viernes! Trae tu
+              entrada, impresa o en el móvil, y **recoge tu awesómico welcome
+              pack** antes de disfrutar de todas las actividades y contenido de
+              la TRG26 ¡Bienvenidos!
+            speakers: []
+          - time: '15:30 - 19:00h'
+            title: TALLERES PRÁCTICOS
+            id: taller-sponsors
+            subtitle: ¡Reserva tu plaza!
+            description: "Talleres patrocinados por nuestros sponsors, que abren a los asistentes de la TRG26.\n\nPodéis reservar vuestra plaza al comprar la entrada de la TRG, pero **si se os olvidó, también podéis reservar AHORA** [en Eventbrite](https://www.eventbrite.es/e/entradas-trg26-1985907372410){target=_blank} —eso sí— usando el mismo mail con el que os registrastéis \U0001F64F\n\n* 15:30 - 18:00h Webs escalables y mantenibles en la era de la IA (ofrecido por WordPress)\n* <s>15:30 - 18:00h Ata en corto a tus agentes: SDD en directo (ofrecido por Onext)</s> AGOTADO\n* <s>15:30 - 18:00h De Developer a Forward Deployed Engineer (ofrecido por Orbitant)</s> AGOTADO\n* 17:30 - 19:00h Escenarios legales clave que la IA no solucionará (ofecido por Rama Legal)"
+            speakers: []
+          - time: '18:00 - 20:00h'
+            title: Networking Tarugo
+            id: networking-jueves
+            subtitle: "Conoce a gente nueva \U0001F60A"
+            description: >-
+              Actividades opcionales y dinámicas divertidas, para que los
+              asistentes se conozcan entre sí en un ambiente distendido y
+              seguro, lideradas por voluntarios de la TRG.
+
+
+              Si no conoces a nadie, saldrás con un grupo con el que compartir
+              el resto de la conferencia y, si vienes acompañado, ampliarás el
+              circulo con el que interactuarás durante el resto del evento.
+            speakers: []
+          - time: '20:00 - 22:00h'
+            title: Corrupción en m-IA-mi
+            id: show-jueves
+            subtitle: "con Monos Estocásticos \U0001F435\U0001F648"
+            description: "[Antonio](https://x.com/antonello){target=\"_blank\"} y [Mati](https://x.com/matiass){target=\"_blank\"} son el ying y el yang de [Monos Estocásticos](https://cuonda.com/monos-estocasticos){target=\"_blank\"} **uno de los podcast más didácticos, rigurosos y —sobre todo— divertidos sobre  Inteligencia Artificial** que puedes escuchar en castellano.\n\nEn la TRG26 grabarán un programa en directo en el que interactuarán constantemente con el público \U0001F973\n\nLa IA ha puesto patas arriba la industría tecnológica, pero ¿cuánto hay de realidad y cuánto de pensamiento mágico detrás de las últimas decisiones empresariales y las oleadas de despidos?\n\nEn dos horas, nuestros monos separán la señal del ruido para **dibujar un mapa que nos indique hacia dónde va el sector informático y qué debemos hacer para no perdernos por el camino**.\n___\n \n### ONE MORE THING... «RUINA SE ESCRIBE CON I y A»\n\nAl estilo del popular formato [La Ruina](https://www.youtube.com/watch?v=Ee1zWoCk6ZI&t=752s){target=\"_blank\"}, los asistentes al *chou* podrán compartir sus particulares «ruinas» informáticas —con cualquier tecnología en general y con la IA en particular— en una divertida catarsis colectiva que nos elevará a un nivel superior de consciencia.\n\n¿De verdad te lo vas a perder?"
+            speakers: []
+      - title: 'Viernes, 23 de octubre'
+        events:
+          - time: '9:00h'
+            title: Apertura de puerta y acreditación de asistentes
+            id: apertura-viernes
+            description: >-
+              ¡Acredítate antes que nadie y evita las colas! Trae tu entrada,
+              impresa o en el móvil, y disfruta de todas las actividades y
+              contenido de la TRG26.
+
+
+              Te recibiremos con **café, bica gallega y fruta**... además de
+              amenizar la espera con la música de [Don
+              Robot](https://www.youtube.com/watch?v=ltXX9Ab6vuo){target="_blank"},
+              nuestro DJ residente, que te transportará a Miami en cuanto cruces
+              por la puerta.
+
+
+              ¡Bienvenidos!
+            speakers: []
+          - time: '10:00 - 10:15h'
+            title: El día del juicio final
+            id: keynote
+            subtitle: Keynote
+            description: >-
+              En la apertura de la TRG puede pasar cualquier cosa, desde que
+              alguien salga vestido de comandante de la Fuerza Aerea Gallega
+              hasta que aparezca Steve Jobs. Te podrá gustar más o menos, pero
+              no te dejará indiferente.
+
+
+              Lo único que te pedimos es que acudas con la mente abierta y que
+              seas puntual. A las 10:00h cerraremos las puertas del auditorio,
+              que quedaran selladas hasta las 10:15. Lo que pasa en la TRG se
+              queda en la TRG...
+
+
+              Además, en esta keynote te daremos toda la información para que
+              puedas disfrutar al 100% del evento.
+            speakers:
+              - david-bonilla
+          - time: '10:15 - 11:00h'
+            title: La odisea del programador
+            id: charla-andres
+            subtitle: por Andrés Torrubia
+            description: >-
+              Debemos asumir que llevamos décadas perfeccionando habilidades que
+              cada día parecen valer menos.
+
+
+              Pueden aceptarlo o no, pero **para seguir trabajando como tal, los
+              programadores deben embarcarse en un viaje** en el que
+              experimentarán perdida, ira e incertidumbe.
+
+
+              Una autentica *odisea* que Andrés ya ha sufrido y por la que nos
+              intentará guiar, para que la travesía se haga más liviana y —sobre
+              todo— consigamos llegar a nuestro destino.
+
+
+              Sin urgencia y sin miedo, pero también sin mirar atrás.
+            speakers:
+              - andres
+          - time: '11:00 - 11:45h'
+            title: Quemar tokens sin quemar tu empresa
+            id: charla-cristian
+            subtitle: por Cristian Córdova
+            description: >-
+              Los modelos comerciales de IA son comodísimos. Hasta que dejan de
+              serlo.
+
+
+              Cuotas, costes impredecibles, límites de uso, privacidad,
+              cumplimiento legal, latencia... o la necesidad de que nuestra
+              plantilla y nuestras aplicaciones pueda usar IA sin mirar el
+              contador de tokens cada cinco minutos. Tarde o temprano, muchas
+              empresas se hacen la misma pregunta: **¿tiene sentido montar
+              nuestra propia infraestructura de IA?**
+
+
+              En esta charla, Cristian Córdova te explicará cuándo merece la
+              pena desplegar y gestionar un LLM propio, qué tipo de empresas
+              pueden beneficiarse más de ello y cuáles deberían pensárselo dos
+              veces antes de comprar una GPU.
+
+
+              Hablaremos de modelos abiertos, servidores de inferencia,
+              hardware, costes reales, operación, seguridad, aspectos legales,
+              convivencia con modelos comerciales y todas esas decisiones que no
+              aparecen en los tutoriales, pero que determinarán si tu «ChatGPT
+              privado» acaba siendo una ventaja competitiva… o una estufa
+              carísima con API compatible con OpenAI.
+            speakers:
+              - cristian
+          - time: '11:45 - 12:00h'
+            title: ¡Atrápalos a todos!
+            subtitle: Demo del juego de cartas tipo Pokemon de la TRG26
+            description: >-
+              Como en cada edición, cada asistente se llevará a casa
+              COMPLETAMENTE GRATIS un juego de mesa original que disfrutar con
+              amigos y familia.
+
+
+              En este ocasión, tendremos una versión de uno de los juegos de
+              cartas más populares —Pokemon— que nos permitirá aprender a jugar
+              al mismo y conocer el enorme ecosistema alrededor.
+            speakers: []
+          - time: '12:00 - 12:45h'
+            title: ☕ Coffe Break
+            description: >-
+              Café, snacks y pastitas para llenar las tripitas.
+
+
+              Este intermedio estará amenizado por el DJ residente de la TRG
+              —[Don
+              Robot](https://www.youtube.com/watch?v=ltXX9Ab6vuo){target="_blank"}—,
+              que pinchará los mejores mixes de la bandaza sonora de Miami Vice.
+            speakers: []
+          - time: '12:45 - 13:00h'
+            title: ¡El precio Justo!
+            description: >-
+              Un concursote de Lanzarote en el que los asistentes de la TRG
+              podrán demostrar sus conocimientos sobre el *bisnes* de la
+              Informática y ganar suculentos premios.
+            speakers: []
+          - time: '13:00 - 13:45h'
+            title: 'Matar al SaaS es fácil, lo difícil viene después'
+            id: charla-joseramon
+            subtitle: por Jose Ramón Pérez
+            description: >-
+              La IA ha acelerado un proceso de *deSaaSificación*, desdibujando
+              la fina línea que separa la compra de software del desarrollo
+              propio.
+
+
+              Constantemente nos llegan cantos de sirena que afirman que **el
+              SaaS ha muerto**. La realidad, como casi siempre, es bastante
+              menos sexy, pero mucho más interesante.
+
+
+              En esta charla, José Ramón nos contará qué ocurre el día después
+              de sustituir una herramienta comercial —clave para el
+              funcionamiento de una plataforma online que factura más de 1.000
+              millones de euros— por una solución propia.
+
+
+              Aprenderemos cómo decidir qué merece la pena internalizar, cómo
+              calcular el coste real más allá del desarrollo inicial, cómo
+              organizar el mantenimiento para evitar que la solución se quede
+              atrás y cómo compararnos de forma honesta con las alternativas que
+              ofrece el mercado.
+            speakers:
+              - joseramon
+          - time: '13:45 - 14:30h'
+            title: Cómo programan quienes programan la IA
+            id: charla-mai
+            subtitle: por Mai Giménez
+            description: >-
+              La inteligencia artificial ha cambiado para siempre la forma en la
+              que desarrollamos software, pero demasiadas empresas todavía creen
+              que «trabajar con IA» consiste en pagar una suscripción de Gemini,
+              Claude o Codex a sus desarrolladores.
+
+
+              Limitarse a replicar el día a día con la asistencia de un LLM es
+              un grave error. En la era de la IA agéntica, el miedo a la página
+              en blanco ha muerto, pero el peligro real es el *AI-slop*. Nuestro
+              rol como desarrolladores debe evolucionar para adaptarse a este
+              nuevo paradigma, repensando la organización, los flujos y las
+              herramientas que esa nueva realidad exige.
+
+
+              En esta charla, Mai diseccionará **las dinámicas de programación,
+              procesos de revisión y mecanismos de colaboración en empresas que
+              no solo usan IA, sino que la desarrollan**. Qué tareas se aceleran
+              y escalan. Dónde sigue mereciendo la pena invertir tiempo humano.
+              Qué cuellos de botella nuevos aparecen. Qué hábitos y buenas
+              prácticas conviene cultivar para trabajar mejor sin delegar jamás
+              la responsabilidad de pensar.
+
+
+              **Para que, más allá del *hype* y el ruido, entendamos hacia dónde
+              evolucionará de verdad el desarrollo de software** en los próximos
+              años.
+            speakers:
+              - mai
+          - time: '14:30 - 16:30h'
+            title: "\U0001F419 Comida y Pulpeirada"
+            id: comida-viernes
+            description: >-
+              Diferentes opciones gastronómicas ecológicas, sostenibles y mucho
+              gallegas... incluyendo a Anxo —nuestro pulpeiro de O Carballiño—
+              que distribuirá **300 raciones de pulpo *a feira* recien hecho**,
+              y muchas mas cosas distribuidas por las mesas para que nadie tenga
+              que esperar ninguna cola.
+
+
+              Y, por supuesto, contaremos con opciones veganas y sin gluten.
+            speakers: []
+          - time: '16:30 - 16:45h'
+            title: ¿Qué saben los muggles de IA?
+            subtitle: Videoreportaje
+            description: >-
+              Nuestros intrépidos reporteros se lanzarán a la calle, micrófono
+              en mano, para averiguar hasta qué sabe el público general de la IA
+              y su impacto.
+            speakers: []
+          - time: '16:45 - 17:30h'
+            title: 'El Diseño post-chatGPT: eliminando barreras, no trabajos'
+            id: charla-nuria
+            subtitle: por Nuria Mediavilla
+            description: >-
+              ¿Qué pasa cuando ya no necesitas a nadie más para llevar una idea
+              a producción? **¿Sigue haciendo falta un perfil de diseño cuando
+              cualquiera puede generar una interfaz en segundos?** ¿O es
+              precisamente ahora cuando ese perfil se vuelve más necesario que
+              nunca?
+
+
+              Nuria contará cómo ha pasado de proponer diseño a construirlo y
+              lanzarlo ella misma, usando IA para eliminar las barreras técnicas
+              que antes obligaban a depender de otros equipos: prototipos,
+              cambios en producción, sistemas de interacción. No se trata de
+              trabajar más rápido, sino de tener autonomía real sobre el impacto
+              del propio trabajo, y de entender que el buen criterio de diseño
+              importa más cuanto menos cuesta ejecutar cualquier cosa.
+
+
+              Los asistentes a esta charla se llevarán **un enfoque práctico de
+              cómo integrar diseño en el desarrollo iterativo de productos o
+              servicios digitales en la era de la IA**, y por qué el perfil de
+              diseño, lejos de sobrar, es hoy de los que más puede aportar.
+            speakers:
+              - nuria
+          - time: '17:30 - 18:15h '
+            title: 'Fue la IA, señoría (que no te pase a ti)'
+            id: charla-ari
+            subtitle: por Ari Font
+            description: >-
+              Un empleado pega un contrato confidencial en un chatbot. Un agente
+              promete a un cliente algo que la empresa no puede cumplir. Un
+              directivo utiliza un modelo para decidir a quién contratar... La
+              IA puede multiplicar la productividad de nuestro equipo, pero
+              también las posibilidades de liarla parda sin que ni siquiera nos
+              demos cuenta.
+
+
+              En esta charla, Ari nos explicará **los riesgos y
+              responsabilidades legales que supone introducir IA en nuestra
+              empresa**, tanto con modelos gestionados por nosotros mismos como
+              con servicios de terceros. 
+
+
+              Te llevarás un mapa para no perderte entre las preguntas,
+              controles y evidencias que deberías revisar antes de poner una IA
+              a trabajar en un proceso o aplicación.
+            speakers:
+              - ari
+          - time: '18:15 - 19:00h'
+            title: "\U0001F36A Merienda"
+            id: merienda-viernes
+            description: >-
+              Café y bollería artesanal para aguantar hasta el final.
+
+
+              En esta ocasión, **Don Robot** teñirá el ambiente con ritmos
+              tropicales y latinos que nos harán mover los pies como
+              langostinos.
+            speakers: []
+          - time: '19:00 - 19:15h'
+            title: "\U0001F3B0 La Jerocleta"
+            description: >-
+              ¡El momento más esperado por los asistentes veteranos de la TRG!
+
+
+              Sorteo de jugosos premios entre todos los que tuiteen con el
+              *hashtag*
+              [#TRG26](https://x.com/search?q=%23trg26&src=typed_query&f=live){target="_blank"},
+              realizado con la mítica «Jerocleta» de **Jerónimo López**. Sin
+              duda alguna, el software español más utilizado de la historía.
+
+
+              ¡Cuanto más tuitees, más posibilidades tendrás de ganar!
+            speakers: []
+          - time: '19:15 - 20:00h'
+            title: Lo veo todo negro (AI powered Edition™)
+            id: charla-juanjo
+            subtitle: por Juanjo Montiel
+            description: "Juanjo lleva más de diecinueve años trabajando como desarrollador. Y, como casi todos los programadores, contempla la inteligencia artificial con una mezcla de fascinación y cierta inquietud.\n\nPero Juanjo puede aportar una perspectiva especialmente reveladora sobre esta tecnología porque es ciego de nacimiento. Aunque ninguno sabemos muy bien qué futuro nos deparará la IA, él si puede afirmar con absoluta seguridad que lo ve NEGRO \U0001F60E\n \nEn esta charla, Juanjo nos mostrará las posibilidades y retos que ha introducido la IA en nuestro día a día —productividad, autonomía, dependencia de plataformas de terceros, falsas promesas, sesgos, el derribo de antiguas barreras y la aparición de otras nuevas— pero desde un prisma que las aumenta por 1.000, como es depender de la tecnología no por comodidad, sino para percibir el mundo y tomar decisiones diarias.\n\nUn prisma que, precisamente por eso, pone esas posibilidades y esos retos a la vista de todos, ciegos o no."
+            speakers:
+              - juanjo
+          - time: '20:00 - 20:30h'
+            title: Rendición de cuentas
+            id: rendicion-cuentas
+            description: "Como ya es tradición, **haremos públicas todas las cifras del evento** -fuentes de ingresos, partidas de gastos y cuenta de resultados- y... confirmaremos si habrá o no TRG el próximo año \U0001F631"
+            speakers:
+              - david-bonilla
+          - time: '20:30 - 22:30h'
+            title: "\U0001F973 Legendaria Fiesta Taruga"
+            id: fiesta
+            description: >-
+              Transformaremos La Nave en una auténtica «discoteque» con comida y
+              bebida, **suministro ilimitado de churros con y sin chocolate**,
+              música y las mejores conversaciones del planeta porque... LA VIDA
+              PUEDE SER MARAVILLOSA.
+
+
+              * **INTRO** - Este año contaremos con la actuación de la
+              **Ma-IA-mi Sound Machine**, una pareja de DJs que rendirá homenaje
+              al sonido *house* de Miami con un set lleno de energía y buena
+              música.
+
+              * **MAIN EVENT** - El reggaetón más canalla nos hará bailar hasta
+              bien entrada la noche.
+            speakers: []
+      - title: 'Sábado, 24 de octubre'
+        events:
+          - time: '11:00 - 17:00h'
+            title: "\U0001F389 Community Day"
+            id: community-day
+            label: IMPORTANTE
+            description: >+
+              Después de la intensidad del viernes, el sábado 24 de octubre —de
+              11:00h a 17:00h— celebramos el «Día de la Comunidad», una jornada
+              diseñada para disfrutar relajadamente y a la que podrás traer a tu
+              familia, amigos y compañeros de trabajo.
+
+
+              **Habrá actividades para todas las edades... y todo tipo de
+              relación con la tecnología**. En el Community Day disfrutarán por
+              igual grandes, pequeños, hackers de nivel 32 o gente que no ha
+              tocado un ordenador en su vida.
+
+
+              En muy poco tiempo os detallaremos toda la agenda del día, pero
+              para que os hagáis una idea de lo que podéis encontrar, podéis
+              consultar [las actividades que ya han sido
+              confirmadas](/community-day/){target="_blank"}.
+
+            speakers: []
+  - type: multitrack-calendar
+    title: 'Sábado, 24 de octubre'
+    description: >-
+      Una jornada abierta, a la que podréis traer a familia, compañeros y/o
+      amigos, con un montón de actividades para grandes y pequeños. Tenéis mucha
+      más info en [esta página](/community-day).
+    id: agenda-sabado
+    fullwidth: false
+    days:
+      - tracks:
+          - title: Pasillo Central
+            id: pasillo-central
+          - title: Pista de Pickleball
+            id: pista-pickleball
+          - title: Cafetería
+            id: cafeteria
+          - title: Aula 1
+            id: aula-1
+          - title: Aula 2
+            id: aula-2
+          - title: Stand Next Digital
+            id: stand-next
+          - title: Zona Infantil
+            id: zona-infantil
+          - title: Parking Exterior
+            id: parking
+        events:
+          - time: '11:00h - 17:00h'
+            title: "\U0001F3CE️ Scalextric GIGANTE de 4 pistas"
+            id: sabado-scalextric
+            track: pasillo-central
+            speakers: []
+          - time: '11:00h - 17:00h'
+            title: 'Twister, Jenga, Conecta 4 y damas MEGAGIGANTES'
+            id: juegos-gigantes
+            track: pasillo-central
+            speakers: []
+  - type: speakers
+    title: Speakers
+    description: >
+      El «speaker» o ponente de la Tarugoconf no nace, **[SE
+      HACE](https://github.com/tarugoconf/trgcon26/blob/main/SPEAKERS.md){target=_blank}**.
+      Estos
+
+      son los awesómicos invitados con los que contaremos este año:
+    id: speakers
+    theme: width-full
+    speakers:
+      - name: José Ramón Pérez
+        id: joseramon
+        company: Mercadona Tech
+        role: CPO/CTO
+        bio: >-
+          Jose Ramón es CPO y CTO de Mercadona Tech, donde lidera la estrategia
+          de producto e ingeniería de toda la vertical online de Mercadona.
+
+
+          Antes, trabajó en roles de producto y tecnología en empresas como
+          Amazon, JobandTalent o Tuenti.
+
+
+          Es Doctor en Ciencias de la Computación por la Universidad Complutense
+          de Madrid, en la especialidad de Ingeniería del Software e
+          Inteligencia Artificial. Comparte lo que aprende en
+          [Gemba](https://www.gemba.es/){target=_blank}, su newsletter semanal
+          sobre producto, ingeniería y liderazgo técnico.
+        image: /files/people/joseramon.jpg
+        links:
+          - icon: linkedin-logo
+            url: 'https://www.linkedin.com/in/joseaguera/'
+          - icon: spotify-logo
+            url: 'https://open.spotify.com/show/2zTAR5x2wWtvdB8JXjy0cm'
+          - icon: globe
+            url: 'https://www.gemba.es/'
+      - name: ' Mai Giménez'
+        id: mai
+        company: DeepMind
+        role: 'Research Engineer '
+        bio: >-
+          Mai Giménez investiga en el desarrollo de modelos de lenguaje grandes
+          y multimodales en Google DeepMind. Tiene un doctorado en comprensión
+          del lenguaje natural y también completó un máster en diseño e
+          ilustración.
+
+
+          A Mai le apasiona crear la tecnología más útil para todo el mundo y su
+          principal interés de investigación se centra en el lenguaje y los
+          impactos sociotécnicos de estos modelos en el mundo real.
+
+
+          Y, por si fuera poco, contribuye de forma activa a la comunidad
+          técnica. Mai fue miembro de la junta directiva de la Asociación Python
+          España, ayudó a organizar varias PyConES y es una orgullosa integrante
+          de PyLadies.
+        image: /files/people/mai_gimenez.jpg
+        links:
+          - icon: linkedin-logo
+            url: 'https://www.linkedin.com/in/maigimenez/'
+          - icon: x-logo
+            url: 'https://x.com/maidotgimenez'
+      - name: Cristian Córdova
+        id: cristian
+        company: Helmcode
+        role: Fundador
+        bio: >-
+          Cristian es un camarada del metal, formado no en los pasillos de
+          Stanford sino en la FP superior de Administración de Sistemas del
+          Instituto Virgen de la Paz de Alcobendas.
+
+
+          Culo inquieto, ha hecho todas las *pokevoluciones* del cacharreo,
+          pasado de la simple gestión de una instancia Linux al SRE y después a
+          DevOps, lo que le permitió adquirir todos los conocimientos necesarios
+          para especializarse en la administración de infraestructura para IA.
+
+
+          Fundador de Helmcode, una empresa que proporciona servicios de DevOps
+          e Inferencia, tanto a empresas como a particulares.
+        image: /files/people/cristian.jpg
+        links:
+          - icon: x-logo
+            url: 'https://x.com/barckcode'
+          - icon: globe
+            url: 'https://helmcode.com/'
+          - icon: linkedin-logo
+            url: 'https://www.linkedin.com/in/helmcode/'
+      - name: Andrés Torrubia
+        id: andres
+        company: Nanomind
+        role: CEO
+        bio: >-
+          Andrés vendió su empresa por $34M cuando en España aun no se hablaba
+          de startups y **ya intentó que comprendieramos el *tsunami* que sería
+          la IA cuando nadie hablaba de IA**. Ni más ni menos que [en la TRG de
+          2018](https://vimeo.com/305100749){target="_blank"}, CUATRO AÑOS ANTES
+          de que se lanzara la primera versión de ChatGPT.
+
+
+          En 2026 vuelve a la TRG con la esperanza de que, esta vez, prestemos
+          más atención a su particular visión sobre la *odisea* que van a tener
+          que recorrer los programadores si quieren seguir ejerciendo su
+          profesión.
+
+
+          Actualmente, Andrés trabaja como CEO de Nanomind —la empresa que fundó
+          junto a su mujer, Aurelia Bustos— donde se dedican a buscar nuevos
+          medicamentos para curar enfermedades como el Alzheimer, con la ayuda
+          de la IA.
+        image: /files/people/andres_torrubia.jpg
+        links:
+          - icon: linkedin-logo
+            url: 'https://www.linkedin.com/in/andrestorrubia/'
+          - icon: x-logo
+            url: 'https://x.com/antor'
+      - name: Nuria Mediavilla
+        id: nuria
+        company: Tinybird
+        role: Product Designer
+        bio: >-
+          Nuria diseña para desarrolladores, o sea, se dedica a convencer a
+          gente muy lista de que el diseño no es decoración, es lógica, solo que
+          con otro lenguaje. Es de Bilbao, tiene la mala hostia que se le
+          presupone a cualquier bilbaína, y la lleva usando a su favor desde que
+          se metió en esto.
+
+
+          Lleva cuatro años en Tinybird, después de pasar por Corunet,
+          Zorraquino y una temporada de freelance. Ahora usa Claude Code para
+          tener autonomía real: lleva sus propios cambios a producción y le
+          quita carga a ingeniería en todo lo que puede resolver ella misma. Va
+          de que el diseño deje de ser el cuello de botella.
+
+
+          Fuera del trabajo, Blur —su mejor amigo, un galgo de 12 años— la sigue
+          a todas partes. Le apasiona el diseño y le apasiona la IA, pero donde
+          de verdad disfruta es comiendo bien, de fiesta y viajando. Vamos, una
+          disfrutona.
+        image: /files/people/nuria2.jpg
+        links:
+          - icon: linkedin-logo
+            url: 'https://es.linkedin.com/in/nuriamediavilla'
+          - icon: x-logo
+            url: 'https://x.com/nmediavilla19'
+      - name: Ari Font
+        id: ari
+        company: Alinia AI
+        role: Cofundadora y CEO
+        bio: >-
+          Ariadna (o Ari) lleva años intentando que las máquinas entiendan a los
+          humanos… y que los humanos se hagan responsables de sus máquinas.
+
+
+          Licenciada en Traducción e Interpretación por la Universitat Pompeu
+          Fabra y doctora por Carnegie Mellon, ha desarrollado su carrera entre
+          el lenguaje, la inteligencia artificial y los problemas que aparecen
+          cuando ambas cosas llegan al mundo real.
+
+
+          Fue directora de desarrollo en IBM Watson y lideró la plataforma de
+          machine learning de Twitter, donde impulsó el programa de IA
+          responsable.
+
+
+          Hoy es cofundadora y CEO de Alinia AI, donde trabaja para que las
+          empresas puedan desplegar agentes de IA con controles, supervisión y
+          trazabilidad.
+        image: /files/people/ari-font-2.jpg
+        links:
+          - icon: linkedin-logo
+            url: 'https://www.linkedin.com/in/ariadna/'
+          - icon: globe
+            url: 'https://www.alinia.ai/'
+          - icon: x-logo
+            url: 'https://x.com/quicola'
+      - name: Juanjo Montiel
+        id: juanjo
+        company: Microsoft
+        role: Senior Software Development Engineer
+        bio: >-
+          Juanjo Montiel es ingeniero de software en Microsoft, especializado en
+          .NET, C#, servicios en la nube y accesibilidad digital. Ciego de
+          nacimiento y programador autodidacta desde la adolescencia, lleva más
+          de diecinueve años creando productos y experiencias digitales
+          accesibles.
+
+
+          A lo largo de su trayectoria ha combinado el desarrollo profesional
+          con la docencia, la divulgación y la creación de proyectos propios.
+          Entre ellos se encuentran TagFit, una aplicación para identificar y
+          organizar ropa de forma accesible, y Corro, un motor de juegos de mesa
+          y cartas diseñado para que personas ciegas y videntes puedan jugar
+          juntas en igualdad de condiciones.
+
+
+          Le apasiona construir software de calidad, explorar cómo la tecnología
+          puede ampliar la autonomía de las personas y compartir lo que aprende
+          mediante cursos, artículos y conferencias, siempre desde la cercanía y
+          el buen humor.
+        image: /files/people/juanjo.jpg
+        links:
+          - icon: linkedin-logo
+            url: 'https://www.linkedin.com/in/jjmontiel/'
+          - icon: globe
+            url: 'https://www.kastwey.org/'
+          - icon: butterfly
+            url: 'https://bsky.app/profile/kastwey.org'
+          - icon: mastodon-logo
+            url: 'https://bookstodon.es/@kastwey'
+  - type: logos
+    title: Partners
+    id: partners
+    theme: width-full
+    description: >-
+      Estas son las compañías que hacen que todo esto sea posible. Cada una de
+      estas empresas ha decidido apoyarnos para que la TRG cuente con una mínima
+      seguridad económica y así poder centrarnos en ofrecer a la Comunidad la
+      calidad y el espíritu de siempre. Si quieres ser parte de este esfuerzo,
+      [consulta nuestras *awesómicas* oportunidades de
+      patrocinio](/#patrocinar).
+
+
+
+      [![Image](/files/logos/wpcom-logo-pill.png){width=450}](https://wordpress.com/es/ai/?utm_medium=referral&utm_source=TRGCon2026&utm_campaign=organizerlink){target=_blank}
+
+
+      Crea, publica, y despega.
+    size: medium
+    items:
+      - alt: Extramile
+        img: /files/logos/extramile.png
+        url: 'https://extramilecloud.com/'
+        description: Mapas Inteligentes.
+      - alt: Orbitant
+        img: /files/logos/logo-orbitant.png
+        url: 'https://orbitant.com/'
+        description: Donde confluyen ingeniería y negocio.
+      - alt: Manfred
+        img: /files/logos/logo_manfred_color.png
+        url: 'https://www.getmanfred.com/'
+        description: Ayudamos a las empresas a crear mejores equipos.
+      - alt: Merlin Software
+        img: /files/logos/logo_merlin_azul.png
+        url: 'https://merlinsoftware.es/'
+        description: Consultoría tecnológica honesta
+      - alt: Costa.io
+        img: /files/logos/2026_costa_logo.png
+        url: 'https://costa.io/'
+        description: Más diseño. Mejores negocios.
+      - alt: Secuoyas
+        img: /files/logos/secuoyas-black.png
+        url: 'https://www.secuoyas.com/'
+        description: Innovación para humanistas digitales
+      - alt: Next Digital
+        img: /files/logos/logo_next.png
+        url: 'https://www.nextdigital.es/'
+        description: 'Código de calidad, futuro sostenible'
+      - alt: Raiola
+        img: /files/logos/raiola_networks_horizontal_positivo.png
+        url: 'https://raiolanetworks.com/'
+        description: Dominios y alojamiento web de calidad.
+      - alt: Pétalo
+        img: /files/logos/petalo-logo-positivo.png
+        url: 'https://petalo.xyz/'
+        description: M&A estratégico. Y con cariño.
+      - alt: Panel
+        img: /files/logos/panel_logo_negro.png
+        url: 'https://www.panel.es/'
+        description: El cambio empieza en TI.
+      - alt: '540'
+        img: /files/logos/logo_540_negro.png
+        url: 'https://www.540deg.com/'
+        description: Desarrollo de software de calidad con pragmatismo.
+      - alt: onext
+        img: /files/logos/Logo_onext_transparente.svg
+        url: 'https://www.onext.es/es/'
+        description: Ingeniería de contexto para IA empresarial.
+      - alt: Technosylva
+        img: /files/logos/technosylva-300dpi-png-logo.png
+        url: 'https://technosylva.com'
+        description: Tecnología para luchar contra incendios forestales
+      - alt: Oscar Rama
+        img: /files/logos/oscar_rama2.png
+        url: 'https://oscarrama.es/'
+        description: Te mereces un abogado mejor que ChatGPT
+      - alt: Ciclogreen
+        img: /files/logos/horizontal-color.png
+        url: 'https://ciclogreen.com/'
+        description: Movilidad sostenible para empresas
+      - alt: Astrokube
+        img: /files/logos/ak-logo-dark-horizontal.svg
+        url: 'https://www.astrokube.com/es/'
+        description: 'Tu infraestructura, operada por agentes. Tú al mando.'
+      - alt: Hijos de Rivera
+        img: /files/logos/hr-logotipo-positivo-horizontal.png
+        url: 'https://corporacionhijosderivera.com/'
+        description: 'Inconformistas, desde 1906'
+      - alt: Vrinka
+        img: /files/logos/logo_vrinka.svg
+        url: 'https://vrinka.com/'
+        description: Realidad Virtual en grupo
+      - alt: Eventbrite
+        img: /files/logos/eventbrite_logo.png
+        url: 'https://www.eventbrite.es/'
+        description: Proveedor oficial de ticketing de la TRG.
+  - type: logos
+    title: Colaboradores
+    id: colaboradores
+    theme: width-full
+    size: small
+    items:
+      - alt: Tailor Hub
+        img: /files/logos/tailor-logo.png
+        url: 'https://www.tailor-hub.com/'
+      - alt: Transparent Edge
+        img: /files/logos/te_logotipo_secundario_positivo.svg
+        url: 'https://www.transparentedge.eu/'
+      - alt: Docuten
+        img: /files/logos/docuten_logo.png
+        url: 'https://docuten.com/es/'
+      - alt: Wanda Media
+        img: /files/logos/wanda_media.png
+        url: 'https://wandamedia.es/'
+      - alt: Grupo Billingham
+        img: /files/logos/logotipos_billingham_nuevos_en_color_1_2_hwydwb.svg
+        url: 'https://www.grupobillingham.com/'
+      - alt: Metricool
+        img: /files/logos/logo-metricool.png
+        url: 'https://metricool.com/es/'
+      - alt: New Age Agency
+        img: /files/logos/logo_newage.png
+        url: 'https://www.instagram.com/newage.agency'
+      - alt: Ayuntamiento de Madrid
+        img: /files/logos/madrid-innovation-ayto.png
+        url: 'https://www.madridinnovation.es/'
+  - type: separator
+    width: is-default
+  - type: people
+    title: Mecenas
+    id: mecenas
+    description: >-
+      Estas personas han contribuido con su mecenazgo han hecho posible una
+      #TRG26 MEJOR para todos los asistentes.
+
+
+      Si quieres convertirte en mecenas, participar en «el Senado» de la TRG y
+      formar parte de la toma de decisiones del evento, puedes [adquirir tu
+      entrada](/entradas) directamente, cuando se pongan a la venta, o ponerte
+      en [contacto](#contacto) con nosotros, enviandonos un mail. 
+    theme: width-full
+    items:
+      - name: Juan Carlos Vez
+        img: /files/people/juancarlos.jpg
+        url: 'https://www.linkedin.com/in/juancarlosvezvazquez/'
+      - name: Daniel Ramos
+        img: /files/logos/danielramos.jpg
+        url: 'https://twitter.com/danielramosl'
+      - name: Marc De Mena
+        img: /files/people/marcdemena.jpeg
+        url: 'https://www.linkedin.com/in/mdemena/'
+      - name: Beatriz Jimenez
+        img: /files/people/bea.jpeg
+        url: 'https://es.linkedin.com/in/beatrizjimenez'
+      - name: David Carrero
+        img: /files/people/carrero.png
+        url: 'https://carrero.es/'
+      - name: Rubén Arevalillo
+        img: /files/people/ruben.jpg
+        url: 'https://x.com/rarevalillo'
+      - name: Sofía Rodriguez
+        img: /files/people/sofia.jpg
+        url: 'https://www.linkedin.com/in/sofia-rodriguez-roman/'
+      - name: Daniel Torres-Burriel
+        img: /files/people/torres-burriel.png
+        url: 'https://x.com/torresburriel'
+      - name: Pide permanecer anónima
+        img: /files/people/anonima.jpg
+      - name: Guillermo de Haro
+        img: /files/people/guillermo_haro.jpeg
+        url: 'https://www.linkedin.com/in/guillermodeharo/'
+      - name: Guillermo Montoya
+        img: /files/people/guillermo_montoya.jpg
+        url: 'https://twitter.com/Gmfdsr'
+      - name: Juan Miqueo
+        img: /files/people/juan-miqueo.jpeg
+        url: 'https://twitter.com/juan_miqueo'
+      - name: Anca Gabriela Munteanu
+        img: /files/people/anca_gabriela.jpeg
+        url: 'https://www.linkedin.com/in/ancagmun/'
+      - name: Ricardo Sanz
+        img: /files/people/ricardo_sanz.jpeg
+        url: 'https://www.linkedin.com/in/ricardosanzmartinez/'
+      - name: Pablo Grueso
+        img: /files/people/pablo_grueso.jpeg
+        url: 'https://www.linkedin.com/in/pablogrueso/'
+      - name: Álvaro Amor
+        img: /files/people/alvaro-amor.jpeg
+        url: 'https://www.linkedin.com/in/alvaroamor/'
+      - name: Boris Gragera
+        img: /files/people/boris.jpeg
+        url: 'https://www.linkedin.com/in/borisgragera/'
+      - name: Rei Aguilera
+        img: /files/people/rei_aguilera.jpg
+        url: 'https://www.linkedin.com/in/reiaguilera/'
+      - name: Joaquín Fernandez
+        img: /files/people/joaquin_fernandez.png
+        url: 'https://x.com/Iarwain'
+      - name: Sebastián Vidal
+        img: /files/people/sebastian.png
+        url: 'https://www.linkedin.com/in/sebasvidal/'
+      - name: Luis Ibañez
+        img: /files/logos/luis_ibanez.jpeg
+        url: 'https://x.com/ender3_'
+      - name: Dimas Suarez
+        img: /files/logos/dimas.jpg
+        url: 'https://massuarez.es/'
+      - name: Pide permanecer anónimo
+        img: /files/people/anonimo2.jpg
+      - name: Toño de la Torre
+        img: /files/logos/tono-de-la-torre.jpeg
+        url: 'https://es.linkedin.com/in/antoniodelatorre/es'
+      - name: Rubén Morgade
+        img: /files/logos/ruben_morgade.jpeg
+        url: 'https://www.linkedin.com/in/rubenmorgade/'
+      - name: Iván Fernandez
+        img: /files/people/ivan.jpg
+        url: 'https://www.linkedin.com/in/iv%C3%A1n-fern%C3%A1ndez-calvo-21425033/'
+      - name: Jose Luis Cases
+        img: /files/people/jose-luis-cases.jpeg
+        url: 'https://www.linkedin.com/in/jose-luis-cases-lozano/'
+      - name: David Pardo
+        img: /files/people/davidpardo.jpg
+        url: 'https://twitter.com/dei_biz'
+      - name: Bruno López
+        img: /files/people/trg-mecenas-bruno-lopez-lagares.png
+        url: 'https://www.linkedin.com/in/brunoloplag/'
+      - name: Martín Álvarez
+        img: /files/people/martin.jpeg
+        url: >-
+          https://www.linkedin.com/in/mart%C3%ADn-%C3%A1lvarez-castillo-41254650/
+      - name: Juanjo Ibañez
+        img: /files/people/juanjo.jpeg
+        url: 'https://www.linkedin.com/in/juan-jose-ibanez-5277751a/'
+      - name: Javier López-Camacho
+        img: /files/people/javier_lopez.jpeg
+        url: 'https://www.linkedin.com/in/javierlopezcamacho/'
+      - name: txetxu Velayos
+        img: /files/people/txetxu.jpg
+        url: 'https://x.com/txetxuvel'
+      - name: Pablo R.
+        img: /files/logos/pablor.jpg
+        url: 'https://x.com/root_rat'
+      - name: Ricardo Bartolomé
+        img: /files/people/ricardo.jpeg
+        url: 'https://www.linkedin.com/in/ricardobartolome/'
+      - name: Ignacio Lacasa
+        img: /files/people/ignacio.jpeg
+        url: 'https://www.linkedin.com/in/ignacio-lacasa/'
+      - name: Boro Mas
+        img: /files/people/boromas.jpg
+        url: 'https://x.com/boromas'
+      - name: Diego Mariño
+        img: /files/people/diego-marino.jpeg
+        url: 'https://twitter.com/diegomarino'
+      - name: Javier Ramírez
+        img: /files/people/fotojavi.jpeg
+        url: 'https://www.linkedin.com/in/javierramirezblanes'
+      - name: Noemí Carro
+        img: /files/people/noemi.jpg
+        url: 'https://x.com/NoemiCarro'
+      - name: César Alberca
+        img: /files/people/cesar_alberca.jpeg
+        url: 'https://cesalberca.com'
+      - name: Manuel Delgado
+        img: /files/people/manuel_delgado.jpeg
+        url: 'https://www.manueldelgado.com'
+      - name: Juan Jesús Yubero
+        img: /files/people/yubero.jpeg
+        url: 'https://www.linkedin.com/in/juanjesusyubero/'
+      - name: Anxo Barreiro Canosa
+        img: /files/people/anxo.jpg
+        url: 'https://x.com/Anxobc'
+      - name: Andrea Magán
+        img: /files/people/andrea.jpeg
+        url: 'https://www.linkedin.com/in/andreamaganrey/'
+      - name: Pablo Fernandez-Maquieira
+        img: /files/people/pablo_fernandez_maquieira.jpeg
+        url: 'https://pablofm.com/'
+      - name: Alfonso Gutierrez
+        img: /files/people/alfonso_gutierrez_guay.jpg
+        url: 'https://www.linkedin.com/in/alfonsogu/'
+      - name: Fátima Ballesteros
+        img: /files/people/fatima.jpeg
+        url: 'https://www.linkedin.com/in/fatima-ballesteros-11b1183b'
+      - name: Alejandro San Nicolás
+        img: /files/people/alejandro.jpg
+        url: 'https://www.linkedin.com/in/alejandrosnicolas'
+      - name: Pablo Santos
+        img: /files/people/pablo-santos.jpg
+        url: 'https://es.linkedin.com/in/psantosl'
+      - name: Miguel Ángel Nicolao
+        img: /files/people/miguel_angel.jpg
+        url: 'https://x.com/mnicolao11'
+      - name: Pide permanecer anónimo
+        img: /files/people/anonimo2.jpg
+      - name: Antonio Villegas
+        img: /files/people/trg26-antonio-villegas.jpeg
+        url: 'https://www.linkedin.com/in/antoniovillegasacosta/'
+      - name: Roberto Morlán
+        img: /files/people/trg26_robertomorlan.jpeg
+        url: 'https://www.linkedin.com/in/robermorlan/'
+      - name: Pide permanecer anónimo
+        img: /files/people/sam3.jpg
+      - name: Roberto Canales
+        img: /files/people/roberto-canales-mora.webp
+        url: 'https://robertocanales.com/'
+  - type: separator
+    width: is-default
+  - type: pdf
+    title: Cómo patrocinar
+    id: patrocinar
+    theme: width-full
+    text: >-
+      En la TRG intentamos huir de la figura del «sponsor» habitual y
+      consideramos a nuestros patrocinadores verdaderos socios. Nos preocupamos
+      por entender sus objetivos y personalizamos los paquetes de patrocinio
+      para intentar alcanzarlos, trabajando mano a mano con ellos y creando
+      relaciones que perduran a lo largo de los años.
+
+
+      - Más de **1.000** asistentes a lo largo de los 3 días
+
+      - **2** días trending topic nacional
+
+      - **25** millones de impresiones en redes sociales
+
+
+      Si quieres que tu empresa sea parte de la próxima #trg26 puedes mandarnos
+      un mail a [tarugoconf@bonillaware.com](mailto:tarugoconf@bonillaware.com)
+      ¡Nos encantará charlar contigo!
+    src: /files/trg26_sponsors_deck_es.pdf
+    caption: >
+      [Descarga el dosier del patrocinio
+      (1.3)](/files/trg26_sponsors_deck_es.pdf){target=_blank .button}
+
+
+      [Versión en inglés](/files/trg26_sponsors_deck_en.pdf){target=_blank}
+  - type: location
+    title: Dónde?
+    id: location
+    theme: is-primary width-box box-fill
+    embed: >-
+      <iframe width="425" height="350"
+      src="https://www.openstreetmap.org/export/embed.html?bbox=-3.698935210704804%2C40.346196601879726%2C-3.694311082363129%2C40.34874776071478&amp;layer=mapnik&amp;marker=40.34747219335924%2C-3.696623146533966"
+      style="border: 1px solid black"></iframe>
+    caption: >-
+      Las tres jornadas del evento se celebrarán íntegramente [en La
+      Nave,](https://www.lanavemadrid.com/) un awesómico espacio cubierto que
+      acogerá todas las actividades.
+    directions:
+      - title: La nave
+        description: |-
+          Calle Cifuentes 5<br>
+          28021 Madrid
+        icon: map-pin
+      - title: En metro
+        description: >-
+          A 5 minutos andando de la parada [Villaverde Bajo -
+          Cruce](https://www.metromadrid.es/es/linea/linea-3#estacion-355)
+          (Línea 3)
+        icon: train-simple
+      - title: En tren
+        description: >-
+          A 7 minutos andando de la [estación Puente
+          Alcocer](https://es.wikipedia.org/wiki/Estaci%C3%B3n_de_Puente_Alcocer)
+          (Línea C5)
+        icon: train
+      - title: En taxi
+        description: >-
+          Por teléfono: [915478200](tel:915478200)<br>
+
+
+          También puedes llamar desde [Cabify](https://cabify.com/es/pasajeros),
+          [Bold](https://bolt.eu/es-es/cities/madrid/) o
+          [Uber](https://www.uber.com/).
+        icon: taxi
+      - title: En coche
+        description: Tienes sitio de sobra para aparcar.
+        icon: car
+  - type: faq
+    title: FAQ
+    id: faq
+    theme: is-light width-box box-fill
+    questions:
+      - question: ¿A quién está dirigido este evento? ¿Es para mi?
+        answer: >
+          Intentamos que la TRG sea un punto de encuentro para gente que hace
+          cosas (o que tiene ganas de hacerlas) en el sector digital. Nos
+          desvivimos para que te sientas como en casa, tanto si tienes un perfil
+          tecnológico como si trabajas en otras disciplinas.
+      - question: >-
+          Soy suscriptor/a de La Bonilista ¿tengo algún tipo de ventaja o
+          descuento?
+        answer: >
+          Pues sí. Los suscriptores de [La
+          Bonilista](https://www.bonilista.com/){target=_blank} podréis
+          **acceder a las entradas *early bird*, de precio reducido, un día
+          antes que el público general**: el domingo 5 de julio, a las 11:00h.
+          Se agotan en 24 horas, así que, os quedaréis con la mayoría :)
+      - question: "¿Qué es eso del Community Day del sábado? \U0001F389"
+        answer: >
+          Una jornada abierta, a la que podréis traer a familia, compañeros y/o
+          amigos, con un montón de actividades para grandes y pequeños.
+
+
+          En breve tendréis toda la información actualizada en la web.
+      - question: ¿Ofrecéis ayuda para gestionar viajes y/o hoteles?
+        answer: >-
+          Sí, gracias a nuestro partnership con Vyootrip, podéis reservar
+          vuestro viaje y estancia con interesantes descuentos.
+
+
+          Tenéis más info en [esta
+          página](https://www.vyootrip.com/trgcon/){target=_blank}. Pronto
+          actualizarán precios y opciones para la edición de este año.
+      - question: ¿Cómo puedo estar al día de todas las noticias y novedades del evento?
+        answer: >
+          Tenemos un [Blog](https://tarugoconf.com/blog){target=_blank} donde
+          iremos colgando toda la información relevante, pero no dejes de seguir
+          [la cuenta en Twitter de la
+          TRG](https://twitter.com/tarugoconf){target=_blank} y,
+
+          especialmente, el hashtag
+          [#trg26](https://twitter.com/search?q=%23trg26&src=typed_query&f=live){target=_blank}.
+      - question: "¿Cuándo se podrán comprar entradas? \U0001F39F️"
+        answer: >-
+          El **28 de junio** mandaremos un correo a los suscriptores de [La
+          Bonilista](https://www.bonilista.com/){target=_blank} con
+          instrucciones sobre cómo **acceder a las entradas *early bird* —de
+          precio reducido— un día antes que el público general**.
+
+
+          **El domingo 5 de julio** las entradas estarán disponibles para los
+          suscriptores de la *newsletter* y, un día después, para todo el
+          público en general.
+      - question: Si mi empresa me paga la entrada ¿Hacéis factura?
+        answer: >
+          Por supuesto. En la TRG, lo único negro es el futuro de David Bonilla
+          como cantante.
+      - question: ¿Tenéis Código de Conducta?
+        answer: >
+          Por supuesto que tenemos [Código de
+          Conducta](/codigo-de-conducta/){target=_blank}.
+      - question: Sigo teniendo dudas ¿qué hago?
+        answer: >
+          No problemo. Visita la sección de [Contacto](/#contacto) de esta misma
+          web
+
+          donde encontrarás la información necesaria para contactar con nosotros
+          por múltiples canales.
+
+          </br></br>
+
+          ¡Estaremos encantados de resolverte cualquier duda!
+  - type: contact
+    title: Contacto
+    id: contacto
+    theme: width-full
+    items:
+      - title: Candela Milán Dopico
+        info: Event manager
+        links:
+          - url: 'mailto:tarugoconf@bonillaware.com'
+            icon: envelope
+            text: tarugoconf@bonillaware.com
+          - url: 'https://twitter.com/candelamd'
+            icon: twitter-logo
+            text: '@candelamd'
+      - title: Bonillaware SLU
+        info: 'Castellana 194, Cink Coworking<br>28046 Madrid (España)'
+        links:
+          - url: 'https://g.page/cink-coworking?share'
+            icon: map-pin
+            text: Ver mapa
+          - url: 'https://tarugoconf.slack.com'
+            icon: slack-logo
+            text: tarugoconf.slack.com
+          - url: 'https://twitter.com/tarugoconf'
+            icon: twitter-logo
+            text: '@tarugoconf'

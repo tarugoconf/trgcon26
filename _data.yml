@@ -10,8 +10,8 @@ metas:
   twitter: '@tarugoconf'
 state: pre-event
 cta:
-  text: ENTRADAS AGOTADAS
-  url: /entradas/
+  text: NETWORKING
+  url: /networking/
 footer:
   logo: /files/logos/logo.png
   copyright: |
