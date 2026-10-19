@@ -92,7 +92,7 @@ body:not(.is-sticky) .navbar-flexible {
   background: linear-gradient(to bottom, #0006, transparent) no-repeat;
 }
 
-.event-list {
+.block-calendar:not(.block-multitrack-calendar) .event-list {
   .event {
     --background: #FF8EBE;
     --rotate: -2deg;
@@ -140,6 +140,54 @@ body:not(.is-sticky) .navbar-flexible {
     transition: transform 200ms;
   }
 }
+/* Multitrack calendar: title like the other section titles, but smaller */
+.block-multitrack-calendar {
+  --title-color: var(--color-dark);
+  --title-shadow: var(--color-secondary);
+
+  .type-title {
+    font-size: min(3rem, 7vw);
+    font-weight: normal;
+    color: var(--title-color);
+    text-shadow: -4px 4px 0 color-mix(in srgb, var(--title-shadow) 50%, transparent);
+  }
+  .event-tracks .event {
+    /* pastel pink: the secondary colour softened with the box background */
+    border-color: color-mix(in srgb, var(--color-secondary) 45%, var(--color-bg));
+  }
+}
+
+/* Multitrack calendar: post-it style only on the track headers */
+.block-multitrack-calendar .event-track-title {
+  --background: #FF8EBE;
+  --rotate: -1.5deg;
+
+  width: 100%;
+  margin: 0.25rem 0 0.5rem;
+  padding: 2px 8px;
+  text-align: center;
+  background-color: var(--background);
+  border-radius: 1px;
+  box-shadow: -3px 3px color-mix(in srgb, var(--background), black 40%);
+  transform: rotate(var(--rotate));
+  font-family: condensed;
+  font-size: 1.1rem;
+  line-height: 1.2;
+  color: var(--color-dark);
+
+  &:nth-of-type(2n) {
+    --background: #64f5f0;
+    --rotate: 1deg;
+  }
+  &:nth-of-type(3n) {
+    --background: #f9ff8e;
+    --rotate: -1deg;
+  }
+  &:nth-of-type(4n) {
+    --background: #a2e9aa;
+  }
+}
+
 #contacto {
   --color-text: white;
   --color-links: white;

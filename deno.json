@@ -3,7 +3,7 @@
     "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@3.2.6/",
     "lume/jsx-runtime": "https://cdn.jsdelivr.net/gh/oscarotero/ssx@0.1.15/jsx-runtime.ts",
     "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.15.5/",
-    "theme/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@f42c8f1000dc477e7877a9466a469cd07509358d/"
+    "theme/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@bf45280d07e3c9e1f7ec4a2fbd7b5cca40b700a1/"
   },
   "permissions": {
     "lume": {
