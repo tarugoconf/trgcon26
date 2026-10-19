@@ -106,7 +106,7 @@ blocks:
           href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSfHehj0zDv9rfNx5g3mQrvH1KmZ7B91cgbLOpVi-HNVuokV8w/viewform?usp=send_form"
           target="_blank">este formulario</a>.
         wide: false
-      - title: <b>La Costa del <i>networking</i></b>
+      - title: <b>La playa del <i>networking</i></b>
         tags:
           - Durante todo el evento
         img: /files/networking/trg26_costa.jpeg
@@ -115,7 +115,7 @@ blocks:
           href="https://costa.io/" target="_blank">Costa</a> y con unas normas
           muy sencillas: si estás dentro, no solo aceptas que cualquiera pueda
           hablarte o sumarse a tu conversación, sino que <b>te animamos a sumar
-          a todos los que entren</b>.</br></br>La Costa del networking también
+          a todos los que entren</b>.</br></br>La playa del networking también
           será el hogar y punto de encuentro de los anclas.
         wide: false
       - title: <b>El código QR de tu acreditación</b>
