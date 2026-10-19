@@ -569,15 +569,32 @@ blocks:
           - title: Parking Exterior
             id: parking
         events:
-          - time: '11:00h - 17:00h'
+          - time: '11:00 - 17:00h'
             title: "\U0001F3CE️ Scalextric GIGANTE de 4 pistas"
             id: sabado-scalextric
             track: pasillo-central
             speakers: []
-          - time: '11:00h - 17:00h'
+          - time: '11:00 - 17:00h'
             title: 'Twister, Jenga, Conecta 4 y damas MEGAGIGANTES'
             id: juegos-gigantes
             track: pasillo-central
+            speakers: []
+          - time: '11:30 - 12:30h'
+            title: "Panel Open \U0001F3C6"
+            id: panel-open
+            label: Torneo de Pickleball
+            subtitle: Torneo de Pickleball
+            track: pista-pickleball
+            description: >-
+              Si aún no conoces el deporte que está ARRASANDO en Estados Unidos,
+              en la TRG tendrás la oportunidad de probarlo en una pista
+              reglamentaria. Las palas y bolas corren de nuestra cuenta.
+
+
+              Y el sábado celebraremos un salvaje y divertido torneo, el Panel
+              Open, con premios, muchas sorpresas y nuestros awesómicos
+              speakers. ¡Anímate a participar o disfruta del espectáculo como
+              espectador!
             speakers: []
   - type: separator
     width: is-default
