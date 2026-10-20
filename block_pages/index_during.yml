@@ -153,7 +153,7 @@ blocks:
     theme: width-full
     columns: false
     text: >-
-      La IAx ha supuesto una revolución para la sociedad en general y el sector
+      La IA ha supuesto una revolución para la sociedad en general y el sector
       tecnológico en particular. En 2026, la TRG quiere ser el lugar donde
       separar la señal del ruido y aprender lo que realmente debemos hacer para
       seguir construyendo el futuro.
@@ -517,31 +517,6 @@ blocks:
               * **MAIN EVENT** - El reggaetón más canalla nos hará bailar hasta
               bien entrada la noche.
             speakers: []
-      - title: 'Sábado, 24 de octubre'
-        events:
-          - time: '11:00 - 17:00h'
-            title: "\U0001F389 Community Day"
-            id: community-day
-            label: IMPORTANTE
-            description: >+
-              Después de la intensidad del viernes, el sábado 24 de octubre —de
-              11:00h a 17:00h— celebramos el «Día de la Comunidad», una jornada
-              diseñada para disfrutar relajadamente y a la que podrás traer a tu
-              familia, amigos y compañeros de trabajo.
-
-
-              **Habrá actividades para todas las edades... y todo tipo de
-              relación con la tecnología**. En el Community Day disfrutarán por
-              igual grandes, pequeños, hackers de nivel 32 o gente que no ha
-              tocado un ordenador en su vida.
-
-
-              En muy poco tiempo os detallaremos toda la agenda del día, pero
-              para que os hagáis una idea de lo que podéis encontrar, podéis
-              consultar [las actividades que ya han sido
-              confirmadas](/community-day/){target="_blank"}.
-
-            speakers: []
   - type: multitrack-calendar
     title: 'Sábado, 24 de octubre'
     description: >-
@@ -549,7 +524,7 @@ blocks:
       amigos, con un montón de actividades para grandes y pequeños. Tenéis mucha
       más info en [esta página](/community-day).
     id: agenda-sabado
-    fullwidth: false
+    theme: is-light width-box box-fill
     days:
       - tracks:
           - title: Pasillo Central
@@ -558,14 +533,20 @@ blocks:
             id: pista-pickleball
           - title: Cafetería
             id: cafeteria
-          - title: Aula 1
-            id: aula-1
-          - title: Aula 2
-            id: aula-2
+          - title: Auditorio
+            id: auditorio
+          - title: Aula 7
+            id: aula-7
+          - title: Aula 6
+            id: aula-6
+          - title: Aula 5
+            id: aula-5
           - title: Stand Next Digital
             id: stand-next
           - title: Zona Infantil
             id: zona-infantil
+          - title: Zonas South Beach
+            id: south-beach
           - title: Parking Exterior
             id: parking
         events:
@@ -575,15 +556,33 @@ blocks:
             track: pasillo-central
             speakers: []
           - time: '11:00 - 17:00h'
-            title: 'Twister, Jenga, Conecta 4 y damas MEGAGIGANTES'
+            title: 'Quién es quién, Jenga, Conecta 4 y damas, pero... MEGAGIGANTES'
             id: juegos-gigantes
             track: pasillo-central
             speakers: []
+          - time: '11:00 - 17:00h'
+            title: "Casetas de Feria \U0001F3A1"
+            id: casetas-feria
+            track: pasillo-central
+            description: >-
+              Juegos típicos de feria como la pesca de patos, el lanzamiento de
+              aros, la rana, o el derribe de bolos.
+            speakers: []
+          - time: '11:00 - 17:00h'
+            title: Juegos de conos interactivos
+            id: juegos-conos
+            track: pasillo-central
+            speakers: []
+          - time: '11:00 - 16:00h'
+            title: "Tienda de la TRG \U0001F6CD️"
+            id: tienda
+            track: pasillo-central
+            description: Un lugar donde comprar memorabilia y recuerdos del evento.
+            speakers: []
           - time: '11:30 - 12:30h'
-            title: "Panel Open \U0001F3C6"
+            title: "Torneo de Pickleball \U0001F3C6"
             id: panel-open
-            label: Torneo de Pickleball
-            subtitle: Torneo de Pickleball
+            subtitle: ofrecido por Panel
             track: pista-pickleball
             description: >-
               Si aún no conoces el deporte que está ARRASANDO en Estados Unidos,
@@ -593,8 +592,317 @@ blocks:
 
               Y el sábado celebraremos un salvaje y divertido torneo, el Panel
               Open, con premios, muchas sorpresas y nuestros awesómicos
-              speakers. ¡Anímate a participar o disfruta del espectáculo como
-              espectador!
+              speakers. ¡[Anímate a
+              participar](https://docs.google.com/forms/d/e/1FAIpQLScrvPiCPpOcV-frggRtuOFTDyVYOQjNffw4fBRLaSJFO9i87A/closedform){target=_blank}
+              o disfruta del espectáculo como espectador!
+            speakers: []
+          - time: '11:15 - 12:15h'
+            title: Sketchnoting
+            id: taller-sketch-1
+            label: Taller
+            subtitle: con Javier Alonso (@oyabun)
+            track: aula-7
+            description: >-
+              Aprende a dibujar ideas.
+
+
+              Impartido por el mítico [Javier «Oyabun»
+              Alonso](https://twitter.com/oyabun){target=_blank}, Product
+              Designer en Docker y sketchnoter oficial de la TRG.
+            speakers: []
+          - time: '12:15 - 13:15h'
+            title: Dibujo para pequeños grandes artistas
+            id: taller-hugo
+            label: Taller
+            subtitle: con Hugo Tobio
+            track: aula-7
+            description: >-
+              Aprende técnicas básicas de dibujo, que te harán parecer un
+              experto, de la mano de [Hugo Tobio](https://twitter.com/HugoTobio)
+              ¡El mismísimo ilustrador de la Bonilista!
+            speakers: []
+          - time: '13:15 - 14:15h'
+            title: Sketchnoting
+            id: taller-sketch-2
+            label: Taller
+            subtitle: con Javier Alonso (@oyabun)
+            track: aula-7
+            description: >-
+              Aprende a dibujar ideas.
+
+
+              Impartido por el mítico [Javier «Oyabun»
+              Alonso](https://twitter.com/oyabun){target=_blank}, Product
+              Designer en Docker y sketchnoter oficial de la TRG.
+            speakers: []
+          - time: '11:15 - 12:00h'
+            title: Taller de ajedrez (de 7 a 99 años) ♟️
+            id: taller-ajedrez-1
+            label: Taller
+            subtitle: con Antonio Villegas
+            track: aula-5
+            description: >-
+              Taller de ajedrez a cargo de [Antonio
+              Villegas](https://www.linkedin.com/in/antoniovillegasacosta/){target=blank},
+              que enseñará los movimientos y reglas básicas a grandes y
+              pequeños, para que aprendan de la mejor manera posible: ¡jugando!
+
+
+              A ver... no saldrás del taller siendo Bobby Fischer, pero tendrás
+              las herramientas necesarias para adentrarte en el apasionante
+              mundo del ajedrez.
+            speakers: []
+          - time: '12:00 - 13:15h'
+            title: Juego libre de ajedrez
+            id: ajedrez-libre
+            track: aula-5
+            description: >-
+              Tendréis un buen puñado de tableros libres para poder jugar y el
+              lujo de contar con [Antonio
+              Villegas](https://www.linkedin.com/in/antoniovillegasacosta/){target=blank}
+              como monitor para aconsejaros vuestro próximo movimiento...
+            speakers: []
+          - time: '13:15 - 14:00h'
+            title: Taller de ajedrez (de 7 a 99 años) ♟️
+            id: taller-ajedrez-2
+            label: Taller
+            subtitle: con Antonio Villegas
+            track: aula-5
+            description: >-
+              Taller de ajedrez a cargo de [Antonio
+              Villegas](https://www.linkedin.com/in/antoniovillegasacosta/){target=blank},
+              que enseñará los movimientos y reglas básicas a grandes y
+              pequeños, para que aprendan de la mejor manera posible: ¡jugando!
+
+
+              A ver... no saldrás del taller siendo Bobby Fischer, pero tendrás
+              las herramientas necesarias para adentrarte en el apasionante
+              mundo del ajedrez.
+            speakers: []
+          - time: '12:15 - 13:15h'
+            title: Taller de caligrafía
+            id: taller-caligrafía
+            label: Taller
+            subtitle: con Antonio Villegas
+            track: aula-6
+            description: >-
+              Aprenderás los trazos básicos de la caligrafía utilizando
+              *brushpen*, con la guía del ilustrador [Raúl
+              Muro](https://www.instagram.com/raul_muro/){target="_blank"}.
+
+
+              También verás la diferencia que existe con el lettering, entre
+              otras muchas cosas.
+            speakers: []
+          - time: '11:00 - 16:00h'
+            title: "\U0001F69A Foodtruck"
+            id: foodtruck
+            track: parking
+            description: >-
+              Un camión de 12 ejes con múltiples opciones de comida
+              (hamburgesas, empanadas, falafel...) y bebida para todos los
+              asistentes al Community Day.
+            speakers: []
+          - time: '11:00 - 17:00h'
+            title: "Máquinas Arcade \U0001F47E"
+            id: maquinas-arcade
+            track: south-beach
+            description: >-
+              4 ordenadores con emuladores y mandos arcade para que podáis echar
+              unas partiditas a juegos míticos.
+            speakers: []
+          - time: '11:00 - 17:00h'
+            title: "Juego de Dardos \U0001F3AF"
+            id: dardos
+            track: south-beach
+            description: >-
+              Contaremos con una «diana electrónica profesional», sea lo que sea
+              eso.
+            speakers: []
+          - time: '11:00 - 17:00h'
+            title: "Futbolines \U0001F945"
+            id: futbolines
+            track: south-beach
+            description: 2 futbolines de madera.
+            speakers: []
+          - time: '11:00 - 17:00h'
+            title: "Anillo Espiral \U0001F300"
+            id: espiral
+            track: south-beach
+            speakers: []
+          - time: '11:00 - 17:00h'
+            title: "Corn Holes \U0001F33D"
+            id: cornholes
+            track: south-beach
+            description: >-
+              ¡El clásico juego del salvaje oeste!
+
+
+              Dispondremos de cuatro tableros de *cornhole*, para que te sientas
+              como si estuvieras en tu propio rancho de Nuevo México,
+              descansando después de haber llevado el ganado al abrevadero.
+            speakers: []
+          - time: '11:00 - 16:00h'
+            title: Fábrica de Chapas
+            id: chapas
+            track: stand-next
+            description: Fabrica chapas personalizadas a partir de tus propios diseños.
+            speakers: []
+          - time: '11:15 - 11:45'
+            title: Marketplace de Ideas
+            id: desc-marketplace
+            label: DesconferencIA
+            track: cafeteria
+            description: >-
+              La DesconferencIA es un *open space* así que serán los propios
+              participantes los que decidirán los contenidos de la
+              des-conferencia en este mercado de ideas.
+
+
+              ____
+
+
+              Este año, enfocamos nuestro tradicional *open space* para
+              convertirlo en <b>un espacio donde poder hablar tanto de las
+              oportunidades como de las incertidumbres que ha introducido la IA
+              en nuestro día a día</b>,       en un ambiente relajado y
+              amigable,        donde TOD@S tendremos la oportunidad de escuchar
+              y ser escuchados.     </br></br>      Las personas que asistáis
+              podréis compartir y acceder a ese **«conocimiento tribal»      
+              sobre trabajo con la IA** (desde el *tooling* que usáis a vuestros
+              flujos de trabajo)  que NO suele estar publicado en ningún sitio y
+              solo se transmite «boca a boca», pero TAMBIEN vuestras inquietudes
+              respecto a cómo va a cambiar esto vuestro trabajo...  o vuestro
+              miedo a que os pueda llevar a perderlo. Ningún tema sobra.
+              </br></br> Dirigido por <a href="https://x.com/merybere"
+              target="_blank">@merybere</a>  —con amplia experiencia dinamizando
+              conferencias <i>ágiles</i>—  y dos TITANES del ecosistema IA, como
+              son  <a href="https://x.com/dobleio" target="_blank">@dobleio</a>
+              y <a href="https://x.com/root_rat" target="_blank">@root_rat</a>.
+            speakers: []
+          - time: '12:30 - 16:00h'
+            title: "Pista Abierta \U0001F3D3"
+            id: pista-rapida
+            subtitle: Partidas rápidas de pickleball para todo el mundo.
+            track: pista-pickleball
+            description: >-
+              ¡No hace falta que traigas palas ni bolas! Solo calzado cómodo y
+              ganas de pasartelo bien :)
+
+
+              Organizaremos partidas rápidas para que nadie se quede sin jugar
+              porque no tenga compañeros para hacerlo... o por que alguien esté
+              monopolizando la pista.
+            speakers: []
+          - time: '11:45 - 14:00h'
+            title: Sesiones
+            id: descia- sesiones
+            label: DesconferencIA
+            track: cafeteria
+            description: >-
+              Se celebrarán las sesiones que hayan salido del marketplace de
+              ideas, tanto en **la cafetería de La Nave** (2 sitios) como en
+              **el Auditorio** (otros dos).
+
+
+              Tanto el emplazamiento definitivo como los horarios dependerán de
+              las sesiones elegidas por los asistentes en el marketplace.
+
+
+              Puede que haya sesiones de media hora o dinámicas tipo fishbowl
+              que duren 90 minutos. Puede que en algunas sesiones solo haya 10
+              personas y en otras 100 ^___^
+
+
+              ____
+
+
+              Este año, enfocamos nuestro tradicional *open space* para
+              convertirlo en <b>un espacio donde poder hablar tanto de las
+              oportunidades como de las incertidumbres que ha introducido la IA
+              en nuestro día a día</b>,       en un ambiente relajado y
+              amigable,        donde TOD@S tendremos la oportunidad de escuchar
+              y ser escuchados.     </br></br>      Las personas que asistáis
+              podréis compartir y acceder a ese **«conocimiento tribal»      
+              sobre trabajo con la IA** (desde el *tooling* que usáis a vuestros
+              flujos de trabajo)  que NO suele estar publicado en ningún sitio y
+              solo se transmite «boca a boca», pero TAMBIEN vuestras inquietudes
+              respecto a cómo va a cambiar esto vuestro trabajo...  o vuestro
+              miedo a que os pueda llevar a perderlo. Ningún tema sobra.
+              </br></br> Dirigido por <a href="https://x.com/merybere"
+              target="_blank">@merybere</a>  —con amplia experiencia dinamizando
+              conferencias <i>ágiles</i>—  y dos TITANES del ecosistema IA, como
+              son  <a href="https://x.com/dobleio" target="_blank">@dobleio</a>
+              y <a href="https://x.com/root_rat" target="_blank">@root_rat</a>.
+            speakers: []
+          - time: '11:45 - 14:00h'
+            title: Sesiones
+            id: descia- sesiones
+            label: DesconferencIA
+            track: auditorio
+            description: >-
+              Se celebrarán las sesiones que hayan salido del marketplace de
+              ideas, tanto en **la cafetería de La Nave** (2 sitios) como en
+              **el Auditorio** (otros dos).
+
+
+              Tanto el emplazamiento definitivo como los horarios dependerán de
+              las sesiones elegidas por los asistentes en el marketplace.
+
+
+              Puede que haya sesiones de media hora o dinámicas tipo fishbowl
+              que duren 90 minutos. Puede que en algunas sesiones solo haya 10
+              personas y en otras 100 ^___^
+
+
+              ____
+
+
+              Este año, enfocamos nuestro tradicional *open space* para
+              convertirlo en <b>un espacio donde poder hablar tanto de las
+              oportunidades como de las incertidumbres que ha introducido la IA
+              en nuestro día a día</b>,       en un ambiente relajado y
+              amigable,        donde TOD@S tendremos la oportunidad de escuchar
+              y ser escuchados.     </br></br>      Las personas que asistáis
+              podréis compartir y acceder a ese **«conocimiento tribal»      
+              sobre trabajo con la IA** (desde el *tooling* que usáis a vuestros
+              flujos de trabajo)  que NO suele estar publicado en ningún sitio y
+              solo se transmite «boca a boca», pero TAMBIEN vuestras inquietudes
+              respecto a cómo va a cambiar esto vuestro trabajo...  o vuestro
+              miedo a que os pueda llevar a perderlo. Ningún tema sobra.
+              </br></br> Dirigido por <a href="https://x.com/merybere"
+              target="_blank">@merybere</a>  —con amplia experiencia dinamizando
+              conferencias <i>ágiles</i>—  y dos TITANES del ecosistema IA, como
+              son  <a href="https://x.com/dobleio" target="_blank">@dobleio</a>
+              y <a href="https://x.com/root_rat" target="_blank">@root_rat</a>.
+            speakers: []
+          - time: '11:00 - 17:00h'
+            title: Pintacaras
+            id: pintacaras
+            track: zona-infantil
+            speakers: []
+          - time: '11:00 - 17:00h'
+            title: Campos de Minigolf ⛳
+            id: minigolf
+            track: zona-infantil
+            description: '4 campos de juego de 3 x 1,5 metros.'
+            speakers: []
+          - time: '11:00 - 17:00h'
+            title: Ludoteca
+            id: ludoteca
+            track: zona-infantil
+            description: |-
+              Zona de juegos para edades de 3 a 6 años, compuesta por:
+
+              * Tapiz de suelo con construcciones
+              * Toboganes
+              * Balancines
+              * Mesas y silla para taller de pinta y colorea
+            speakers: []
+          - time: '11:00 - 17:00h'
+            title: "Máquina de Baile \U0001F57A"
+            id: baile
+            track: zona-infantil
             speakers: []
   - type: separator
     width: is-default

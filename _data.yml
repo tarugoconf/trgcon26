@@ -8,7 +8,7 @@ metas:
   generator: true
   image: /files/img-home.png
   twitter: '@tarugoconf'
-state: pre-event
+state: event
 cta:
   text: NETWORKING
   url: /networking/
