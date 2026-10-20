@@ -297,17 +297,11 @@ blocks:
             speakers:
               - cristian
           - time: '11:45 - 12:00h'
-            title: ¡Atrápalos a todos!
-            subtitle: Demo del juego de cartas tipo Pokemon de la TRG26
+            title: ¡El Precio Justo!
             description: >-
-              Como en cada edición, cada asistente se llevará a casa
-              COMPLETAMENTE GRATIS un juego de mesa original que disfrutar con
-              amigos y familia.
-
-
-              En este ocasión, tendremos una versión de uno de los juegos de
-              cartas más populares —Pokemon— que nos permitirá aprender a jugar
-              al mismo y conocer el enorme ecosistema alrededor.
+              Un concursote de Lanzarote en el que los asistentes de la TRG
+              podrán demostrar sus conocimientos sobre el *bisnes* de la
+              Informática y ganar suculentos premios.
             speakers: []
           - time: '12:00 - 12:45h'
             title: ☕ Coffe Break
@@ -320,12 +314,13 @@ blocks:
               Robot](https://www.youtube.com/watch?v=ltXX9Ab6vuo){target="_blank"}—,
               que pinchará los mejores mixes de la bandaza sonora de Miami Vice.
             speakers: []
-          - time: '12:45 - 13:00h'
-            title: ¡El precio Justo!
+          - time: '12:00 - 12:15h'
+            title: ¡El Precio Justo! (2ª parte)
             description: >-
-              Un concursote de Lanzarote en el que los asistentes de la TRG
-              podrán demostrar sus conocimientos sobre el *bisnes* de la
-              Informática y ganar suculentos premios.
+              Después de *la publicidad*, volvemos con la segunda parte de
+              nuestro concursote de Lanzarote en el que —para ganar— los
+              asistentes de la TRG habrán tenido que averiguar la respuesta a
+              una última pregunta durante la pausa del café!
             speakers: []
           - time: '13:00 - 13:45h'
             title: 'Matar al SaaS es fácil, lo difícil viene después'
@@ -402,12 +397,13 @@ blocks:
               Y, por supuesto, contaremos con opciones veganas y sin gluten.
             speakers: []
           - time: '16:30 - 16:45h'
-            title: ¿Qué saben los muggles de IA?
+            title: ¿Cuánto saben los muggles de IA?
             subtitle: Videoreportaje
             description: >-
-              Nuestros intrépidos reporteros se lanzarán a la calle, micrófono
-              en mano, para averiguar hasta qué sabe el público general de la IA
-              y su impacto.
+              Nuestros intrépido reportero [Antonio
+              Rodriguez](https://x.com/AntonioRoLo_){target="_blank"} se lanza a
+              la calle, micrófono en mano, para averiguar hasta qué sabe el
+              público general de la IA y su impacto.
             speakers: []
           - time: '16:45 - 17:30h'
             title: 'El Diseño post-chatGPT: eliminando barreras, no trabajos'
@@ -493,10 +489,10 @@ blocks:
             description: "Juanjo lleva más de diecinueve años trabajando como desarrollador. Y, como casi todos los programadores, contempla la inteligencia artificial con una mezcla de fascinación y cierta inquietud.\n\nPero Juanjo puede aportar una perspectiva especialmente reveladora sobre esta tecnología porque es ciego de nacimiento. Aunque ninguno sabemos muy bien qué futuro nos deparará la IA, él si puede afirmar con absoluta seguridad que lo ve NEGRO \U0001F60E\n \nEn esta charla, Juanjo nos mostrará las posibilidades y retos que ha introducido la IA en nuestro día a día —productividad, autonomía, dependencia de plataformas de terceros, falsas promesas, sesgos, el derribo de antiguas barreras y la aparición de otras nuevas— pero desde un prisma que las aumenta por 1.000, como es depender de la tecnología no por comodidad, sino para percibir el mundo y tomar decisiones diarias.\n\nUn prisma que, precisamente por eso, pone esas posibilidades y esos retos a la vista de todos, ciegos o no."
             speakers:
               - juanjo
-          - time: '20:00 - 20:30h'
-            title: Rendición de cuentas
-            id: rendicion-cuentas
-            description: "Como ya es tradición, **haremos públicas todas las cifras del evento** -fuentes de ingresos, partidas de gastos y cuenta de resultados- y... confirmaremos si habrá o no TRG el próximo año \U0001F631"
+          - time: '20:00 - 20:15h'
+            title: ¿Y el año que viene?
+            id: trg27
+            description: "Como ya es tradición, **con las cuentas del evento ya claras** —fuentes de ingresos, partidas de gastos y cuenta de resultados-, es el momento de volver la vista atrás, mirar hacia delante y... confirmar si habrá o no TRG el próximo año \U0001F631"
             speakers:
               - david-bonilla
           - time: '20:30 - 22:30h'
