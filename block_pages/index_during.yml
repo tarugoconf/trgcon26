@@ -123,9 +123,12 @@ menu:
     highlight: false
   - text: Partners
     url: '#partners'
+    highlight: false
+  - text: Community Day
+    url: /community-day
     highlight: true
-  - text: Dónde
-    url: '#location'
+  - text: DesconferencIA
+    url: 'https://desconferencia.trgcon.com'
     highlight: false
   - text: FAQ
     url: '#faq'
@@ -750,9 +753,11 @@ blocks:
             label: DesconferencIA
             track: cafeteria
             description: >-
-              La DesconferencIA es un *open space* así que serán los propios
-              participantes los que decidirán los contenidos de la
-              des-conferencia en este mercado de ideas.
+              La
+              [DesconferencIA](https://desconferencia.trgcon.com/){target="_blank"}
+              es un *open space* así que serán los propios participantes los que
+              decidirán los contenidos de la des-conferencia en este mercado de
+              ideas.
 
 
               ____
@@ -796,9 +801,10 @@ blocks:
             label: DesconferencIA
             track: cafeteria
             description: >-
-              Se celebrarán las sesiones que hayan salido del marketplace de
-              ideas, tanto en **la cafetería de La Nave** (2 sitios) como en
-              **el Auditorio** (otros dos).
+              Se celebrarán las sesiones de la
+              [DesconferencIA](https://desconferencia.trgcon.com/){target="_blank"}
+              que hayan salido del marketplace de ideas, tanto en **la cafetería
+              de La Nave** (2 sitios) como en **el Auditorio** (otros dos).
 
 
               Tanto el emplazamiento definitivo como los horarios dependerán de
@@ -837,9 +843,10 @@ blocks:
             label: DesconferencIA
             track: auditorio
             description: >-
-              Se celebrarán las sesiones que hayan salido del marketplace de
-              ideas, tanto en **la cafetería de La Nave** (2 sitios) como en
-              **el Auditorio** (otros dos).
+              Se celebrarán las sesiones de la
+              [DesconferencIA](https://desconferencia.trgcon.com/){target="_blank"}
+              que hayan salido del marketplace de ideas, tanto en **la cafetería
+              de La Nave** (2 sitios) como en **el Auditorio** (otros dos).
 
 
               Tanto el emplazamiento definitivo como los horarios dependerán de

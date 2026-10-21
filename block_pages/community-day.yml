@@ -28,9 +28,11 @@ blocks:
           - Adultos
         img: /files/activities/tarugoff.jpeg
         description: >-
-          Este año, enfocamos nuestro tradicional *open space* para convertirlo
-          en  <b>un espacio donde poder hablar tanto de las oportunidades como
-          de las incertidumbres que ha introducido la IA en nuestro día a
+          (tenéis toda la info en:
+          [desconferencia.trgcon.com](https://desconferencia.trgcon.com/){target="_blank"})</br></br>Este
+          año, enfocamos nuestro tradicional *open space* para convertirlo en 
+          <b>un espacio donde poder hablar tanto de las oportunidades como de
+          las incertidumbres que ha introducido la IA en nuestro día a
           día</b>,       en un ambiente relajado y amigable,        donde TOD@S
           tendremos la oportunidad de escuchar y ser escuchados.    
           </br></br>      Las personas que asistáis podréis compartir y acceder
@@ -63,16 +65,6 @@ blocks:
           participar o disfruta del espectáculo como espectador!
         wide: false
         style: is-secondary
-      - title: <b>Taller de Yoyó</b>
-        tags:
-          - Jovenes
-          - Adultos
-        img: /files/activities/yoyob.webp
-        description: >-
-          Aprende a hacer algunos de los trucos más espectaculares del mundo del
-          yoyó, como «el dormilón» o el <i>off-string</i>, en una master class
-          sobre uno de los juguetes más antiguos del mundo.
-        wide: false
       - title: <b>Realidad Virtual en Grupo</b>
         tags:
           - Niños
@@ -105,19 +97,6 @@ blocks:
           recreativas.</br></br>Disfruta, SIN TENER QUE ECHAR 25 PESETAS, de
           alguno de los mejores videojuegos de la historia en encarnizados
           campeonatos improvisados con tus amigos, familia u otros asistentes.
-        wide: false
-      - title: <b>Exhibición de Magia</b>
-        tags:
-          - Niños
-          - Jóvenes
-          - Mayores
-        img: /files/activities/tar_magia.jpg
-        description: >-
-          El mítico [Juan
-          Tomas](https://twitter.com/juantomas){target="_blank"}, uno de los
-          pocos magos grises aun en activo que conoció las tarjetas perforadas,
-          nos obsequiará con unos trucos de ***mágia informática*** que
-          disfrutarán grandes y pequeños.
         wide: false
       - title: <b>Scalextric Gigante</b>
         tags:
@@ -160,6 +139,18 @@ blocks:
           Pequeños y mayores aprenderán las reglas básicas del ajedrez, para
           aprender divirtiéndose y adquirir una base que permita seguir
           descubriendo este apasionante juego.
+        wide: false
+      - title: <b>Taller de Sketchnoting</b>
+        tags:
+          - Niños
+          - Jóvenes
+          - Mayores
+        img: /files/activities/oyabun24.jpeg
+        description: >-
+          Aprende a dibujar ideas.</br></br>Impartido por el mítico <a
+          href="https://twitter.com/oyabun" target="_blank">Javier «Oyabun»
+          Alonso</a>, Product Designer en Docker y sketchnoter oficial de la
+          TRG.
         wide: false
       - title: <b>Juegos «Desenchufados»</b>
         tags:
